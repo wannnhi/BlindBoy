@@ -14,7 +14,7 @@ public class Entity : MonoBehaviour
             .ForEach(component => _components.Add(component.GetType(), component));
 
         InitComponents();
-        AfterInitialize();
+        AfterInit();
     }
 
     private void InitComponents()
@@ -22,31 +22,30 @@ public class Entity : MonoBehaviour
         _components.Values.ToList().ForEach(component => component.Initialize(this));
     }
 
-    protected virtual void AfterInitialize()
+    protected virtual void AfterInit()
     {
-        _components.Values.ToList().ForEach(component =>
-        {
-            if (component is IAfterInitable afterInitable)
+        _components.Values.ToList().ForEach(component => {
+            if(component is IAfterInitable afterInitable)
             {
                 afterInitable.AfterInit();
             }
         });
     }
 
-
     public T GetCompo<T>(bool isDerived = false) where T : IEntityComponent
     {
-        if(_components.TryGetValue(typeof(T), out IEntityComponent compo))
+        if(_components.TryGetValue(typeof(T), out IEntityComponent component))
         {
-            return (T)compo;
+            return (T)component;
         }
-        if(isDerived != false)
-        {
 
+        if(isDerived == true)
+        {
             Type findType = _components.Keys.FirstOrDefault(t => t.IsSubclassOf(typeof(T)));
-            if(findType != null)
+            if (findType != null)
                 return (T)_components[findType];
         }
+
         return default;
     }
 }

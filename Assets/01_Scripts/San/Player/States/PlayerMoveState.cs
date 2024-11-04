@@ -14,14 +14,11 @@ public class PlayerMoveState : EntityState
     public override void Update()
     {
         base.Update();
+        float xMove = _player.PlayerInput.InputDirection.x;
 
-        Vector2 moveInput = _player.PlayerInput.InputDirection;
+        _mover.SetXMovement(xMove);
 
-        _mover.SetMovement(moveInput);
-
-        if (Mathf.Approximately(moveInput.magnitude, 0))
-        {
-            _player.ChangeState(_player.idleState);
-        }
+        if (Mathf.Approximately(xMove, 0))
+            _player.ChangeState("Idle");
     }
 }
