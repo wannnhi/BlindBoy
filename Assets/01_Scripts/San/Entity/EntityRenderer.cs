@@ -27,15 +27,23 @@ public class EntityRenderer : MonoBehaviour, IEntityComponent
     public void Flip()
     {
         FacingDirection *= -1;
-        _entity.transform.Rotate(0, 180f, 0);
+        float xScale = _entity.transform.localScale.x;
+        _entity.transform.localScale = new Vector3(xScale * -1, _entity.transform.localScale.y, _entity.transform.localScale.z);
     }
 
     public void FlipController(float xMove)
     {
-        if (Mathf.Abs(FacingDirection + xMove) < 0.5f)
-            Flip();
+        if (Mathf.Abs(xMove) > 0.01f)
+        {
+            if ((xMove > 0 && FacingDirection < 0) || (xMove < 0 && FacingDirection > 0))
+            {
+                Flip();
+            }
+        }
     }
 
-    
+
+
+
     #endregion
 }

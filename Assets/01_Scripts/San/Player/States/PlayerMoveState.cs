@@ -19,11 +19,7 @@ public class PlayerMoveState : EntityState
 
         _mover.SetMovementInput(moveDirection);
 
-        if (moveDirection != Vector2.zero)
-        {
-            _player.AnimCompo.SetFloat("LastMoveX", moveDirection.x);
-            _player.AnimCompo.SetFloat("LastMoveY", moveDirection.y);
-        }
+        
         if (moveDirection == Vector2.zero)
             _player.ChangeState("Idle");
     }

@@ -4,6 +4,8 @@ using UnityEngine;
 public class EntityMover : MonoBehaviour, IEntityComponent
 {
     [Header("Move values")]
+    [SerializeField] private AnimParamSO LastMoveX;
+    [SerializeField] private AnimParamSO LastMoveY;
     [SerializeField] private float _moveSpeed = 5f;
 
     public Vector2 Velocity => _rbCompo.linearVelocity;
@@ -54,8 +56,18 @@ public class EntityMover : MonoBehaviour, IEntityComponent
 
             if (_renderer != null)
             {
-                _renderer.FlipController(_movementInput.x);
+                if (Mathf.Abs(_movementInput.x) > 0.01f)
+                {
+                    _renderer.FlipController(_movementInput.x * -1);
+                }
             }
         }
+
+        if (_movementInput != Vector2.zero)
+        {
+            _renderer.SetParam(LastMoveX, _movementInput.x);
+            _renderer.SetParam(LastMoveY, _movementInput.y);
+        }
     }
+
 }
