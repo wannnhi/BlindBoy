@@ -2,5 +2,5 @@ using UnityEngine;
 
 public interface IAfterInitable
 {
-    public virtual void AfterInit() { }
+    public void AfterInit();
 }

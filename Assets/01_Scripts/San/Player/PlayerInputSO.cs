@@ -2,15 +2,14 @@ using System;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
-[CreateAssetMenu(fileName = "PlayerInputSO", menuName = "SO/Input/PlayerInputSO")]
+[CreateAssetMenu(fileName = "PlayerInputSO", menuName = "SO/PlayerInputSO")]
 public class PlayerInputSO : ScriptableObject, Controls.IPlayerActions
 {
-
-    public event Action LMouseEvent;
-    public event Action RMouseEvent;
-    public event Action QSkillEvent;
-    public event Action ESkillEvent;
-        
+    public event Action OnLMouseEvent;
+    public event Action OnRMouseEvent;
+    public event Action OnQSkillEvent;
+    public event Action OnESkillEvent;
+    
     public Vector2 InputDirection { get; private set; }
 
     private Controls _controls;
@@ -24,7 +23,7 @@ public class PlayerInputSO : ScriptableObject, Controls.IPlayerActions
         }
         _controls.Player.Enable();
     }
-    
+
     private void OnDisable()
     {
         _controls.Player.Disable();
@@ -38,24 +37,24 @@ public class PlayerInputSO : ScriptableObject, Controls.IPlayerActions
     public void OnLMouse(InputAction.CallbackContext context)
     {
         if (context.performed)
-            LMouseEvent?.Invoke();
+            OnLMouseEvent?.Invoke();
     }
 
     public void OnRMouse(InputAction.CallbackContext context)
     {
-        if(context.performed)
-            RMouseEvent?.Invoke();
+        if (context.performed)
+            OnRMouseEvent?.Invoke();
     }
 
     public void OnQSkill(InputAction.CallbackContext context)
     {
         if(context.performed)
-            QSkillEvent?.Invoke();
+            OnQSkillEvent?.Invoke();
     }
 
     public void OnESkill(InputAction.CallbackContext context)
     {
         if(context.performed)
-            ESkillEvent?.Invoke();
+            OnESkillEvent?.Invoke();
     }
 }

@@ -1,4 +1,3 @@
-using NUnit.Framework;
 using System;
 using System.Collections.Generic;
 using UnityEngine;
@@ -6,50 +5,61 @@ using UnityEngine;
 public class Player : Entity
 {
     [Header("FSM")]
-    public StateSO idleState;
-    public StateSO moveState;
-    [SerializeField] private List<StateSO> _stateList;
+    [SerializeField] private EntityStatesSO _playerFSM;
 
     [field: SerializeField] public PlayerInputSO PlayerInput { get; private set; }
 
+    public EntityState CurrentState => _stateMachine.currentState;
+
+    private int _currentJumpCount = 0;
     private EntityMover _mover;
+    private PlayerAttackCompo _atkCompo;
+
     private StateMachine _stateMachine;
-    private Dictionary<StateSO, EntityState> _stateDictionary;
 
-    protected override void Awake()
+    protected override void AfterInit()
     {
-        base.Awake();
+        base.AfterInit();
+
         _mover = GetCompo<EntityMover>();
+        _atkCompo = GetCompo<PlayerAttackCompo>();
 
-        _stateMachine = new StateMachine();
-        _stateDictionary = new Dictionary<StateSO, EntityState>();
+        _stateMachine = new StateMachine(_playerFSM, this);
 
-        foreach (StateSO state in _stateList)
-        {
-            try
-            {
-                Type type = Type.GetType(state.className);
-                var playerState = Activator.CreateInstance(type, this, state.stateAnim) as EntityState;
-                _stateDictionary.Add(state, playerState);
-            }
-            catch (Exception ex)
-            {
-                Debug.LogError($"<color=red>{state.className}</color> loading error, Message : {ex.Message}");
-            }
-        }
+        PlayerInput.OnRMouseEvent += HandleAttackEvent;
+
+        GetCompo<EntityAnimator>().OnAnimationEnd += HandleAnimationEnd;
+    }
+
+    private void HandleAnimationEnd()
+    {
+        CurrentState.AnimationEndTrigger();
+    }
+
+    private void HandleAttackEvent()
+    {
+        if (_atkCompo.AttemptAttack())
+            ChangeState("Attack");
+    }
+
+
+    private void OnDestroy()
+    {
+        PlayerInput.OnRMouseEvent -= HandleAttackEvent;
+        GetCompo<EntityAnimator>().OnAnimationEnd -= HandleAnimationEnd;
     }
 
     private void Start()
     {
-        _stateMachine.Initialize(GetState(idleState));
+        _stateMachine.Initialize("Idle");
     }
 
-    public EntityState GetState(StateSO state) => _stateDictionary.GetValueOrDefault(state);
+    public EntityState GetState(StateSO state) 
+        => _stateMachine.GetState(state.stateName);
 
-    public void ChangeState(StateSO newState)
-    {
-        _stateMachine.ChangeState(GetState(newState));
-    }
+    public void ChangeState(string newState) 
+        => _stateMachine.ChangeState(newState);
+    
 
     private void Update()
     {
