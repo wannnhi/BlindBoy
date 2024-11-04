@@ -14,14 +14,15 @@ public class PlayerIdleState : EntityState
     public override void Enter()
     {
         base.Enter();
-        _mover.StopImmediately(false);
+        _mover.StopImmediately();
     }
 
     public override void Update()
     {
         base.Update();
         float xMove = _player.PlayerInput.InputDirection.x;
-        if (Mathf.Abs(xMove) > 0)
+        float yMove = _player.PlayerInput.InputDirection.y;
+        if (Mathf.Abs(xMove) > 0 || Mathf.Abs(yMove) > 0)
             _player.ChangeState("Move");
     }
 }

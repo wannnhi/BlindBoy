@@ -4,14 +4,7 @@ using UnityEngine;
 public class EntityMover : MonoBehaviour, IEntityComponent
 {
     [Header("Move values")]
-    [SerializeField] private AnimParamSO _ySpeedParam;
     [SerializeField] private float _moveSpeed = 5f;
-
-    [SerializeField] private Transform _groundTrm;
-    [SerializeField] private LayerMask _whatIsGround;
-    [SerializeField] private Vector2 _groundCheckSize;
-
-    public bool IsGrounded { get; private set; }
 
     public Vector2 Velocity => _rbCompo.linearVelocity;
 
@@ -22,7 +15,7 @@ public class EntityMover : MonoBehaviour, IEntityComponent
     private EntityRenderer _renderer;
     private Rigidbody2D _rbCompo;
 
-    private float _xMovement;
+    private Vector2 _movementInput;
 
     public void Initialize(Entity entity)
     {
@@ -36,18 +29,15 @@ public class EntityMover : MonoBehaviour, IEntityComponent
         _rbCompo.AddForce(force, mode);
     }
 
-    public void StopImmediately(bool isYAxisToo = false)
+    public void StopImmediately()
     {
-        if (isYAxisToo)
-            _rbCompo.linearVelocity = Vector2.zero;
-        else
-            _rbCompo.linearVelocityX = 0;
-        _xMovement = 0;
+        _rbCompo.linearVelocity = Vector2.zero;
+        _movementInput = Vector2.zero;
     }
 
-    public void SetXMovement(float xMovement)
+    public void SetMovementInput(Vector2 input)
     {
-        _xMovement = xMovement;
+        _movementInput = input;
     }
 
     private void FixedUpdate()
@@ -59,19 +49,13 @@ public class EntityMover : MonoBehaviour, IEntityComponent
     {
         if (CanManualMove)
         {
-            _rbCompo.linearVelocityX = _xMovement * _moveSpeed * SpeedMultiplier;
-            _renderer.FlipController(_xMovement);
+            Vector2 movement = _movementInput * _moveSpeed * SpeedMultiplier;
+            _rbCompo.linearVelocity = movement;
+
+            if (_renderer != null)
+            {
+                _renderer.FlipController(_movementInput.x);
+            }
         }
-        
-        _renderer.SetParam(_ySpeedParam, _rbCompo.linearVelocityY);
     }
-
-    private void OnDrawGizmos()
-    {
-        if (_groundTrm == null) return;
-        Gizmos.color = Color.red;
-        Gizmos.DrawWireCube(_groundTrm.position, _groundCheckSize);
-    }
-
-    
 }

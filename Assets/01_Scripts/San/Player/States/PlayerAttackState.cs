@@ -14,7 +14,7 @@ public class PlayerAttackState : EntityState
     public override void Enter()
     {
         base.Enter();
-        _mover.StopImmediately(false);
+        _mover.StopImmediately();
     }
 
     public override void Update()
