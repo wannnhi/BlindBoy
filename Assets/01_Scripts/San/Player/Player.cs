@@ -14,6 +14,7 @@ public class Player : Entity
     private int _currentJumpCount = 0;
     private EntityMover _mover;
     private PlayerAttackCompo _atkCompo;
+    public Animator AnimCompo { get; private set; }
 
     private StateMachine _stateMachine;
 
@@ -23,7 +24,7 @@ public class Player : Entity
 
         _mover = GetCompo<EntityMover>();
         _atkCompo = GetCompo<PlayerAttackCompo>();
-
+        AnimCompo = GetComponentInChildren<Animator>();
         _stateMachine = new StateMachine(_playerFSM, this);
 
         PlayerInput.OnRMouseEvent += HandleAttackEvent;

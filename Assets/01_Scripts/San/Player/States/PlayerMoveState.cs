@@ -14,11 +14,17 @@ public class PlayerMoveState : EntityState
     public override void Update()
     {
         base.Update();
-        float xMove = _player.PlayerInput.InputDirection.x;
 
-        _mover.SetXMovement(xMove);
+        Vector2 moveDirection = _player.PlayerInput.InputDirection;
 
-        if (Mathf.Approximately(xMove, 0))
+        _mover.SetMovementInput(moveDirection);
+
+        if (moveDirection != Vector2.zero)
+        {
+            _player.AnimCompo.SetFloat("LastMoveX", moveDirection.x);
+            _player.AnimCompo.SetFloat("LastMoveY", moveDirection.y);
+        }
+        if (moveDirection == Vector2.zero)
             _player.ChangeState("Idle");
     }
 }
