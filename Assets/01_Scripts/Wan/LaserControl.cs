@@ -14,8 +14,15 @@ public class LaserControl : MonoBehaviour
         mousePosition.z = 0f; 
 
         Vector3 direction = (mousePosition - player.position).normalized;
-  
-        sprite.position = player.position + direction * distanceFromPlayer;
+
+        try
+        {
+            sprite.position = player.position + direction * distanceFromPlayer;
+        }
+        catch (System.Exception)
+        {
+            Debug.Log("±è¿¬È£ º´½Å");
+        }
 
         float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg;
         sprite.rotation = Quaternion.Euler(0, 0, angle);
