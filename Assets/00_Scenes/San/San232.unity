@@ -163,6 +163,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 81f171c73930f714aa8e9ad316be64d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  LastMoveX: {fileID: 11400000, guid: 2d9b7d1ed727a6a479dd34a7cd43ca3c, type: 2}
+  LastMoveY: {fileID: 11400000, guid: 68bac431bd1057b4eb0551510eb0c492, type: 2}
   _moveSpeed: 5
 --- !u!1 &361227448
 GameObject:
