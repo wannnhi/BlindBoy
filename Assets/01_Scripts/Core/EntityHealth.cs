@@ -9,7 +9,7 @@ public class EntityHealth : MonoBehaviour, IEntityComponent
 
     public float CurrentHealth;
     Entity _onwer;
-    EntityMover _mover;
+    EntityTopDownMover _mover;
 
     public bool IsHittable { get; set; } = true;
 
@@ -22,7 +22,7 @@ public class EntityHealth : MonoBehaviour, IEntityComponent
     public void Initialize(Entity agent)
     {
         _onwer = agent;
-        _mover = _onwer.GetCompo<EntityMover>();
+        _mover = _onwer.GetCompo<EntityTopDownMover>();
         ResetHealth();
     }
     public void ResetHealth()

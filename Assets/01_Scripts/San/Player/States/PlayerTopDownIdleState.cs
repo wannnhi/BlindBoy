@@ -1,14 +1,14 @@
 using UnityEngine;
 
-public class PlayerIdleState : EntityState
+public class PlayerTopDownIdleState : EntityState
 {
-    private Player _player;
-    private EntityMover _mover;
+    private TopDownPlayer _player;
+    private EntityTopDownMover _mover;
 
-    public PlayerIdleState(Entity entity, AnimParamSO animParam) : base(entity, animParam)
+    public PlayerTopDownIdleState(Entity entity, AnimParamSO animParam) : base(entity, animParam)
     {
-        _player = entity as Player;
-        _mover = entity.GetCompo<EntityMover>();
+        _player = entity as TopDownPlayer;
+        _mover = entity.GetCompo<EntityTopDownMover>();
     }
 
     public override void Enter()
