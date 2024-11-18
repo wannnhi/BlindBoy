@@ -7,13 +7,13 @@ public abstract class EntityState
     protected AnimParamSO _animParam;
     protected bool _isTriggerCall;
 
-    protected EntityTopDownRenderer _renderer;
+    protected EntityRenderer _renderer;
 
     public EntityState(Entity entity, AnimParamSO animParam)
     {
         _entity = entity;
         _animParam = animParam;
-        _renderer = _entity.GetCompo<EntityTopDownRenderer>();
+        _renderer = _entity.GetCompo<EntityRenderer>();
     }
 
     public virtual void Enter()

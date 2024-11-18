@@ -5,10 +5,10 @@ using UnityEngine.InputSystem;
 [CreateAssetMenu(fileName = "PlayerInputSO", menuName = "SO/PlayerInputSO")]
 public class PlayerInputSO : ScriptableObject, Controls.IPlayerActions
 {
-    public event Action OnLMouseEvent;
-    public event Action OnRMouseEvent;
-    public event Action OnQSkillEvent;
-    public event Action OnESkillEvent;
+    public event Action JumpEvent;
+    public event Action AttackEvent;
+    public event Action LandingEvent;
+    public event Action DashEvent;
     
     public Vector2 InputDirection { get; private set; }
 
@@ -26,35 +26,31 @@ public class PlayerInputSO : ScriptableObject, Controls.IPlayerActions
 
     private void OnDisable()
     {
-        _controls.Player.Disable();
+        _controls.Player.Disable(); //이거 유니티6부터 반드시 해줘야 한다.
     }
 
     public void OnMove(InputAction.CallbackContext context)
     {
-        InputDirection = context.ReadValue<Vector2>();
+        throw new NotImplementedException();
     }
 
     public void OnLMouse(InputAction.CallbackContext context)
     {
-        if (context.performed)
-            OnLMouseEvent?.Invoke();
+        throw new NotImplementedException();
     }
 
     public void OnRMouse(InputAction.CallbackContext context)
     {
-        if (context.performed)
-            OnRMouseEvent?.Invoke();
+        throw new NotImplementedException();
     }
 
     public void OnQSkill(InputAction.CallbackContext context)
     {
-        if(context.performed)
-            OnQSkillEvent?.Invoke();
+        throw new NotImplementedException();
     }
 
     public void OnESkill(InputAction.CallbackContext context)
     {
-        if(context.performed)
-            OnESkillEvent?.Invoke();
+        throw new NotImplementedException();
     }
 }
