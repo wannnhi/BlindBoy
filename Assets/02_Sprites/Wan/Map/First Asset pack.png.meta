@@ -1,0 +1,289 @@
+fileFormatVersion: 2
+guid: 3ab5030da82042d4a86802511b945e9e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4635682285510260054
+    second: First Asset pack_0
+  - first:
+      213: -8955989881456161296
+    second: First Asset pack_1
+  - first:
+      213: -7905424314582090560
+    second: First Asset pack_2
+  - first:
+      213: -6498024855133280392
+    second: First Asset pack_3
+  - first:
+      213: 3647872620889847744
+    second: First Asset pack_4
+  - first:
+      213: 1603238771598124081
+    second: First Asset pack_5
+  - first:
+      213: -3467316236647503110
+    second: First Asset pack_6
+  - first:
+      213: -6140216523436870760
+    second: First Asset pack_7
+  - first:
+      213: -1747590518431177268
+    second: First Asset pack_8
+  - first:
+      213: 7259441721842621191
+    second: First Asset pack_9
+  - first:
+      213: -2540326973299363085
+    second: First Asset pack_10
+  - first:
+      213: -1680587756725953608
+    second: First Asset pack_11
+  - first:
+      213: 5660252129397629680
+    second: First Asset pack_12
+  - first:
+      213: 3242799718470642475
+    second: First Asset pack_13
+  - first:
+      213: -8879688219362438816
+    second: First Asset pack_14
+  - first:
+      213: -9038659470070497423
+    second: First Asset pack_15
+  - first:
+      213: -170779123951877861
+    second: First Asset pack_16
+  - first:
+      213: 4116147641160895590
+    second: First Asset pack_17
+  - first:
+      213: 7034764701744924078
+    second: First Asset pack_18
+  - first:
+      213: 7959154913729419554
+    second: First Asset pack_19
+  - first:
+      213: 6606018922332637150
+    second: First Asset pack_20
+  - first:
+      213: 6798183092280629490
+    second: First Asset pack_21
+  - first:
+      213: 3660255075706844153
+    second: First Asset pack_22
+  - first:
+      213: -8260133864841022463
+    second: First Asset pack_23
+  - first:
+      213: 1995551203899477267
+    second: First Asset pack_24
+  - first:
+      213: -5831522005008966807
+    second: First Asset pack_25
+  - first:
+      213: -6162066289186199641
+    second: First Asset pack_26
+  - first:
+      213: 5648484803216648173
+    second: First Asset pack_27
+  - first:
+      213: -6104727580810472929
+    second: First Asset pack_28
+  - first:
+      213: -5172304915823537547
+    second: First Asset pack_29
+  - first:
+      213: 6159752340329545736
+    second: First Asset pack_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: First Asset pack_18
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 191
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea586f5793180a160800000000000000
+      internalID: 7034764701744924078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d0599a1d9aa202d4cb1afc1945881434
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      First Asset pack_0: 4635682285510260054
+      First Asset pack_1: -8955989881456161296
+      First Asset pack_10: -2540326973299363085
+      First Asset pack_11: -1680587756725953608
+      First Asset pack_12: 5660252129397629680
+      First Asset pack_13: 3242799718470642475
+      First Asset pack_14: -8879688219362438816
+      First Asset pack_15: -9038659470070497423
+      First Asset pack_16: -170779123951877861
+      First Asset pack_17: 4116147641160895590
+      First Asset pack_18: 7034764701744924078
+      First Asset pack_19: 7959154913729419554
+      First Asset pack_2: -7905424314582090560
+      First Asset pack_20: 6606018922332637150
+      First Asset pack_21: 6798183092280629490
+      First Asset pack_22: 3660255075706844153
+      First Asset pack_23: -8260133864841022463
+      First Asset pack_24: 1995551203899477267
+      First Asset pack_25: -5831522005008966807
+      First Asset pack_26: -6162066289186199641
+      First Asset pack_27: 5648484803216648173
+      First Asset pack_28: -6104727580810472929
+      First Asset pack_29: -5172304915823537547
+      First Asset pack_3: -6498024855133280392
+      First Asset pack_30: 6159752340329545736
+      First Asset pack_4: 3647872620889847744
+      First Asset pack_5: 1603238771598124081
+      First Asset pack_6: -3467316236647503110
+      First Asset pack_7: -6140216523436870760
+      First Asset pack_8: -1747590518431177268
+      First Asset pack_9: 7259441721842621191
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
