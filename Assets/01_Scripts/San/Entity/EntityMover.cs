@@ -5,14 +5,12 @@ public class EntityMover : MonoBehaviour, IEntityComponent
 {
     [Header("Move values")]
     [SerializeField] private AnimParamSO _ySpeedParam;
-    [SerializeField] private float _moveSpeed = 5f;
 
     [SerializeField] private Transform _groundTrm;
     [SerializeField] private LayerMask _whatIsGround;
     [SerializeField] private Vector2 _groundCheckSize;
 
     public bool IsGrounded { get; private set; }
-    public event Action<bool> OnGroundStateChange;
 
     public Vector2 Velocity => _rbCompo.linearVelocity;
 
@@ -66,19 +64,16 @@ public class EntityMover : MonoBehaviour, IEntityComponent
 
     private void CheckGround()
     {
-        bool before = IsGrounded;
         IsGrounded = Physics2D.OverlapBox(
             _groundTrm.position, _groundCheckSize, 0, _whatIsGround);
 
-        if (before != IsGrounded)
-            OnGroundStateChange?.Invoke(IsGrounded);
     }
 
     private void MoveCharacter()
     {
         if (CanManualMove)
         {
-            _rbCompo.linearVelocityX = _xMovement * _moveSpeed * SpeedMultiplier;
+            _rbCompo.linearVelocityX = _xMovement * _entity.status.moveSpeed * SpeedMultiplier;
             _renderer.FlipController(_xMovement);
         }
         

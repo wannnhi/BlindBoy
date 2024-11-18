@@ -20,8 +20,12 @@ public class PlayerIdleState : EntityState
     public override void Update()
     {
         base.Update();
-        float xMove = _player.PlayerInput.InputDirection.x;
-        if (Mathf.Abs(xMove) > 0)
+        _player.target = GameObject.FindGameObjectWithTag("EnemyBuilding").transform;
+        if (_player.status.checkRadius <= _player.CheckEnemyDistance())
+        {
+            _player.ChangeState("Attack");
+        }
+        if (_player.target != null)
             _player.ChangeState("Move");
     }
 }

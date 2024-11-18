@@ -15,28 +15,22 @@ public abstract class PlayerAirState : EntityState
     public override void Enter()
     {
         base.Enter();
-        _mover.SpeedMultiplier = 0.7f;
-        _player.PlayerInput.LandingEvent += HandleLandingEvent;
-    }
-
-    private void HandleLandingEvent()
-    {
-        _mover.AddForceToEntity(new Vector2(0, -30f));
-        _player.ChangeState("Landing");
+        _mover.SpeedMultiplier = 0.6f;
     }
 
     public override void Update()
     {
         base.Update();
-        float xInput = _player.PlayerInput.InputDirection.x;
-        if (Mathf.Abs(xInput) > 0)
-            _mover.SetXMovement(xInput);
+        Vector2 moveDir = _player.target.position - _player.transform.position;
+        float xMove = moveDir.x;
+
+        if (Mathf.Abs(xMove) > 0)
+            _mover.SetXMovement(xMove);
 
     }
 
     public override void Exit()
     {
-        _player.PlayerInput.LandingEvent -= HandleLandingEvent;
         _mover.SpeedMultiplier = 1f;
         base.Exit();
     }

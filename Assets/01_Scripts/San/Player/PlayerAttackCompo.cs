@@ -9,7 +9,7 @@ public class PlayerAttackCompo : MonoBehaviour, IEntityComponent
     [SerializeField] private StateSO _dashState;
     [SerializeField] private AnimParamSO _atkTriggerParam;
     [SerializeField] private DamageCaster _damageCaster;
-
+    
     private Player _player;
     private float _lastAtkTime;
     private float _lastDashTime;

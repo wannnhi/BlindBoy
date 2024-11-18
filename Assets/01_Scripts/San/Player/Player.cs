@@ -7,11 +7,13 @@ public class Player : Entity
     [Header("FSM")]
     [SerializeField] private EntityStatesSO _playerFSM;
 
-    [field: SerializeField] public PlayerInputSO PlayerInput { get; private set; }
 
     public EntityState CurrentState => _stateMachine.currentState;
 
     public AnimParamSO hitGroundParam;
+
+    public Transform target;
+    public Transform atkTarget;
     public float jumpPower = 12f;
     public int jumpCount = 2;
     public float dashSpeed = 25f;
@@ -23,6 +25,7 @@ public class Player : Entity
 
     private StateMachine _stateMachine;
 
+
     protected override void AfterInit()
     {
         base.AfterInit();
@@ -32,15 +35,10 @@ public class Player : Entity
 
         _stateMachine = new StateMachine(_playerFSM, this);
 
-        _mover.OnGroundStateChange += HandleGroundStateChange;
-        PlayerInput.JumpEvent += HandleJumpEvent;
-        PlayerInput.AttackEvent += HandleAttackEvent;
-        PlayerInput.DashEvent += HandleDashEvent;
-
         GetCompo<EntityAnimator>().OnAnimationEnd += HandleAnimationEnd;
     }
 
-    private void HandleDashEvent()
+    public void HandleDash()
     {
         if(_atkCompo.AttemptDash())
         {
@@ -53,29 +51,55 @@ public class Player : Entity
         CurrentState.AnimationEndTrigger();
     }
 
-    private void HandleAttackEvent()
+    public void HandleAttack()
     {
         if (_atkCompo.AttemptAttack())
             ChangeState("Attack");
     }
 
-    private void HandleJumpEvent()
+    public float CheckEnemyDistance()
     {
-        if(_mover.IsGrounded || _currentJumpCount > 0)
-        {
-            string nextName = _currentJumpCount == jumpCount ? "Jump" : "DoubleJump";
-            _currentJumpCount--;
+        // 모든 충돌체 가져오기
+        Collider2D[] cols = Physics2D.OverlapCircleAll(transform.position, status.checkRadius, status.whatIsTarget);
 
-            ChangeState(nextName);
+        if (cols.Length > 0)
+        {
+            Collider2D closestTarget = null;
+            float closestDistance = float.MaxValue;
+
+            foreach (var col in cols)
+            {
+                Vector2 direction = col.transform.position - transform.position;
+                float distance = direction.magnitude;
+                float angle = Vector2.Angle(direction.normalized, transform.right);
+
+                if (angle <= status.checkAngle * 0.5f)
+                {
+                    RaycastHit2D hit = Physics2D.Raycast(transform.position, direction.normalized, distance, status.whatIsObstacle);
+
+                    if (hit.collider == null && col.TryGetComponent(out FSMEnemy enemy))
+                    {
+                        if (distance < closestDistance)
+                        {
+                            closestTarget = col;
+                            closestDistance = distance;
+                        }
+                    }
+                }
+            }
+
+            if (closestTarget != null)
+            {
+                atkTarget = closestTarget.transform;
+                return closestDistance;
+            }
         }
+
+        return -1f;
     }
 
     private void OnDestroy()
     {
-        _mover.OnGroundStateChange -= HandleGroundStateChange;
-        PlayerInput.JumpEvent -= HandleJumpEvent;
-        PlayerInput.AttackEvent -= HandleAttackEvent;
-        PlayerInput.DashEvent -= HandleDashEvent;
         GetCompo<EntityAnimator>().OnAnimationEnd -= HandleAnimationEnd;
     }
 
@@ -101,7 +125,3 @@ public class Player : Entity
         _stateMachine.currentState.Update();
     }
 }
-
-
-// 파생 클래스가 기본 클래스를 대체할 수 있어야 한다. 
-// 부모가 있던 곳에 자식을 넣으면 잘 굴러가야해
