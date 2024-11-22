@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-public class EntityRenderer : MonoBehaviour, IEntityComponent
+public class EntityTopDownRenderer : MonoBehaviour, IEntityComponent
 {
     public float FacingDirection { get; private set; } = 1; //오른쪽이 1, 왼쪽이 -1
     private Entity _entity;

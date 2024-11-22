@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-public class EntityMover : MonoBehaviour, IEntityComponent
+public class EntityTopDownMover : MonoBehaviour, IEntityComponent
 {
     [Header("Move values")]
     [SerializeField] private AnimParamSO LastMoveX;
@@ -14,7 +14,7 @@ public class EntityMover : MonoBehaviour, IEntityComponent
     public bool CanManualMove { get; set; } = true;
 
     private Entity _entity;
-    private EntityRenderer _renderer;
+    private EntityTopDownRenderer _renderer;
     private Rigidbody2D _rbCompo;
 
     private Vector2 _movementInput;
@@ -22,7 +22,7 @@ public class EntityMover : MonoBehaviour, IEntityComponent
     public void Initialize(Entity entity)
     {
         _entity = entity;
-        _renderer = _entity.GetCompo<EntityRenderer>();
+        _renderer = _entity.GetCompo<EntityTopDownRenderer>();
         _rbCompo = _entity.GetComponent<Rigidbody2D>();
     }
 

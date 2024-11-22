@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Player : Entity
+public class TopDownPlayer : Entity
 {
     [Header("FSM")]
     [SerializeField] private EntityStatesSO _playerFSM;
@@ -12,7 +12,7 @@ public class Player : Entity
     public EntityState CurrentState => _stateMachine.currentState;
 
     private int _currentJumpCount = 0;
-    private EntityMover _mover;
+    private EntityTopDownMover _mover;
     private PlayerAttackCompo _atkCompo;
 
     private StateMachine _stateMachine;
@@ -21,7 +21,7 @@ public class Player : Entity
     {
         base.AfterInit();
 
-        _mover = GetCompo<EntityMover>();
+        _mover = GetCompo<EntityTopDownMover>();
         _atkCompo = GetCompo<PlayerAttackCompo>();
         _stateMachine = new StateMachine(_playerFSM, this);
 

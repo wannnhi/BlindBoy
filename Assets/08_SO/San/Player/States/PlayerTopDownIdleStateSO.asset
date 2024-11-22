@@ -10,8 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 31e22f62e14e6f448910f16f8f2b5ebb, type: 3}
-  m_Name: PlayerMoveStateSO
+  m_Name: PlayerTopDownIdleStateSO
   m_EditorClassIdentifier: 
-  stateName: Move
-  className: PlayerMoveState
-  stateAnim: {fileID: 11400000, guid: a71eecf7137767d46b0f0b4be1dc7516, type: 2}
+  stateName: Idle
+  className: PlayerTopDownIdleState
+  stateAnim: {fileID: 11400000, guid: 67f0a57dcb4515d40bf53f9096936673, type: 2}
