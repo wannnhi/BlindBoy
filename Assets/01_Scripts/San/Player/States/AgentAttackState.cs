@@ -1,14 +1,14 @@
 using UnityEngine;
 
-public class PlayerAttackState : EntityState
+public class AgentAttackState : EntityState
 {
-    private Player _player;
+    private Agent _agent;
     private EntityMover _mover;
 
-    public PlayerAttackState(Entity entity, AnimParamSO animParam) : base(entity, animParam)
+    public AgentAttackState(Entity entity, AnimParamSO animParam) : base(entity, animParam)
     {
-        _player = entity as Player;
-        _mover = _player.GetCompo<EntityMover>();
+        _agent = entity as Agent;
+        _mover = _agent.GetCompo<EntityMover>();
     }
 
     public override void Enter()
@@ -30,7 +30,13 @@ public class PlayerAttackState : EntityState
         base.Update();
         if(_isTriggerCall)
         {
-            _player.ChangeState("Idle");
+            _agent.ChangeState("Idle");
         }
     }
+
+    private void FacingToEnemy()
+    {
+        
+    }
+
 }

@@ -2,13 +2,13 @@ using UnityEngine;
 
 public class PlayerDashState : EntityState
 {
-    private Player _player;
+    private Agent _player;
     private EntityMover _mover;
     private float _dashStartTime;
 
     public PlayerDashState(Entity entity, AnimParamSO animParam) : base(entity, animParam)
     {
-        _player = entity as Player;
+        _player = entity as Agent;
         _mover = entity.GetCompo<EntityMover>();
     }
 

@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Player : Entity
+public class Agent : Entity
 {
     [Header("FSM")]
     [SerializeField] private EntityStatesSO _playerFSM;
@@ -21,7 +21,7 @@ public class Player : Entity
 
     private int _currentJumpCount = 0;
     private EntityMover _mover;
-    private PlayerAttackCompo _atkCompo; // 1
+    private AttackCompo _atkCompo; // 1
 
     private StateMachine _stateMachine;
 
@@ -31,7 +31,7 @@ public class Player : Entity
         base.AfterInit();
 
         _mover = GetCompo<EntityMover>();
-        _atkCompo = GetCompo<PlayerAttackCompo>(); //2
+        _atkCompo = GetCompo<AttackCompo>(); //2
 
         _stateMachine = new StateMachine(_playerFSM, this);
 
@@ -40,7 +40,7 @@ public class Player : Entity
 
     public void HandleDash()
     {
-        if(_atkCompo.AttemptDash())
+        if(_atkCompo.AttemptSkill())
         {
             ChangeState("Dash");
         }
@@ -77,7 +77,7 @@ public class Player : Entity
                 {
                     RaycastHit2D hit = Physics2D.Raycast(transform.position, direction.normalized, distance, status.whatIsObstacle);
 
-                    if (hit.collider == null && col.TryGetComponent(out FSMEnemy enemy))
+                    if (hit.collider == null && col.TryGetComponent(out Agent enemy))
                     {
                         if (distance < closestDistance)
                         {

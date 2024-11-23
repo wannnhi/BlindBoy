@@ -3,7 +3,7 @@ using UnityEngine;
 public class PlayerLandingState : EntityState
 {
     private const float LANDING_DELAY_TIME = 0.3f;
-    private Player _player;
+    private Agent _player;
     private EntityMover _mover;
 
     private bool _isHitGround;
@@ -11,7 +11,7 @@ public class PlayerLandingState : EntityState
 
     public PlayerLandingState(Entity entity, AnimParamSO animParam) : base(entity, animParam)
     {
-        _player = entity as Player;
+        _player = entity as Agent;
         _mover = _player.GetCompo<EntityMover>();
     }
 

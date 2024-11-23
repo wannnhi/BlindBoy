@@ -1,14 +1,14 @@
 using System;
 using UnityEngine;
 
-public abstract class PlayerAirState : EntityState
+public abstract class AgentAirState : EntityState
 {
-    protected Player _player;
+    protected Agent _player;
     protected EntityMover _mover;
 
-    protected PlayerAirState(Entity entity, AnimParamSO animParam) : base(entity, animParam)
+    protected AgentAirState(Entity entity, AnimParamSO animParam) : base(entity, animParam)
     {
-        _player = entity as Player;
+        _player = entity as Agent;
         _mover = _player.GetCompo<EntityMover>();
     }
 

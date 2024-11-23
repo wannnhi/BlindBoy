@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class PlayerJumpState : PlayerAirState
+public class PlayerJumpState : AgentAirState
 {
     public PlayerJumpState(Entity entity, AnimParamSO animParam) : base(entity, animParam)
     {

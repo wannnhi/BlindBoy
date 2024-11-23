@@ -1,9 +1,9 @@
 using UnityEngine;
 
-public class PlayerFallState : PlayerAirState
+public class AgentFallState : AgentAirState
 {
 
-    public PlayerFallState(Entity entity, AnimParamSO animParam) : base(entity, animParam)
+    public AgentFallState(Entity entity, AnimParamSO animParam) : base(entity, animParam)
     {
     }
 
