@@ -5,7 +5,10 @@ using UnityEngine;
 
 public class Entity : MonoBehaviour
 {
+    public bool IsDead { get; set; }
     protected Dictionary<Type, IEntityComponent> _components;
+
+    public EnityStatus status;
 
     protected virtual void Awake()
     {
