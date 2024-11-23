@@ -6,6 +6,7 @@ public class InteractUI : MonoBehaviour
     private GameObject _outline;
     private Vector2 _temp;
     private Vector2 _scaledTemp;
+    private bool isOpened;
 
     [SerializeField] private RectTransform _interactFrame; 
 
@@ -20,28 +21,45 @@ public class InteractUI : MonoBehaviour
 
     private void OnMouseUp()
     {
-        transform.DOScale(_temp,0.1f).SetEase(Ease.OutCubic);
-        _interactFrame.DOScale(new Vector2(1,1), 0.1f).SetEase(Ease.InQuad);
+        if (!isOpened)
+        {
+            transform.DOScale(_temp, 0.1f).SetEase(Ease.OutCubic);
+            _interactFrame.DOScale(new Vector2(1, 1), 0.1f).SetEase(Ease.InQuad);
+            isOpened = true;
+        }
+        
+        
         
     }
 
     private void OnMouseDown()
     {
-        transform.DOScale(_scaledTemp, 0.1f).SetEase(Ease.InCubic);
+        if (!isOpened)
+        {
+            transform.DOScale(_scaledTemp, 0.1f).SetEase(Ease.InCubic);
+        }
+
     }
 
     private void OnMouseEnter()
     {
-        _outline.SetActive(true);   
+        if (!isOpened)
+        {
+            _outline.SetActive(true);
+        }
+
     }
 
     private void OnMouseExit()
-    {
-        _outline.SetActive(false);
+    { 
+            _outline.SetActive(false);
+
     }
 
     public void CloseUI()
     {
+        
         _interactFrame.DOScale(new Vector2(1, 0), 0.1f).SetEase(Ease.OutQuad);
+        isOpened = false;
     }
 }
