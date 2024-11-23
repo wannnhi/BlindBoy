@@ -3,6 +3,9 @@ using UnityEngine;
 [CreateAssetMenu(fileName = "EnityStatus", menuName = "SO/Entity/Status")]
 public class EnityStatus : ScriptableObject
 {
+    [Header("Health")]
+    public float maxHealth = 50f;
+
     [Header("Move")]
     public float moveSpeed = 5f;
     [Header("Skill")]
