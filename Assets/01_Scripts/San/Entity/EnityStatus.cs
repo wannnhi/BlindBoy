@@ -15,4 +15,11 @@ public class EnityStatus : ScriptableObject
     public float checkRadius = 3f;
     public float checkAngle = 60f;
     public LayerMask whatIsTarget, whatIsObstacle;
+
+    [Header("Upgrade")]
+    public int Upgraded = 0;
+
+    [Header("Price")]
+    public float SellPrice = 200f;
+
 }
