@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70ba79a7ff89d6c4d9a1f49bd6b3a1fb, type: 3}
   m_Name: 1.Dwarf
   m_EditorClassIdentifier: 
+  maxHealth: 50
   moveSpeed: 5
   skilCoolDown: 0
   skillDamage: 0
@@ -25,3 +26,5 @@ MonoBehaviour:
   whatIsObstacle:
     serializedVersion: 2
     m_Bits: 0
+  Upgraded: 0
+  SellPrice: 58172
