@@ -1,0 +1,1833 @@
+fileFormatVersion: 2
+guid: cb0daa32dd1022249b289e4907b4038e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5460437249782389195
+    second: Leaf Elemental S Sprite Sheet (1)_0
+  - first:
+      213: 6334091525606477434
+    second: Leaf Elemental S Sprite Sheet (1)_1
+  - first:
+      213: -1190620507474879290
+    second: Leaf Elemental S Sprite Sheet (1)_2
+  - first:
+      213: -1631915353032000936
+    second: Leaf Elemental S Sprite Sheet (1)_3
+  - first:
+      213: -3934127653903166868
+    second: Leaf Elemental S Sprite Sheet (1)_4
+  - first:
+      213: -7412069476155619520
+    second: Leaf Elemental S Sprite Sheet (1)_5
+  - first:
+      213: 2868384168796310768
+    second: Leaf Elemental S Sprite Sheet (1)_6
+  - first:
+      213: -6883382897240026399
+    second: Leaf Elemental S Sprite Sheet (1)_7
+  - first:
+      213: 6022553316275878746
+    second: Leaf Elemental S Sprite Sheet (1)_8
+  - first:
+      213: -570497000918448018
+    second: Leaf Elemental S Sprite Sheet (1)_9
+  - first:
+      213: 8697148785591724148
+    second: Leaf Elemental S Sprite Sheet (1)_10
+  - first:
+      213: 897493134453588589
+    second: Leaf Elemental S Sprite Sheet (1)_11
+  - first:
+      213: -8490786874728999099
+    second: Leaf Elemental S Sprite Sheet (1)_12
+  - first:
+      213: -8625751567880198773
+    second: Leaf Elemental S Sprite Sheet (1)_13
+  - first:
+      213: 8136958427928156001
+    second: Leaf Elemental S Sprite Sheet (1)_14
+  - first:
+      213: -5048412171293942760
+    second: Leaf Elemental S Sprite Sheet (1)_15
+  - first:
+      213: -5705950369851346940
+    second: Leaf Elemental S Sprite Sheet (1)_16
+  - first:
+      213: -6721642866694368068
+    second: Leaf Elemental S Sprite Sheet (1)_17
+  - first:
+      213: 2515848325663054875
+    second: Leaf Elemental S Sprite Sheet (1)_18
+  - first:
+      213: -6156994442380529078
+    second: Leaf Elemental S Sprite Sheet (1)_19
+  - first:
+      213: 8059088001557853618
+    second: Leaf Elemental S Sprite Sheet (1)_20
+  - first:
+      213: 7374793878747200558
+    second: Leaf Elemental S Sprite Sheet (1)_21
+  - first:
+      213: -3670386524935095502
+    second: Leaf Elemental S Sprite Sheet (1)_22
+  - first:
+      213: 6553089471842952987
+    second: Leaf Elemental S Sprite Sheet (1)_23
+  - first:
+      213: 5214488391176484635
+    second: Leaf Elemental S Sprite Sheet (1)_24
+  - first:
+      213: -3690853793916943464
+    second: Leaf Elemental S Sprite Sheet (1)_25
+  - first:
+      213: 4128971591182013904
+    second: Leaf Elemental S Sprite Sheet (1)_26
+  - first:
+      213: 3182258757600454471
+    second: Leaf Elemental S Sprite Sheet (1)_27
+  - first:
+      213: 5572372952354754869
+    second: Leaf Elemental S Sprite Sheet (1)_28
+  - first:
+      213: 1748183885566984381
+    second: Leaf Elemental S Sprite Sheet (1)_29
+  - first:
+      213: -4824432243259076999
+    second: Leaf Elemental S Sprite Sheet (1)_30
+  - first:
+      213: 7345997917565441714
+    second: Leaf Elemental S Sprite Sheet (1)_31
+  - first:
+      213: -4514226130318482865
+    second: Leaf Elemental S Sprite Sheet (1)_32
+  - first:
+      213: 2776634716750231521
+    second: Leaf Elemental S Sprite Sheet (1)_33
+  - first:
+      213: 349885344653906753
+    second: Leaf Elemental S Sprite Sheet (1)_34
+  - first:
+      213: -6783049396650633729
+    second: Leaf Elemental S Sprite Sheet (1)_35
+  - first:
+      213: 731619917394669971
+    second: Leaf Elemental S Sprite Sheet (1)_36
+  - first:
+      213: 1280613227290931513
+    second: Leaf Elemental S Sprite Sheet (1)_37
+  - first:
+      213: -2667466496558253093
+    second: Leaf Elemental S Sprite Sheet (1)_38
+  - first:
+      213: -3693733276212424548
+    second: Leaf Elemental S Sprite Sheet (1)_39
+  - first:
+      213: -8717556817729649538
+    second: Leaf Elemental S Sprite Sheet (1)_40
+  - first:
+      213: -4101407619420989246
+    second: Leaf Elemental S Sprite Sheet (1)_41
+  - first:
+      213: -3896692011443990368
+    second: Leaf Elemental S Sprite Sheet (1)_42
+  - first:
+      213: 2807739941057111476
+    second: Leaf Elemental S Sprite Sheet (1)_43
+  - first:
+      213: 2513026206610843198
+    second: Leaf Elemental S Sprite Sheet (1)_44
+  - first:
+      213: -5586776329729090656
+    second: Leaf Elemental S Sprite Sheet (1)_45
+  - first:
+      213: 365553049480989256
+    second: Leaf Elemental S Sprite Sheet (1)_46
+  - first:
+      213: 4866299718909814444
+    second: Leaf Elemental S Sprite Sheet (1)_47
+  - first:
+      213: 5010825853542918591
+    second: Leaf Elemental S Sprite Sheet (1)_48
+  - first:
+      213: -2322817622885066167
+    second: Leaf Elemental S Sprite Sheet (1)_49
+  - first:
+      213: 6769968052101796616
+    second: Leaf Elemental S Sprite Sheet (1)_50
+  - first:
+      213: 4140380772778516336
+    second: Leaf Elemental S Sprite Sheet (1)_51
+  - first:
+      213: -1342112069571050357
+    second: Leaf Elemental S Sprite Sheet (1)_52
+  - first:
+      213: 8420795514577163409
+    second: Leaf Elemental S Sprite Sheet (1)_53
+  - first:
+      213: -4638193544417717747
+    second: Leaf Elemental S Sprite Sheet (1)_54
+  - first:
+      213: -8893564855599361948
+    second: Leaf Elemental S Sprite Sheet (1)_55
+  - first:
+      213: -7455250069833527160
+    second: Leaf Elemental S Sprite Sheet (1)_56
+  - first:
+      213: -4289894045443471296
+    second: Leaf Elemental S Sprite Sheet (1)_57
+  - first:
+      213: 3322498870805880166
+    second: Leaf Elemental S Sprite Sheet (1)_58
+  - first:
+      213: 7970569563785439322
+    second: Leaf Elemental S Sprite Sheet (1)_59
+  - first:
+      213: -8161462529820363211
+    second: Leaf Elemental S Sprite Sheet (1)_60
+  - first:
+      213: 7333028230805792747
+    second: Leaf Elemental S Sprite Sheet (1)_61
+  - first:
+      213: -5787555022626786647
+    second: Leaf Elemental S Sprite Sheet (1)_62
+  - first:
+      213: 3698338458631617942
+    second: Leaf Elemental S Sprite Sheet (1)_63
+  - first:
+      213: -7999080063901451884
+    second: Leaf Elemental S Sprite Sheet (1)_64
+  - first:
+      213: 6380605213125025621
+    second: Leaf Elemental S Sprite Sheet (1)_65
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Leaf Elemental S Sprite Sheet (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc9179f7fbe57cb40800000000000000
+      internalID: 5460437249782389195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf Elemental S Sprite Sheet (1)_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e069edea637e750800000000000000
+      internalID: 6334091525606477434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf Elemental S Sprite Sheet (1)_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc1aa5e4f01a7fe0800000000000000
+      internalID: -1190620507474879290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf Elemental S Sprite Sheet (1)_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a7507f1a54a59e0800000000000000
+      internalID: -1631915353032000936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf Elemental S Sprite Sheet (1)_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c629f002ebb2769c0800000000000000
+      internalID: -3934127653903166868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf Elemental S Sprite Sheet (1)_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0478a3f051a032990800000000000000
+      internalID: -7412069476155619520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf Elemental S Sprite Sheet (1)_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc4574443c8ec720800000000000000
+      internalID: 2868384168796310768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf Elemental S Sprite Sheet (1)_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e2520589bf4970a0800000000000000
+      internalID: -6883382897240026399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf Elemental S Sprite Sheet (1)_8
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b79711558649350800000000000000
+      internalID: 6022553316275878746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf Elemental S Sprite Sheet (1)_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6884d210003518f0800000000000000
+      internalID: -570497000918448018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf Elemental S Sprite Sheet (1)_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4782ae3bdba72b870800000000000000
+      internalID: 8697148785591724148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf Elemental S Sprite Sheet (1)_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d62457b2049847c00800000000000000
+      internalID: 897493134453588589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf Elemental S Sprite Sheet (1)_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5479a34d25aaa2a80800000000000000
+      internalID: -8490786874728999099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf Elemental S Sprite Sheet (1)_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b856bb376ac2b4880800000000000000
+      internalID: -8625751567880198773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf Elemental S Sprite Sheet (1)_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16757c824984ce070800000000000000
+      internalID: 8136958427928156001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf Elemental S Sprite Sheet (1)_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c144ab0ef60f9b0800000000000000
+      internalID: -5048412171293942760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf Elemental S Sprite Sheet (1)_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 400700bbe5460d0b0800000000000000
+      internalID: -5705950369851346940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf Elemental S Sprite Sheet (1)_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb4d4afec6de7b2a0800000000000000
+      internalID: -6721642866694368068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf Elemental S Sprite Sheet (1)_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c58eff8b61ae220800000000000000
+      internalID: 2515848325663054875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf Elemental S Sprite Sheet (1)_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a42bad10d26fd8aa0800000000000000
+      internalID: -6156994442380529078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf Elemental S Sprite Sheet (1)_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b5f77aa6d1a7df60800000000000000
+      internalID: 8059088001557853618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf Elemental S Sprite Sheet (1)_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2cb37a95f7885660800000000000000
+      internalID: 7374793878747200558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf Elemental S Sprite Sheet (1)_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23bfcd0f6ea201dc0800000000000000
+      internalID: -3670386524935095502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf Elemental S Sprite Sheet (1)_23
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b172d86a72041fa50800000000000000
+      internalID: 6553089471842952987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf Elemental S Sprite Sheet (1)_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b17f87170959d5840800000000000000
+      internalID: 5214488391176484635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf Elemental S Sprite Sheet (1)_25
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8938da7870477ccc0800000000000000
+      internalID: -3690853793916943464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf Elemental S Sprite Sheet (1)_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5551439cd0d4930800000000000000
+      internalID: 4128971591182013904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf Elemental S Sprite Sheet (1)_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747a62eca77a92c20800000000000000
+      internalID: 3182258757600454471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf Elemental S Sprite Sheet (1)_28
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 531991d2dab055d40800000000000000
+      internalID: 5572372952354754869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf Elemental S Sprite Sheet (1)_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0484d4bfbc24810800000000000000
+      internalID: 1748183885566984381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf Elemental S Sprite Sheet (1)_30
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e0a998f6c2c0db0800000000000000
+      internalID: -4824432243259076999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf Elemental S Sprite Sheet (1)_31
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b65f3d6f2a32f560800000000000000
+      internalID: 7345997917565441714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf Elemental S Sprite Sheet (1)_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f42a49a704f3a51c0800000000000000
+      internalID: -4514226130318482865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf Elemental S Sprite Sheet (1)_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e73aea4096988620800000000000000
+      internalID: 2776634716750231521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf Elemental S Sprite Sheet (1)_34
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14316300eda0bd400800000000000000
+      internalID: 349885344653906753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf Elemental S Sprite Sheet (1)_35
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff516ba0384cdd1a0800000000000000
+      internalID: -6783049396650633729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf Elemental S Sprite Sheet (1)_36
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 391f8e6407c372a00800000000000000
+      internalID: 731619917394669971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf Elemental S Sprite Sheet (1)_37
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931b75bf1f6a5c110800000000000000
+      internalID: 1280613227290931513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf Elemental S Sprite Sheet (1)_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdbb36eaa514bfad0800000000000000
+      internalID: -2667466496558253093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf Elemental S Sprite Sheet (1)_39
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c909150d7293dbcc0800000000000000
+      internalID: -3693733276212424548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf Elemental S Sprite Sheet (1)_40
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7480f90344050780800000000000000
+      internalID: -8717556817729649538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf Elemental S Sprite Sheet (1)_41
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8d455108fd417c0800000000000000
+      internalID: -4101407619420989246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf Elemental S Sprite Sheet (1)_42
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a057cad24b2ce9c0800000000000000
+      internalID: -3896692011443990368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf Elemental S Sprite Sheet (1)_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5a260b99817f620800000000000000
+      internalID: 2807739941057111476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf Elemental S Sprite Sheet (1)_44
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e366944350010e220800000000000000
+      internalID: 2513026206610843198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf Elemental S Sprite Sheet (1)_45
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0abdfe23788c772b0800000000000000
+      internalID: -5586776329729090656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf Elemental S Sprite Sheet (1)_46
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a00eccf84b21500800000000000000
+      internalID: 365553049480989256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf Elemental S Sprite Sheet (1)_47
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca6e334cfc1988340800000000000000
+      internalID: 4866299718909814444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf Elemental S Sprite Sheet (1)_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9e4c7b0970a8540800000000000000
+      internalID: 5010825853542918591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf Elemental S Sprite Sheet (1)_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a1be5cda1b3cfd0800000000000000
+      internalID: -2322817622885066167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf Elemental S Sprite Sheet (1)_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80355461312c3fd50800000000000000
+      internalID: 6769968052101796616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf Elemental S Sprite Sheet (1)_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f125c4066957930800000000000000
+      internalID: 4140380772778516336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf Elemental S Sprite Sheet (1)_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b84047cfe2cdf5de0800000000000000
+      internalID: -1342112069571050357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf Elemental S Sprite Sheet (1)_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 194139cb7ecacd470800000000000000
+      internalID: 8420795514577163409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf Elemental S Sprite Sheet (1)_54
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02d879ab83d1afb0800000000000000
+      internalID: -4638193544417717747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf Elemental S Sprite Sheet (1)_55
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4601a1b42e5b39480800000000000000
+      internalID: -8893564855599361948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf Elemental S Sprite Sheet (1)_56
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880ddd3af81a98890800000000000000
+      internalID: -7455250069833527160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf Elemental S Sprite Sheet (1)_57
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0484741381c3774c0800000000000000
+      internalID: -4289894045443471296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf Elemental S Sprite Sheet (1)_58
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d5501ae13eb1e20800000000000000
+      internalID: 3322498870805880166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf Elemental S Sprite Sheet (1)_59
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58a8f2d9c62d9e60800000000000000
+      internalID: 7970569563785439322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf Elemental S Sprite Sheet (1)_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53675660219acbe80800000000000000
+      internalID: -8161462529820363211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf Elemental S Sprite Sheet (1)_61
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be72719e25624c560800000000000000
+      internalID: 7333028230805792747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf Elemental S Sprite Sheet (1)_62
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a27d46ee597eafa0800000000000000
+      internalID: -5787555022626786647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf Elemental S Sprite Sheet (1)_63
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d37e5cb33235330800000000000000
+      internalID: 3698338458631617942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf Elemental S Sprite Sheet (1)_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 499be35101f8df090800000000000000
+      internalID: -7999080063901451884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf Elemental S Sprite Sheet (1)_65
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f925ca2a67c8850800000000000000
+      internalID: 6380605213125025621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 01e66a3d615c37746987f7e29172ddcc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Leaf Elemental S Sprite Sheet (1)_0: 5460437249782389195
+      Leaf Elemental S Sprite Sheet (1)_1: 6334091525606477434
+      Leaf Elemental S Sprite Sheet (1)_10: 8697148785591724148
+      Leaf Elemental S Sprite Sheet (1)_11: 897493134453588589
+      Leaf Elemental S Sprite Sheet (1)_12: -8490786874728999099
+      Leaf Elemental S Sprite Sheet (1)_13: -8625751567880198773
+      Leaf Elemental S Sprite Sheet (1)_14: 8136958427928156001
+      Leaf Elemental S Sprite Sheet (1)_15: -5048412171293942760
+      Leaf Elemental S Sprite Sheet (1)_16: -5705950369851346940
+      Leaf Elemental S Sprite Sheet (1)_17: -6721642866694368068
+      Leaf Elemental S Sprite Sheet (1)_18: 2515848325663054875
+      Leaf Elemental S Sprite Sheet (1)_19: -6156994442380529078
+      Leaf Elemental S Sprite Sheet (1)_2: -1190620507474879290
+      Leaf Elemental S Sprite Sheet (1)_20: 8059088001557853618
+      Leaf Elemental S Sprite Sheet (1)_21: 7374793878747200558
+      Leaf Elemental S Sprite Sheet (1)_22: -3670386524935095502
+      Leaf Elemental S Sprite Sheet (1)_23: 6553089471842952987
+      Leaf Elemental S Sprite Sheet (1)_24: 5214488391176484635
+      Leaf Elemental S Sprite Sheet (1)_25: -3690853793916943464
+      Leaf Elemental S Sprite Sheet (1)_26: 4128971591182013904
+      Leaf Elemental S Sprite Sheet (1)_27: 3182258757600454471
+      Leaf Elemental S Sprite Sheet (1)_28: 5572372952354754869
+      Leaf Elemental S Sprite Sheet (1)_29: 1748183885566984381
+      Leaf Elemental S Sprite Sheet (1)_3: -1631915353032000936
+      Leaf Elemental S Sprite Sheet (1)_30: -4824432243259076999
+      Leaf Elemental S Sprite Sheet (1)_31: 7345997917565441714
+      Leaf Elemental S Sprite Sheet (1)_32: -4514226130318482865
+      Leaf Elemental S Sprite Sheet (1)_33: 2776634716750231521
+      Leaf Elemental S Sprite Sheet (1)_34: 349885344653906753
+      Leaf Elemental S Sprite Sheet (1)_35: -6783049396650633729
+      Leaf Elemental S Sprite Sheet (1)_36: 731619917394669971
+      Leaf Elemental S Sprite Sheet (1)_37: 1280613227290931513
+      Leaf Elemental S Sprite Sheet (1)_38: -2667466496558253093
+      Leaf Elemental S Sprite Sheet (1)_39: -3693733276212424548
+      Leaf Elemental S Sprite Sheet (1)_4: -3934127653903166868
+      Leaf Elemental S Sprite Sheet (1)_40: -8717556817729649538
+      Leaf Elemental S Sprite Sheet (1)_41: -4101407619420989246
+      Leaf Elemental S Sprite Sheet (1)_42: -3896692011443990368
+      Leaf Elemental S Sprite Sheet (1)_43: 2807739941057111476
+      Leaf Elemental S Sprite Sheet (1)_44: 2513026206610843198
+      Leaf Elemental S Sprite Sheet (1)_45: -5586776329729090656
+      Leaf Elemental S Sprite Sheet (1)_46: 365553049480989256
+      Leaf Elemental S Sprite Sheet (1)_47: 4866299718909814444
+      Leaf Elemental S Sprite Sheet (1)_48: 5010825853542918591
+      Leaf Elemental S Sprite Sheet (1)_49: -2322817622885066167
+      Leaf Elemental S Sprite Sheet (1)_5: -7412069476155619520
+      Leaf Elemental S Sprite Sheet (1)_50: 6769968052101796616
+      Leaf Elemental S Sprite Sheet (1)_51: 4140380772778516336
+      Leaf Elemental S Sprite Sheet (1)_52: -1342112069571050357
+      Leaf Elemental S Sprite Sheet (1)_53: 8420795514577163409
+      Leaf Elemental S Sprite Sheet (1)_54: -4638193544417717747
+      Leaf Elemental S Sprite Sheet (1)_55: -8893564855599361948
+      Leaf Elemental S Sprite Sheet (1)_56: -7455250069833527160
+      Leaf Elemental S Sprite Sheet (1)_57: -4289894045443471296
+      Leaf Elemental S Sprite Sheet (1)_58: 3322498870805880166
+      Leaf Elemental S Sprite Sheet (1)_59: 7970569563785439322
+      Leaf Elemental S Sprite Sheet (1)_6: 2868384168796310768
+      Leaf Elemental S Sprite Sheet (1)_60: -8161462529820363211
+      Leaf Elemental S Sprite Sheet (1)_61: 7333028230805792747
+      Leaf Elemental S Sprite Sheet (1)_62: -5787555022626786647
+      Leaf Elemental S Sprite Sheet (1)_63: 3698338458631617942
+      Leaf Elemental S Sprite Sheet (1)_64: -7999080063901451884
+      Leaf Elemental S Sprite Sheet (1)_65: 6380605213125025621
+      Leaf Elemental S Sprite Sheet (1)_7: -6883382897240026399
+      Leaf Elemental S Sprite Sheet (1)_8: 6022553316275878746
+      Leaf Elemental S Sprite Sheet (1)_9: -570497000918448018
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

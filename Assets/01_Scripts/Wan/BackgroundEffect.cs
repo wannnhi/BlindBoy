@@ -17,12 +17,12 @@ public class BackgroundEffect : MonoBehaviour
     private void AnimateBackground()
     {
 
-        _background.DOMove(_target.position, 60f)
+        _background.DOMove(new Vector3(_target.position.y,transform.position.y), 60f)
             .SetEase(Ease.InSine).SetDelay(2)
             .OnComplete(() =>
             {
 
-                _background.DOMove(_originalPosition, 60f)
+                _background.DOMove(new Vector3(_originalPosition.x,transform.position.y), 60f)
                     .SetEase(Ease.OutSine).SetDelay(2)
                     .OnComplete(AnimateBackground); 
             });
