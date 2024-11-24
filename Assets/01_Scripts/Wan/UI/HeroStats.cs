@@ -29,6 +29,7 @@ public class HeroStats : MonoBehaviour
     public void Initialize()
     {
         float upgradeMultiplier = 1f + (0.3f * status.Upgraded);
+        float RadiusMultiplier = 1f + (0.3f * status.Upgraded);
         float speedMultiplier = 1f + (0.1f * status.Upgraded);
 
         float upgradedAtkDamage = status.atkDamage * upgradeMultiplier;
@@ -37,10 +38,11 @@ public class HeroStats : MonoBehaviour
         float upgradedAttackSpeed = status.atkDamage * upgradeMultiplier;
         float upgradedMoveSpeed = status.moveSpeed * speedMultiplier;
         float upgradedSkillCooldown = status.skilCoolDown * speedMultiplier;
+        
 
         if (status.skilCoolDown == 0)
         {
-            _stat.SetText($"공격 {upgradedAtkDamage:F1} 속도 {upgradedMoveSpeed:F1}\n체력 {upgradedHealth:F1} 공속 {upgradedAttackSpeed:F1}");
+            _stat.SetText($"공격 {upgradedAtkDamage:F1} 속도 {upgradedMoveSpeed:F1} \n체력 {upgradedHealth:F1} 공속 {upgradedAttackSpeed:F1}");
             _sellPrice.SetText($"${status.SellPrice * 0.8}");
             _upgradePrice.SetText($"${status.SellPrice * 1.4}");
         }

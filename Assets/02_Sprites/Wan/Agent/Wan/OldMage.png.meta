@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: 8407a736fe962c244b26522c35024b0c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3123293971513710475
+    second: Korred Sprite Sheet_0
+  - first:
+      213: 8648981932376152085
+    second: Korred Sprite Sheet_1
+  - first:
+      213: 1348009572474632775
+    second: Korred Sprite Sheet_2
+  - first:
+      213: 1216478416549294962
+    second: Korred Sprite Sheet_3
+  - first:
+      213: -170347131405291092
+    second: Korred Sprite Sheet_4
+  - first:
+      213: 6774479372351507647
+    second: Korred Sprite Sheet_5
+  - first:
+      213: -4836545047067080193
+    second: Korred Sprite Sheet_6
+  - first:
+      213: -6993391799499685929
+    second: Korred Sprite Sheet_7
+  - first:
+      213: 8941945759407982576
+    second: Korred Sprite Sheet_8
+  - first:
+      213: -6944687959980127389
+    second: Korred Sprite Sheet_9
+  - first:
+      213: -265596828829423626
+    second: Korred Sprite Sheet_10
+  - first:
+      213: 5039324412204201257
+    second: Korred Sprite Sheet_11
+  - first:
+      213: 8175230705746888988
+    second: Korred Sprite Sheet_12
+  - first:
+      213: -6331668008723074127
+    second: Korred Sprite Sheet_13
+  - first:
+      213: 6762387140990737478
+    second: Korred Sprite Sheet_14
+  - first:
+      213: 6401130889907167496
+    second: Korred Sprite Sheet_15
+  - first:
+      213: -8984361238509428935
+    second: Korred Sprite Sheet_16
+  - first:
+      213: 3952485635380490123
+    second: Korred Sprite Sheet_17
+  - first:
+      213: 4141506885756749544
+    second: Korred Sprite Sheet_18
+  - first:
+      213: -4669303664730712842
+    second: Korred Sprite Sheet_19
+  - first:
+      213: -5648015652508393524
+    second: Korred Sprite Sheet_20
+  - first:
+      213: 7840097294391213747
+    second: Korred Sprite Sheet_21
+  - first:
+      213: -5405789821886305605
+    second: Korred Sprite Sheet_22
+  - first:
+      213: -3541229253691480142
+    second: Korred Sprite Sheet_23
+  - first:
+      213: -5954139390587257597
+    second: Korred Sprite Sheet_24
+  - first:
+      213: 3804611318116726468
+    second: Korred Sprite Sheet_25
+  - first:
+      213: -3790948290592821671
+    second: Korred Sprite Sheet_26
+  - first:
+      213: 2363050838128535066
+    second: Korred Sprite Sheet_27
+  - first:
+      213: -197890599391371575
+    second: Korred Sprite Sheet_28
+  - first:
+      213: 8954329993023022248
+    second: Korred Sprite Sheet_29
+  - first:
+      213: 6913664002303994072
+    second: Korred Sprite Sheet_30
+  - first:
+      213: 6314109424287660733
+    second: Korred Sprite Sheet_31
+  - first:
+      213: 6744118085877974371
+    second: Korred Sprite Sheet_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Korred Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 159
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b879135b15b285b20800000000000000
+      internalID: 3123293971513710475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Korred Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 159
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5185d044e3b570870800000000000000
+      internalID: 8648981932376152085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Korred Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 159
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a3d29609715b210800000000000000
+      internalID: 1348009572474632775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Korred Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 159
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 273b957bcacc1e010800000000000000
+      internalID: 1216478416549294962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Korred Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 127
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1b410cf2ec2adf0800000000000000
+      internalID: -170347131405291092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Korred Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 128
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc093fa819c30e50800000000000000
+      internalID: 6774479372351507647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Korred Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 131
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff94461a7e321ecb0800000000000000
+      internalID: -4836545047067080193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Korred Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 129
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dff0bff53b72fe90800000000000000
+      internalID: -6993391799499685929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Korred Sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 127
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f7c25eaa4c281c70800000000000000
+      internalID: 8941945759407982576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Korred Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 128
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36bc37d48138f9f90800000000000000
+      internalID: -6944687959980127389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Korred Sprite Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 129
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f7e6246719605cf0800000000000000
+      internalID: -265596828829423626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Korred Sprite Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 128
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925b2697ad64fe540800000000000000
+      internalID: 5039324412204201257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Korred Sprite Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 95
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19c8ec3301447170800000000000000
+      internalID: 8175230705746888988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Korred Sprite Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 95
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b33b502e756128a0800000000000000
+      internalID: -6331668008723074127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Korred Sprite Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 95
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c1c6ca643d8dd50800000000000000
+      internalID: 6762387140990737478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Korred Sprite Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 95
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80162b531a265d850800000000000000
+      internalID: 6401130889907167496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Korred Sprite Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 95
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93f5bd40e03215380800000000000000
+      internalID: -8984361238509428935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Korred Sprite Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 63
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f20b48ebc0ad630800000000000000
+      internalID: 3952485635380490123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Korred Sprite Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 63
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e68d58e196997930800000000000000
+      internalID: 4141506885756749544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Korred Sprite Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 63
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4db435e0d433fb0800000000000000
+      internalID: -4669303664730712842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Korred Sprite Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 63
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf146240b73e91b0800000000000000
+      internalID: -5648015652508393524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Korred Sprite Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 63
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be70bc53fe9dcc60800000000000000
+      internalID: 7840097294391213747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Korred Sprite Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 63
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba6b005cc6caf4b0800000000000000
+      internalID: -5405789821886305605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Korred Sprite Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 63
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b76f7981c60bdec0800000000000000
+      internalID: -3541229253691480142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Korred Sprite Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 63
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30db2e845c5ae5da0800000000000000
+      internalID: -5954139390587257597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Korred Sprite Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 31
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c637cc06d1bcc430800000000000000
+      internalID: 3804611318116726468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Korred Sprite Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 31
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e27517d98d36bc0800000000000000
+      internalID: -3790948290592821671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Korred Sprite Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 31
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1627d0a73e3bc020800000000000000
+      internalID: 2363050838128535066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Korred Sprite Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce53ee5c83f04df0800000000000000
+      internalID: -197890599391371575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Korred Sprite Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 0
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a463c3cfab244c70800000000000000
+      internalID: 8954329993023022248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Korred Sprite Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 0
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d82cb9a7c442ff50800000000000000
+      internalID: 6913664002303994072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Korred Sprite Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 0
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbabc9b511930a750800000000000000
+      internalID: 6314109424287660733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Korred Sprite Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 0
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3654b00daabe79d50800000000000000
+      internalID: 6744118085877974371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Korred Sprite Sheet_0: 3123293971513710475
+      Korred Sprite Sheet_1: 8648981932376152085
+      Korred Sprite Sheet_10: -265596828829423626
+      Korred Sprite Sheet_11: 5039324412204201257
+      Korred Sprite Sheet_12: 8175230705746888988
+      Korred Sprite Sheet_13: -6331668008723074127
+      Korred Sprite Sheet_14: 6762387140990737478
+      Korred Sprite Sheet_15: 6401130889907167496
+      Korred Sprite Sheet_16: -8984361238509428935
+      Korred Sprite Sheet_17: 3952485635380490123
+      Korred Sprite Sheet_18: 4141506885756749544
+      Korred Sprite Sheet_19: -4669303664730712842
+      Korred Sprite Sheet_2: 1348009572474632775
+      Korred Sprite Sheet_20: -5648015652508393524
+      Korred Sprite Sheet_21: 7840097294391213747
+      Korred Sprite Sheet_22: -5405789821886305605
+      Korred Sprite Sheet_23: -3541229253691480142
+      Korred Sprite Sheet_24: -5954139390587257597
+      Korred Sprite Sheet_25: 3804611318116726468
+      Korred Sprite Sheet_26: -3790948290592821671
+      Korred Sprite Sheet_27: 2363050838128535066
+      Korred Sprite Sheet_28: -197890599391371575
+      Korred Sprite Sheet_29: 8954329993023022248
+      Korred Sprite Sheet_3: 1216478416549294962
+      Korred Sprite Sheet_30: 6913664002303994072
+      Korred Sprite Sheet_31: 6314109424287660733
+      Korred Sprite Sheet_32: 6744118085877974371
+      Korred Sprite Sheet_4: -170347131405291092
+      Korred Sprite Sheet_5: 6774479372351507647
+      Korred Sprite Sheet_6: -4836545047067080193
+      Korred Sprite Sheet_7: -6993391799499685929
+      Korred Sprite Sheet_8: 8941945759407982576
+      Korred Sprite Sheet_9: -6944687959980127389
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
