@@ -3,6 +3,9 @@ using UnityEngine;
 [CreateAssetMenu(fileName = "EnityStatus", menuName = "SO/Entity/Status")]
 public class EnityStatus : ScriptableObject
 {
+    [Header("Name")]
+    public string agentName;
+
     [Header("Health")]
     public float maxHealth = 50f;
 
@@ -21,8 +24,10 @@ public class EnityStatus : ScriptableObject
 
     [Header("Upgrade")]
     public int Upgraded = 0;
+    public float percent = 1.2f;
 
     [Header("Price")]
-    public float SellPrice = 200f;
+    public float cost = 400f;
+    public float sellPrice = 200f;
 
 }
