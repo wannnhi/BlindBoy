@@ -10,8 +10,6 @@ public class Agent : Entity
 
     public EntityState CurrentState => _stateMachine.currentState;
 
-    public AnimParamSO hitGroundParam;
-
     public Transform target;
     public Transform atkTarget;
     public float jumpPower = 12f;
