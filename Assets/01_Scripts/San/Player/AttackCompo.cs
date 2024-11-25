@@ -3,13 +3,16 @@ using UnityEngine;
 
 public abstract class AttackCompo : MonoBehaviour, IEntityComponent
 {
+    protected EntityAnimator _animator;
+
     [SerializeField] private StateSO _atkState;
     [SerializeField] private StateSO _skillState;
     [SerializeField] private DamageCaster _damageCaster;
-    
-    private Agent _agent;
-    private float _lastAtkTime;
-    private float _lastDashTime;
+
+
+    protected Agent _agent;
+    protected float _lastAtkTime;
+    protected float _lastDashTime;
 
 
     public void Initialize(Entity entity)
