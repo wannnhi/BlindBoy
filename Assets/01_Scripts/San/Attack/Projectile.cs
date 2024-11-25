@@ -32,11 +32,7 @@ public class Projectile : MonoBehaviour
     {
         _canImpact = true;
         _lifeTime = lifeTime;
-
-        // 중력 영향 제거
         _rbCompo.gravityScale = 0f;
-
-        // 속도 설정
         _rbCompo.linearVelocityX = xVelocity;
     }
 

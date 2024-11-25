@@ -41,8 +41,8 @@ public class HeroStats : MonoBehaviour
         if (status.skilCoolDown == 0)
         {
             _stat.SetText($"공격 {upgradedAtkDamage:F1} 속도 {upgradedMoveSpeed:F1}\n체력 {upgradedHealth:F1} 공속 {upgradedAttackSpeed:F1}");
-            _sellPrice.SetText($"${status.SellPrice * 0.8}");
-            _upgradePrice.SetText($"${status.SellPrice * 1.4}");
+            _sellPrice.SetText($"${status.sellPrice * 0.8}");
+            _upgradePrice.SetText($"${status.sellPrice * 1.4}");
         }
         else
         {
