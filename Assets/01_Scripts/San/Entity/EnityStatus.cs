@@ -24,6 +24,7 @@ public class EnityStatus : ScriptableObject
 
     [Header("Upgrade")]
     public int Upgraded = 0;
+    public float percent = 1.2f;
 
     [Header("Price")]
     public float cost = 400f;
