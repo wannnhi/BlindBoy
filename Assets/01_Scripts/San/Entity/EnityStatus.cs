@@ -6,7 +6,7 @@ public class EnityStatus : ScriptableObject
 {
     [Header("Visual")]
     public string agentName;
-    public Image characterImage;
+    public Sprite characterImage;
 
     [Header("Health")]
     public float maxHealth = 50f;
