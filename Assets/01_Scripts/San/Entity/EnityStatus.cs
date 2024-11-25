@@ -1,10 +1,12 @@
 using UnityEngine;
+using UnityEngine.UI;
 
 [CreateAssetMenu(fileName = "EnityStatus", menuName = "SO/Entity/Status")]
 public class EnityStatus : ScriptableObject
 {
-    [Header("Name")]
+    [Header("Visual")]
     public string agentName;
+    public Image characterImage;
 
     [Header("Health")]
     public float maxHealth = 50f;
