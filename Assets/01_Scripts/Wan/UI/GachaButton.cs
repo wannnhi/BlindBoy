@@ -6,7 +6,7 @@ using DG.Tweening;
 
 public class GachaButton : MonoBehaviour
 {
-    [SerializeField] private List<EnityStatus> entities;
+    [SerializeField] private List<EntityStatusSO> entities;
     [SerializeField] private PlayableDirector timeline;
     [SerializeField] private SpriteRenderer character;
     [SerializeField] private TMP_Text info;

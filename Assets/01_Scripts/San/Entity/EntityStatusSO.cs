@@ -2,7 +2,7 @@ using UnityEngine;
 using UnityEngine.UI;
 
 [CreateAssetMenu(fileName = "EnityStatus", menuName = "SO/Entity/Status")]
-public class EnityStatusSO : ScriptableObject
+public class EntityStatusSO : ScriptableObject
 {
     [Header("Visual")]
     public string agentName;

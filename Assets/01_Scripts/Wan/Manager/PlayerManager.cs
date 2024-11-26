@@ -4,13 +4,13 @@ using System.Collections;
 
 public class PlayerManager : MonoSingleton<PlayerManager>
 {
-    public List<EnityStatus> myRealHero; // 팀으로 들어간 영웅 리스트
-    public List<EnityStatus> myHero; // 보유 중인 영웅 리스트
+    public List<EntityStatusSO> myRealHero; // 팀으로 들어간 영웅 리스트
+    public List<EntityStatusSO> myHero; // 보유 중인 영웅 리스트
     public float currentMoney; // 보유 중인 돈 
     [SerializeField] private GameObject overViewUI;
 
 
-    public void SellHero(EnityStatus enityStatus)
+    public void SellHero(EntityStatusSO enityStatus)
     {
         enityStatus.Upgraded = 0;
       //  overViewUI.    
@@ -20,7 +20,7 @@ public class PlayerManager : MonoSingleton<PlayerManager>
 
 
 
-    public void AddHero(EnityStatus enityStatus)
+    public void AddHero(EntityStatusSO enityStatus)
     {   
        
         if (myHero.Contains(enityStatus))

@@ -4,7 +4,7 @@ using UnityEngine;
 [CreateAssetMenu(fileName = "Deck", menuName = "SO/Deck")]
 public class DeckSO : ScriptableObject
 {
-    public List<EnityStatusSO> agentDeckList = new List<EnityStatusSO>();
+    public List<EntityStatusSO> agentDeckList = new List<EntityStatusSO>();
 
     private const string SaveFileName = "DeckData.json";
 
@@ -30,7 +30,7 @@ public class DeckSO : ScriptableObject
         foreach (var agentName in data.agentNames)
         {
             // 이름으로 EnityStatusSO를 찾아서 리스트에 추가
-            EnityStatusSO foundAgent = Resources.Load<EnityStatusSO>($"Path/To/Agents/{agentName}");
+            EntityStatusSO foundAgent = Resources.Load<EntityStatusSO>($"Path/To/Agents/{agentName}");
             if (foundAgent != null)
             {
                 agentDeckList.Add(foundAgent);

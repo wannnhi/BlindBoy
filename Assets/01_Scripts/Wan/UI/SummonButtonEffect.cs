@@ -13,8 +13,8 @@ public class SummonButtonEffect : MonoBehaviour, IPointerEnterHandler, IPointerE
     private Image _characterImage;
     private TMP_Text _name, _price;
 
-    public EnityStatus status;
-    public UnityEvent<EnityStatus> OnSummon;
+    public EntityStatusSO status;
+    public UnityEvent<EntityStatusSO> OnSummon;
 
     private void Awake()
     {
