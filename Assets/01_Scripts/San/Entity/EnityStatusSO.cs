@@ -2,7 +2,7 @@ using UnityEngine;
 using UnityEngine.UI;
 
 [CreateAssetMenu(fileName = "EnityStatus", menuName = "SO/Entity/Status")]
-public class EnityStatus : ScriptableObject
+public class EnityStatusSO : ScriptableObject
 {
     [Header("Visual")]
     public string agentName;
@@ -13,12 +13,15 @@ public class EnityStatus : ScriptableObject
 
     [Header("Move")]
     public float moveSpeed = 5f;
+
     [Header("Skill")]
     public float skilCoolDown = 0;
     public float skillDamage = 0;
+
     [Header("DefaultAttack")]
     public float atkDelay = 0;
     public float atkDamage = 0;
+
     [Header("Detact")]
     public float checkRadius = 3f;
     public float checkAngle = 60f;
@@ -29,7 +32,13 @@ public class EnityStatus : ScriptableObject
     public float percent = 1.2f;
 
     [Header("Price")]
-    public float cost = 400f;
     public float sellPrice = 200f;
 
+    [Header("Sound")]
+    public AudioClip hitSound = null;
+    public AudioClip deadSound = null;
+
+    [Header("Summon")]
+    public float cost = 400f;
+    public float coolTime = 8f;
 }

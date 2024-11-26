@@ -9,7 +9,7 @@ public class Entity : MonoBehaviour, IPoolObject
     public bool IsDead { get; set; }
     protected Dictionary<Type, IEntityComponent> _components;
 
-    public EnityStatus status;
+    public EnityStatusSO status;
 
     protected virtual void Awake()
     {

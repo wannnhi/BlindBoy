@@ -2,7 +2,7 @@ using UnityEngine;
 using TMPro;
 public class HeroStats : MonoBehaviour
 {
-    public EnityStatus status;
+    public EnityStatusSO status;
 
     private TMP_Text _upgraded;
     private TMP_Text _stat;

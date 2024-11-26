@@ -3,16 +3,16 @@ using System.Collections.Generic;
 
 public class PlayerManager : MonoSingleton<PlayerManager>
 {
-    public List<EnityStatus> myHero; // 보유 중인 영웅 리스트
+    public List<EnityStatusSO> myHero; // 보유 중인 영웅 리스트
     public float currentMoney; // 보유 중인 돈 
 
-    public void SellHero(EnityStatus enityStatus)
+    public void SellHero(EnityStatusSO enityStatus)
     {
         enityStatus.Upgraded = 0;
         
     }
 
-    public void AddHero(EnityStatus enityStatus)
+    public void AddHero(EnityStatusSO enityStatus)
     {   
        
         if (myHero.Contains(enityStatus))
