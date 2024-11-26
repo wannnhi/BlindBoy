@@ -44,7 +44,7 @@ public class GachaButton : MonoBehaviour
                 info.SetText($"{entity.agentName} 을(를) {entity.percent}% 확률로 모집했습니다!");
                 character.sprite = entity.characterImage;
                 timeline.Play();
-                CountryManager.instance.AddToCountryValue("포레스트", 30);
+                PlayerManager.instance.AddHero(entity);
                 return;
             }
         }

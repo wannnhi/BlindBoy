@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70ba79a7ff89d6c4d9a1f49bd6b3a1fb, type: 3}
+  m_Name: 11.Bat
+  m_EditorClassIdentifier: 
+  agentName: "\uBC15\uC950"
+  characterImage: {fileID: -2011515010, guid: afa5c1d2250b3284f8b204e324ac9e32, type: 3}
+  maxHealth: 50
+  moveSpeed: 5
+  skilCoolDown: 0
+  skillDamage: 0
+  atkDelay: 11
+  atkDamage: 11
+  checkRadius: 3
+  checkAngle: 60
+  whatIsTarget:
+    serializedVersion: 2
+    m_Bits: 0
+  whatIsObstacle:
+    serializedVersion: 2
+    m_Bits: 0
+  Upgraded: 0
+  percent: 50
+  cost: 400
+  sellPrice: 200

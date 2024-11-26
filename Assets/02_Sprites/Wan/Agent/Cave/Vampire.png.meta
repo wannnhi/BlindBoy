@@ -519,2905 +519,2553 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Sprite Sheet_0
+      name: Vampire_0
       rect:
         serializedVersion: 2
-        x: 6
-        y: 415
-        width: 15
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 96d29864ef2725450800000000000000
-      internalID: 6076045283706875241
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_1
-      rect:
-        serializedVersion: 2
-        x: 38
-        y: 415
-        width: 15
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 62d75f43fe8b7c480800000000000000
-      internalID: -8878924802812445402
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_2
-      rect:
-        serializedVersion: 2
-        x: 70
-        y: 415
-        width: 15
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bf8f367f9606b9190800000000000000
-      internalID: -7954658308581492485
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_3
-      rect:
-        serializedVersion: 2
-        x: 102
-        y: 415
-        width: 15
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9d109d29586d54fc0800000000000000
-      internalID: -3511164465282743847
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_4
-      rect:
-        serializedVersion: 2
-        x: 134
-        y: 415
-        width: 15
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 139532a94692c0e10800000000000000
-      internalID: 2165151032917842225
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_5
-      rect:
-        serializedVersion: 2
-        x: 166
-        y: 415
-        width: 15
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1f5e5db62d38e3870800000000000000
-      internalID: 8664507672882963953
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_6
-      rect:
-        serializedVersion: 2
-        x: 198
-        y: 415
-        width: 15
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 115ef51ea7e1a1680800000000000000
-      internalID: -8783674610116729583
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_7
-      rect:
-        serializedVersion: 2
-        x: 230
-        y: 415
-        width: 15
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e668fd75c145b04b0800000000000000
-      internalID: -5473188441428621714
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_8
-      rect:
-        serializedVersion: 2
-        x: 262
-        y: 415
-        width: 15
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 35a73744077a23ff0800000000000000
-      internalID: -57799744575800749
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_9
-      rect:
-        serializedVersion: 2
-        x: 294
-        y: 415
-        width: 15
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 51ad2c6d8e1f32cd0800000000000000
-      internalID: -2583955778842732011
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_10
-      rect:
-        serializedVersion: 2
-        x: 3
-        y: 384
-        width: 18
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ec02dc56dcf3401c0800000000000000
-      internalID: -4538432373073829682
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_11
-      rect:
-        serializedVersion: 2
-        x: 35
-        y: 385
-        width: 18
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cab042dbcf49cb550800000000000000
-      internalID: 6177976602071403436
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_12
-      rect:
-        serializedVersion: 2
-        x: 65
-        y: 384
-        width: 20
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 33be2fd2a3e3e2580800000000000000
-      internalID: -8850067798136526029
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_13
-      rect:
-        serializedVersion: 2
-        x: 97
-        y: 383
-        width: 20
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 508a035e196226bf0800000000000000
-      internalID: -332661014414710779
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_14
-      rect:
-        serializedVersion: 2
-        x: 131
-        y: 385
-        width: 18
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7a76cece8d6d85a30800000000000000
-      internalID: 4204346479326554023
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_15
-      rect:
-        serializedVersion: 2
-        x: 164
-        y: 385
-        width: 17
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cc19258ab92171020800000000000000
-      internalID: 2312337393431253452
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_16
-      rect:
-        serializedVersion: 2
-        x: 198
-        y: 384
-        width: 15
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2048ba9dbf91fa960800000000000000
-      internalID: 7615334064386180098
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_17
-      rect:
-        serializedVersion: 2
-        x: 230
-        y: 383
-        width: 15
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 527d18c4b3c0fce80800000000000000
-      internalID: -8156286951318497499
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_18
-      rect:
-        serializedVersion: 2
-        x: 6
-        y: 351
-        width: 15
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6d27d3adceb1f1690800000000000000
-      internalID: -7629348539654638890
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_19
-      rect:
-        serializedVersion: 2
-        x: 33
-        y: 351
+        x: 0
+        y: 416
         width: 32
-        height: 21
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: c8b9006ad92331150800000000000000
-      internalID: 5842068794305977228
+      spriteID: affbbf96e1febbf4a9aba1ca42133d95
+      internalID: -758916406
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite Sheet_20
+      name: Vampire_1
       rect:
         serializedVersion: 2
-        x: 67
-        y: 351
-        width: 30
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: dace2a9fe570d76a0800000000000000
-      internalID: -6449990986828157779
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_21
-      rect:
-        serializedVersion: 2
-        x: 101
-        y: 351
-        width: 27
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 79d3b18f1f0397830800000000000000
-      internalID: 4069337554113740183
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_22
-      rect:
-        serializedVersion: 2
-        x: 133
-        y: 351
-        width: 25
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d3eca149e1e6d0680800000000000000
-      internalID: -8787246220317110723
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_23
-      rect:
-        serializedVersion: 2
-        x: 166
-        y: 351
-        width: 16
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 74ce2158295163570800000000000000
-      internalID: 8445961870221962311
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_24
-      rect:
-        serializedVersion: 2
-        x: 198
-        y: 351
-        width: 16
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c21a0fe17451b1d80800000000000000
-      internalID: -8279000094784577236
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_25
-      rect:
-        serializedVersion: 2
-        x: 230
-        y: 351
-        width: 16
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1edd41b176ecae2d0800000000000000
-      internalID: -3248557238963085855
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_26
-      rect:
-        serializedVersion: 2
-        x: 6
-        y: 319
-        width: 15
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 66141581c55f2ce30800000000000000
-      internalID: 4522446751727173990
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_27
-      rect:
-        serializedVersion: 2
-        x: 38
-        y: 319
-        width: 15
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 01f2785de8d876350800000000000000
-      internalID: 6009927872356495120
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_28
-      rect:
-        serializedVersion: 2
-        x: 68
-        y: 319
-        width: 17
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a5f91b961ca901300800000000000000
-      internalID: 220846537233768282
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_29
-      rect:
-        serializedVersion: 2
-        x: 100
-        y: 319
-        width: 17
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 617f8275111ca6450800000000000000
-      internalID: 6082886526938183446
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_30
-      rect:
-        serializedVersion: 2
-        x: 133
-        y: 319
-        width: 17
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 412901016d633b7f0800000000000000
-      internalID: -598074032489721324
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_31
-      rect:
-        serializedVersion: 2
-        x: 165
-        y: 319
-        width: 17
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 40292144794816df0800000000000000
-      internalID: -188723924155854332
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_32
-      rect:
-        serializedVersion: 2
-        x: 197
-        y: 319
-        width: 16
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e1e4d80e4f5ee1730800000000000000
-      internalID: 3971864761289494046
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_33
-      rect:
-        serializedVersion: 2
-        x: 230
-        y: 319
-        width: 15
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 376e62a5637f65ea0800000000000000
-      internalID: -5884244050300180877
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_34
-      rect:
-        serializedVersion: 2
-        x: 6
-        y: 287
-        width: 15
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3f4411ede9f97dc40800000000000000
-      internalID: 5537069771554637043
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_35
-      rect:
-        serializedVersion: 2
-        x: 37
-        y: 287
-        width: 17
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 22578952a07ddfaf0800000000000000
-      internalID: -360895956539378398
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_36
-      rect:
-        serializedVersion: 2
-        x: 69
-        y: 287
-        width: 17
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 533615826fc2e08b0800000000000000
-      internalID: -5184156685306862795
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_37
-      rect:
-        serializedVersion: 2
-        x: 6
-        y: 255
-        width: 15
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a569414bbc5dfcf70800000000000000
-      internalID: 9209814833872279130
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_38
-      rect:
-        serializedVersion: 2
-        x: 38
-        y: 255
-        width: 15
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0d4d5563ec0728790800000000000000
-      internalID: -7529331596032879408
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_39
-      rect:
-        serializedVersion: 2
-        x: 70
-        y: 255
-        width: 22
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 812a038f501c450c0800000000000000
-      internalID: -4587829889000758760
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_40
-      rect:
-        serializedVersion: 2
-        x: 102
-        y: 255
-        width: 22
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5ae7a2b869b0d0800800000000000000
-      internalID: 580132668208479909
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_41
-      rect:
-        serializedVersion: 2
-        x: 134
-        y: 255
-        width: 22
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e55bfc6bd35301260800000000000000
-      internalID: 7066206354520651102
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_42
-      rect:
-        serializedVersion: 2
-        x: 166
-        y: 255
-        width: 17
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3e09f12e4e354df60800000000000000
-      internalID: 8058157875784028387
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_43
-      rect:
-        serializedVersion: 2
-        x: 198
-        y: 255
-        width: 15
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4ce72642e384464b0800000000000000
-      internalID: -5448150217475850556
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_44
-      rect:
-        serializedVersion: 2
-        x: 225
-        y: 255
-        width: 24
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6e11153339b6d5fd0800000000000000
-      internalID: -2351605150452215322
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_45
-      rect:
-        serializedVersion: 2
-        x: 258
-        y: 259
-        width: 23
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 82f4194edd77dfb10800000000000000
-      internalID: 2016900003038056232
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_46
-      rect:
-        serializedVersion: 2
-        x: 289
-        y: 266
-        width: 13
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 90712401aaff0b7b0800000000000000
-      internalID: -5210383662985373943
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_47
-      rect:
-        serializedVersion: 2
-        x: 301
-        y: 267
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 93a64c2451d1b92c0800000000000000
-      internalID: -4423910231809693127
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_48
-      rect:
-        serializedVersion: 2
-        x: 308
-        y: 270
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: df7dea2a963dd62e0800000000000000
-      internalID: -2130814598021982211
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_49
-      rect:
-        serializedVersion: 2
-        x: 321
-        y: 270
-        width: 10
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1a882eb8b85009370800000000000000
-      internalID: 8327161807913519265
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_50
-      rect:
-        serializedVersion: 2
-        x: 335
-        y: 270
-        width: 12
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 29da00e40f3eab0d0800000000000000
-      internalID: -3406159546912035438
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_51
-      rect:
-        serializedVersion: 2
-        x: 353
-        y: 258
-        width: 21
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0ca80692d42f649f0800000000000000
-      internalID: -484433496675153216
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_52
-      rect:
-        serializedVersion: 2
-        x: 290
-        y: 258
-        width: 10
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cb906391b823218b0800000000000000
-      internalID: -5183024648145204804
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_53
-      rect:
-        serializedVersion: 2
-        x: 302
-        y: 259
-        width: 10
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 83b66ed3579de3d40800000000000000
-      internalID: 5566125287049423672
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_54
-      rect:
-        serializedVersion: 2
-        x: 322
-        y: 258
-        width: 8
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 353f58df34c1e2f00800000000000000
-      internalID: 1093842837839410003
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_55
-      rect:
-        serializedVersion: 2
-        x: 337
-        y: 258
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ee8e61187dd5e4d30800000000000000
-      internalID: 4417571464662149358
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_56
-      rect:
-        serializedVersion: 2
-        x: 370
-        y: 257
-        width: 7
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 544de88ef10bef3e0800000000000000
-      internalID: -2017981931923254203
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_57
-      rect:
-        serializedVersion: 2
-        x: 6
-        y: 223
-        width: 17
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 497de2b3606719450800000000000000
-      internalID: 6093781539943798676
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_58
-      rect:
-        serializedVersion: 2
-        x: 37
-        y: 223
-        width: 18
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 385a58f741d974780800000000000000
-      internalID: -8698811443878451837
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_59
-      rect:
-        serializedVersion: 2
-        x: 67
-        y: 223
-        width: 21
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: edcd064dee36a5f70800000000000000
-      internalID: 9176757068137290974
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_60
-      rect:
-        serializedVersion: 2
-        x: 97
-        y: 223
-        width: 25
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 118cbb6cf7bcb44d0800000000000000
-      internalID: -3149199764760049647
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_61
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 223
-        width: 27
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fda0a71d7268d83a0800000000000000
-      internalID: -6661520768234812705
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_62
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 223
-        width: 27
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 04ba1d818b297e160800000000000000
-      internalID: 7054768660687203136
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_63
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 223
-        width: 27
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fa72834b8e866b160800000000000000
-      internalID: 7040930416105629615
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_64
-      rect:
-        serializedVersion: 2
-        x: 224
-        y: 223
-        width: 27
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 87dc2ba97702165a0800000000000000
-      internalID: -6529902286641902216
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_65
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 223
-        width: 27
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 029a44be4ae99fb90800000000000000
-      internalID: -7207555297470797536
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_66
-      rect:
-        serializedVersion: 2
-        x: 11
-        y: 191
-        width: 15
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 47448b174f419fff0800000000000000
-      internalID: -1947284724497292
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_67
-      rect:
-        serializedVersion: 2
-        x: 43
-        y: 191
-        width: 15
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 97d3b1799326f0340800000000000000
-      internalID: 4832188924679634297
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_68
-      rect:
-        serializedVersion: 2
-        x: 75
-        y: 191
-        width: 15
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1d14e0ba0827e4690800000000000000
-      internalID: -7616024022885711407
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_69
-      rect:
-        serializedVersion: 2
-        x: 107
-        y: 191
-        width: 15
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 128e61534e03a1a30800000000000000
-      internalID: 4186712560295667745
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_70
-      rect:
-        serializedVersion: 2
-        x: 139
-        y: 191
-        width: 15
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9dbc7cdbee2eb0580800000000000000
-      internalID: -8859738326907237415
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_71
-      rect:
-        serializedVersion: 2
-        x: 171
-        y: 191
-        width: 15
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8879235304f425650800000000000000
-      internalID: 6220121172541085576
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_72
-      rect:
-        serializedVersion: 2
-        x: 203
-        y: 191
-        width: 15
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3d34911e68e8f4020800000000000000
-      internalID: 2328236242327126995
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_73
-      rect:
-        serializedVersion: 2
-        x: 235
-        y: 191
-        width: 15
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 56559b377e23a3660800000000000000
-      internalID: 7366256110178227557
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_74
-      rect:
-        serializedVersion: 2
-        x: 267
-        y: 191
-        width: 15
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9211203c62cdee450800000000000000
-      internalID: 6120071002681643305
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_75
-      rect:
-        serializedVersion: 2
-        x: 299
-        y: 191
-        width: 15
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 73ac2a17d1a8d3d10800000000000000
-      internalID: 2106992059744438839
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_76
-      rect:
-        serializedVersion: 2
-        x: 11
-        y: 160
-        width: 18
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e6252369874347090800000000000000
-      internalID: -8037741742428892562
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_77
-      rect:
-        serializedVersion: 2
-        x: 43
-        y: 161
-        width: 18
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 540a3f9b2dfadb3d0800000000000000
-      internalID: -3189199641510698939
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_78
-      rect:
-        serializedVersion: 2
-        x: 75
-        y: 160
-        width: 20
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d8fc9cab3e1864dd0800000000000000
-      internalID: -2502169727866384499
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_79
-      rect:
-        serializedVersion: 2
-        x: 107
-        y: 159
-        width: 20
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 04361411d43231470800000000000000
-      internalID: 8364067746866094912
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_80
-      rect:
-        serializedVersion: 2
-        x: 139
-        y: 161
-        width: 18
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9cd7712a6dbdb58a0800000000000000
-      internalID: -6315212337568055863
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_81
-      rect:
-        serializedVersion: 2
-        x: 171
-        y: 161
-        width: 17
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 15966fd53673687f0800000000000000
-      internalID: -610739799544403631
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_82
-      rect:
-        serializedVersion: 2
-        x: 203
-        y: 160
-        width: 15
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2a9ebcaf7f56dd5d0800000000000000
-      internalID: -3036158458038851166
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_83
-      rect:
-        serializedVersion: 2
-        x: 235
-        y: 159
-        width: 15
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8344e245e0a574550800000000000000
-      internalID: 6144979234158691384
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_84
-      rect:
-        serializedVersion: 2
-        x: 11
-        y: 127
-        width: 15
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7a0606f0225639400800000000000000
-      internalID: 329718394689446055
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Sheet_85
-      rect:
-        serializedVersion: 2
-        x: 31
-        y: 127
+        x: 32
+        y: 416
         width: 32
-        height: 21
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 675e122218080a4e0800000000000000
-      internalID: -1972435344676493962
+      spriteID: f1b883e086372d54b98db2c37b818302
+      internalID: 1795033443
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite Sheet_86
+      name: Vampire_2
       rect:
         serializedVersion: 2
-        x: 63
-        y: 127
-        width: 30
-        height: 21
+        x: 64
+        y: 416
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: f10d9bb35613677e0800000000000000
-      internalID: -1768171492832849889
+      spriteID: 174911dc1f8632b4ba6a716862dc4736
+      internalID: -1604709075
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite Sheet_87
+      name: Vampire_3
       rect:
         serializedVersion: 2
         x: 96
-        y: 127
-        width: 27
-        height: 21
+        y: 416
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: cca2b4738847c4870800000000000000
-      internalID: 8668431511173409484
+      spriteID: 0e1bb55847727da40b509ec7c182d118
+      internalID: 1911646776
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite Sheet_88
+      name: Vampire_4
       rect:
         serializedVersion: 2
-        x: 130
-        y: 127
-        width: 25
-        height: 21
+        x: 128
+        y: 416
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: ca4dbd808b2a7ef80800000000000000
-      internalID: -8077308495359388500
+      spriteID: 8b89e9a41ba4fe24f8eee10ecbf7e85d
+      internalID: -2101525586
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite Sheet_89
+      name: Vampire_5
       rect:
         serializedVersion: 2
-        x: 170
-        y: 127
-        width: 16
-        height: 22
+        x: 160
+        y: 416
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 6f661727f1853f600800000000000000
-      internalID: 500840875655522038
+      spriteID: ad4618b586641294fa643350e0724a91
+      internalID: -501484169
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite Sheet_90
+      name: Vampire_6
       rect:
         serializedVersion: 2
-        x: 202
-        y: 127
-        width: 16
-        height: 22
+        x: 192
+        y: 416
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 76326d4f2db9acea0800000000000000
-      internalID: -5851693435461426329
+      spriteID: fc91c6a441d0733439477e520addea50
+      internalID: -1079953032
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite Sheet_91
+      name: Vampire_7
       rect:
         serializedVersion: 2
-        x: 234
-        y: 127
-        width: 16
-        height: 22
+        x: 224
+        y: 416
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: aa89b0ba0af492ab0800000000000000
-      internalID: -5032403557126793046
+      spriteID: 3303acbe38c66f046a1694554af2a16b
+      internalID: 818094622
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite Sheet_92
+      name: Vampire_8
       rect:
         serializedVersion: 2
-        x: 11
-        y: 95
-        width: 15
-        height: 22
+        x: 256
+        y: 416
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b552788c1ca0e28f0800000000000000
-      internalID: -563501075965467301
+      spriteID: 2aea37019385b414695337a9f089154b
+      internalID: 1445642226
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite Sheet_93
+      name: Vampire_9
       rect:
         serializedVersion: 2
-        x: 43
-        y: 95
-        width: 15
-        height: 22
+        x: 288
+        y: 416
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 243b2b30a56ff1e60800000000000000
-      internalID: 7935331934919635778
+      spriteID: 527af4ff101d93c4eb18a0c7823c486d
+      internalID: -742787346
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite Sheet_94
+      name: Vampire_10
       rect:
         serializedVersion: 2
-        x: 75
-        y: 95
-        width: 17
-        height: 24
+        x: 0
+        y: 384
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: fffca03796e19a590800000000000000
-      internalID: -7662559852743700481
+      spriteID: 51b89de24fb6e1c43beee0c821af695a
+      internalID: -85885960
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite Sheet_95
+      name: Vampire_11
       rect:
         serializedVersion: 2
-        x: 107
-        y: 95
-        width: 17
-        height: 25
+        x: 32
+        y: 384
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 6e7812f896c1f7f10800000000000000
-      internalID: 2269563976916502502
+      spriteID: 913930c282930ff44a2f1765cb1d3862
+      internalID: -1459350667
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite Sheet_96
+      name: Vampire_12
       rect:
         serializedVersion: 2
-        x: 138
-        y: 95
-        width: 17
-        height: 22
+        x: 64
+        y: 384
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 935440c319fa5e120800000000000000
-      internalID: 2442551411230393657
+      spriteID: 53ad6ebb14107e544b374fb9cd9cd055
+      internalID: -392735000
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite Sheet_97
+      name: Vampire_13
       rect:
         serializedVersion: 2
-        x: 170
-        y: 95
-        width: 17
-        height: 22
+        x: 96
+        y: 384
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 26da52876f64899c0800000000000000
-      internalID: -3920305451234382494
+      spriteID: ff6a8ce5bca690145a53e9fb5bcd99de
+      internalID: -1918408212
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite Sheet_98
+      name: Vampire_14
       rect:
         serializedVersion: 2
-        x: 203
-        y: 95
-        width: 16
-        height: 22
+        x: 128
+        y: 384
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: e45aa534a46edc000800000000000000
-      internalID: 57955576857666894
+      spriteID: a3474081c841179419a6a6711b88eb7f
+      internalID: 1649181114
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite Sheet_99
+      name: Vampire_15
       rect:
         serializedVersion: 2
-        x: 235
-        y: 95
-        width: 15
-        height: 22
+        x: 160
+        y: 384
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 3ca268a6f9b175930800000000000000
-      internalID: 4131801554636647107
+      spriteID: 546c959706db9f54dbca23d1e1e3f1be
+      internalID: 295702158
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite Sheet_100
+      name: Vampire_16
       rect:
         serializedVersion: 2
-        x: 11
-        y: 63
-        width: 15
-        height: 22
+        x: 192
+        y: 384
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: fb7c0f000f5a2aef0800000000000000
-      internalID: -98333791622215745
+      spriteID: 0942ef6d9c04ee74cb97f79b9bcc4a1c
+      internalID: -73377892
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite Sheet_101
+      name: Vampire_17
       rect:
         serializedVersion: 2
-        x: 42
-        y: 63
-        width: 17
-        height: 21
+        x: 224
+        y: 384
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 9f426237f8cc0d2d0800000000000000
-      internalID: -3255877614104599303
+      spriteID: b60e517ac2f5e1c45950b38c25cf8b28
+      internalID: -737016808
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite Sheet_102
+      name: Vampire_18
       rect:
         serializedVersion: 2
-        x: 74
-        y: 63
-        width: 17
-        height: 21
+        x: 0
+        y: 352
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b53ef2ea12fcd6750800000000000000
-      internalID: 6299919197324436315
+      spriteID: e79304739751d1a41b6a4b0bd7f4700e
+      internalID: -14921401
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite Sheet_103
+      name: Vampire_19
       rect:
         serializedVersion: 2
-        x: 11
-        y: 31
-        width: 15
-        height: 22
+        x: 32
+        y: 352
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 27cf9ea29f0562ce0800000000000000
-      internalID: -1430366800546497422
+      spriteID: fcd5e6d3a8ada7146b56b9760de72c16
+      internalID: 1481012663
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite Sheet_104
+      name: Vampire_20
       rect:
         serializedVersion: 2
-        x: 43
-        y: 31
-        width: 15
-        height: 22
+        x: 64
+        y: 352
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 57e91aa2aa574dae0800000000000000
-      internalID: -1525465000051630475
+      spriteID: 320022644d4d2c144a44b83894c1700d
+      internalID: 603216382
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite Sheet_105
+      name: Vampire_21
       rect:
         serializedVersion: 2
-        x: 68
-        y: 31
-        width: 22
-        height: 22
+        x: 96
+        y: 352
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: e604e33160e53d880800000000000000
-      internalID: -8587416684279742354
+      spriteID: 2a0e18f722aaba84ea1d334d333d4123
+      internalID: 2089757869
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite Sheet_106
+      name: Vampire_22
       rect:
         serializedVersion: 2
-        x: 100
-        y: 31
-        width: 22
-        height: 22
+        x: 128
+        y: 352
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 5ff1cd66908ebfaa0800000000000000
-      internalID: -6126047741029376011
+      spriteID: bead6e1349ee2394094313880d3f1830
+      internalID: 1525288883
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite Sheet_107
+      name: Vampire_23
       rect:
         serializedVersion: 2
-        x: 132
-        y: 31
-        width: 22
-        height: 22
+        x: 160
+        y: 352
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 51c9851d941747200800000000000000
-      internalID: 176890847233088533
+      spriteID: 28ee85095805b6341bf0d9ef61541c2a
+      internalID: -995589588
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite Sheet_108
+      name: Vampire_24
       rect:
         serializedVersion: 2
-        x: 169
-        y: 31
-        width: 17
-        height: 22
+        x: 192
+        y: 352
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 75088327dfb55dfd0800000000000000
-      internalID: -2317845289111093161
+      spriteID: faea5dc5a06c92d49ae90edfe1114eef
+      internalID: -208053678
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite Sheet_109
+      name: Vampire_25
       rect:
         serializedVersion: 2
-        x: 203
-        y: 31
-        width: 15
-        height: 22
+        x: 224
+        y: 352
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: aeb70c415070e3430800000000000000
-      internalID: 3764454056932703210
+      spriteID: 20f371446d563d346a340d3b3cee8a00
+      internalID: 1890721137
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite Sheet_110
+      name: Vampire_26
       rect:
         serializedVersion: 2
-        x: 231
-        y: 31
-        width: 24
-        height: 21
+        x: 0
+        y: 320
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a11624f4646c05670800000000000000
-      internalID: 8525532099892109594
+      spriteID: 62ce04c2a2de2ba44a7c76375c88fb5e
+      internalID: 968292821
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite Sheet_111
+      name: Vampire_27
       rect:
         serializedVersion: 2
-        x: 263
-        y: 35
-        width: 23
-        height: 16
+        x: 32
+        y: 320
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 13f1c0d4a72b7de90800000000000000
-      internalID: -7000930857375752399
+      spriteID: c1340ca1622489b449013e54988f34eb
+      internalID: 501618647
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite Sheet_112
+      name: Vampire_28
       rect:
         serializedVersion: 2
-        x: 294
-        y: 46
-        width: 6
-        height: 6
+        x: 64
+        y: 320
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: e9dbd4f1e1d10ad60800000000000000
-      internalID: 7899345761619262878
+      spriteID: e1f672265c3253a4f83141c1c2af8a77
+      internalID: 1162912100
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite Sheet_113
+      name: Vampire_29
       rect:
         serializedVersion: 2
-        x: 299
-        y: 43
-        width: 8
-        height: 8
+        x: 96
+        y: 320
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 9d81ebde902c1a410800000000000000
-      internalID: 1486682699908126937
+      spriteID: 69158dda07c97e743931006adbe51a0d
+      internalID: 559575548
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite Sheet_114
+      name: Vampire_30
       rect:
         serializedVersion: 2
-        x: 306
-        y: 42
-        width: 13
-        height: 9
+        x: 128
+        y: 320
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: d836331a4f6001b60800000000000000
-      internalID: 7714673809431946125
+      spriteID: e4fba8cd0d3c81347b556738f3960f22
+      internalID: -1737057222
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite Sheet_115
+      name: Vampire_31
       rect:
         serializedVersion: 2
-        x: 325
-        y: 46
-        width: 12
-        height: 7
+        x: 160
+        y: 320
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: c93f611c8d76661f0800000000000000
-      internalID: -1052039282294328420
+      spriteID: 5ce66e464206a8d41b821bdfee1d3c13
+      internalID: 68614142
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite Sheet_116
+      name: Vampire_32
       rect:
         serializedVersion: 2
-        x: 341
-        y: 46
-        width: 10
-        height: 7
+        x: 192
+        y: 320
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 52d9bdc646b781b30800000000000000
-      internalID: 4258289118932081957
+      spriteID: d218b6d102489e142956589134af23f4
+      internalID: -404679464
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite Sheet_117
+      name: Vampire_33
       rect:
         serializedVersion: 2
-        x: 362
-        y: 34
-        width: 21
-        height: 20
+        x: 224
+        y: 320
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 321084d4d0fb7acc0800000000000000
-      internalID: -3699778505009528541
+      spriteID: 4f5473b099adedd4c9905cee1a21774d
+      internalID: 714616608
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite Sheet_118
+      name: Vampire_34
       rect:
         serializedVersion: 2
-        x: 296
-        y: 35
-        width: 10
-        height: 9
+        x: 0
+        y: 288
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 0241e993ec95e39a0800000000000000
-      internalID: -6251460490478873568
+      spriteID: 5537adaed641e704186199ba4bcedd08
+      internalID: -1722729571
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite Sheet_119
+      name: Vampire_35
       rect:
         serializedVersion: 2
-        x: 308
-        y: 34
-        width: 10
-        height: 9
+        x: 32
+        y: 288
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 585dc1cadbb37b430800000000000000
-      internalID: 3798570496532731269
+      spriteID: 875d37b3a5448eb4fa241076a093aac0
+      internalID: 1577686011
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite Sheet_120
+      name: Vampire_36
       rect:
         serializedVersion: 2
-        x: 328
-        y: 34
-        width: 7
-        height: 7
+        x: 64
+        y: 288
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 187c0c4b6ac03c960800000000000000
-      internalID: 7620948904577648513
+      spriteID: 430226819a2e9f644a6016ebbe4f3d64
+      internalID: 2114356802
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite Sheet_121
+      name: Vampire_37
       rect:
         serializedVersion: 2
-        x: 342
-        y: 34
-        width: 8
-        height: 7
+        x: 0
+        y: 256
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: c2cd551b7e98da3c0800000000000000
-      internalID: -4346666437137015764
+      spriteID: 6018d68af68aa2841a224dba723493a5
+      internalID: -835036357
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite Sheet_122
+      name: Vampire_38
       rect:
         serializedVersion: 2
-        x: 359
-        y: 33
-        width: 7
-        height: 6
+        x: 32
+        y: 256
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: f170ab6f2272395b0800000000000000
-      internalID: -5362899700146370785
+      spriteID: 2880b466c143142479401ea4ff10ab11
+      internalID: -419688454
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite Sheet_123
+      name: Vampire_39
       rect:
         serializedVersion: 2
-        x: 9
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01db5bef2981a34eb7e12c4b4742ce6
+      internalID: 1989297728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_40
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e387f807d7e5846b712a03d1ec0b62
+      internalID: 1220094599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_41
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77100a18a2fb0e640b970b7d72689fab
+      internalID: -157134626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_42
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955b5ae1eddd0684ea8299feda03109d
+      internalID: -1209151408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_43
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b249856117b9a0843afdffb4e0c918de
+      internalID: -719272657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_44
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e27ff2447548904b95429547d9b4480
+      internalID: 423554193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_45
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e893d04a912ce943a8932dcd1dbc938
+      internalID: 2147026091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_46
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77c05e02a8a3e644bf4a6ea38158fbb
+      internalID: 898544874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_47
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638fc87ef632c8346ae6231ebb32c4d3
+      internalID: -1434904508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_48
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a333901ce393cd94cbc40a65a3fefd9f
+      internalID: -1346495654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e5cc20f3f56c74884ece8ecf4ce8db
+      internalID: -704343702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_50
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9482d46b39d396542b470d5aedebbf1b
+      internalID: 1032412402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_51
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8a574aa2674984db82ac5e15e58555
+      internalID: -313046029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_52
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e49271394698c544be6ed7ea556205d
+      internalID: 1446274978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_53
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0fec714b218774da70df5c3572b681
+      internalID: -2030642796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_54
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fdb46072db1d7e468d5af595d57fcd9
+      internalID: 1624640152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_55
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5dc036e86aae2540ad7cc2483a8df38
+      internalID: -323315295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_56
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd33a6f6604bcd14585f5b1003eb3ec6
+      internalID: -1494898188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_57
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30545b66853774947a41b1ef9ba849d7
+      internalID: 734284669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8f664d33ab27c4d97a11dfe85985f4
+      internalID: 926597183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_59
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a46acfaf66d12d42b4ac0e70da3b0fb
+      internalID: -901599966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_60
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a53d11b6b82da47a30cb76bef316f4
+      internalID: -1098054525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_61
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da84c2d49bfcf394fbc3b39d84b6c7f1
+      internalID: -1723315317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_62
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc097b6dc0e47dd4397ed89e90674133
+      internalID: 768649987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_63
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a828e3da3675b894d93f9a9aaf371acf
+      internalID: -1399743030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_64
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a62a661b1082b4b81389255ce3d3db
+      internalID: 1090727710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_65
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1dd5706969132d468bbff8da872dc07
+      internalID: 60172945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_66
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9801f64f5e40041a464da08741af79
+      internalID: -1264003865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_67
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfcf590018691fb478e48a7d204b05c7
+      internalID: -2102114575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e9e024632511e4a8f7b3b4a48d8248
+      internalID: -130207729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_69
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca937d011183964c93c0d27aa236955
+      internalID: 467811802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_70
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39fb40e5663bc2840bc039bd3437c17f
+      internalID: -972496566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_71
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4526357c2f3bea14994cb5460ac45f76
+      internalID: -339686565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_72
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6492e926bae1748b4b2646a7d61efc
+      internalID: -217475998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_73
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a395e655705b854d8ba5de62f10edf3
+      internalID: 174229086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_74
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b587c32941b12478ecbf15fb583410
+      internalID: -1314277076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_75
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2f173db4468004184b742c72631bcc
+      internalID: -2023341567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43dcd88eced962429e18ab93bcfd149
+      internalID: -1120811636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_77
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db70e6e0ff544b54cbc4ce4de59d9dd6
+      internalID: -457938508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_78
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2bc0f0618792d479e6e8014a301209
+      internalID: 2088830932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_79
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f1054aa4c9f6d45aea3a82e4f3f8ce
+      internalID: -1723229209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_80
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7876f41c185c9a48881facde93ca45a
+      internalID: -1086084303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_81
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23456ba4478e29f4a8a5e8588923f292
+      internalID: 1403435492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_82
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e807a6f13b1fdf4aae1d10446c944a5
+      internalID: -1907355198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_83
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b635e7f055bac4b9e2557a8878e30c
+      internalID: -1176253550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0020b1d363ed94ea3bed4b6fbc3c04
+      internalID: -1632352539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_85
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294794564b202e040b47a7b32656a3f5
+      internalID: 1785737244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_86
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c7612604f9e1d48980996a2688b661
+      internalID: 1644966965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_87
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486839bbb720ae341ab8a0515a22cad2
+      internalID: 1380509599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_88
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84cc9a8dfe4f9464e9a8034ee09498ab
+      internalID: -1541229489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_89
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de1967a4507b3f42ad160f513d41f7a
+      internalID: 1374184059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076406213e767eb42861ec260d2d024e
+      internalID: -437414175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_91
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862fcdd096b86c84bb5b64ef07c1ab31
+      internalID: -553104658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5935aabe289acd544bd904fa2782873f
+      internalID: -1259153771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_93
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38acbca9b6e13f94a816dd8be0790191
+      internalID: 332773712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_94
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25de1e8b2141bbc459dc79528c8eea09
+      internalID: 10703521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e93f5a36d2858b48b12fc35abdbc174
+      internalID: -1130422080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_96
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d435ae3a338b5f4f8dd62410ad82181
+      internalID: 1662079605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_97
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ceb47c54551264289076c911f022c4
+      internalID: 1842352924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_98
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497df37702fd94c4c95f4c58b803316d
+      internalID: -1615271261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_99
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08c75fe199eb5b42bac1819d28a664c
+      internalID: 59429272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_100
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0219e5a350342db439cf6e928e9ffa5a
+      internalID: 1351011618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_101
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9899dac9d12af2048b5e17217f7a74a7
+      internalID: 1918685895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_102
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a4f6c8c1d448945ab4c1b90b42bcf6
+      internalID: 1121220795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_103
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9fc1122ca95684f9c6ea546b721829
+      internalID: 881900601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_104
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc1d469e730105478533bc274ee3f7f
+      internalID: 1379388217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_105
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b9d07a70744244eb0673a8ce63de5c
+      internalID: 1867528521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_106
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9300cd4f0bb930340bfafe9263dc54c1
+      internalID: -976408613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampire_107
+      rect:
+        serializedVersion: 2
+        x: 0
         y: 0
-        width: 17
-        height: 21
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b01461ee79826a370800000000000000
-      internalID: 8333392793495290123
+      spriteID: 8ebf420bb120a934a9dd3ffaffa93e10
+      internalID: -1129709386
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite Sheet_124
+      name: Vampire_108
       rect:
         serializedVersion: 2
-        x: 41
+        x: 32
         y: 0
-        width: 18
-        height: 22
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 22165c4ad4fc312a0800000000000000
-      internalID: -6767837882623893214
+      spriteID: e53d2d0be1a077a4bbef14511e7ed349
+      internalID: -1890016762
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite Sheet_125
+      name: Vampire_109
       rect:
         serializedVersion: 2
-        x: 72
+        x: 64
         y: 0
-        width: 21
-        height: 23
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 2d2cb955234ce6e90800000000000000
-      internalID: -7030466247815085358
+      spriteID: 68d8d89fc08237b49920347dde219929
+      internalID: -1833525494
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite Sheet_126
+      name: Vampire_110
       rect:
         serializedVersion: 2
-        x: 102
+        x: 96
         y: 0
-        width: 25
-        height: 25
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 8f333df4139ab2e50800000000000000
-      internalID: 6785703292821517304
+      spriteID: d5a6418f707333c4096f1622b32da0ba
+      internalID: -185919739
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite Sheet_127
+      name: Vampire_111
       rect:
         serializedVersion: 2
-        x: 133
+        x: 128
         y: 0
-        width: 27
-        height: 22
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: e1b7415ea1fa3aad0800000000000000
-      internalID: -2692115622190089442
+      spriteID: 1544419ac362c6042b7edb6bcc5e7ac5
+      internalID: -228674849
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite Sheet_128
+      name: Vampire_112
       rect:
         serializedVersion: 2
-        x: 165
+        x: 160
         y: 0
-        width: 27
-        height: 17
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 9912d1fd66dbe7670800000000000000
-      internalID: 8538470193068581273
+      spriteID: e0bca2268e3637c47baee27af22b1816
+      internalID: -715501806
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite Sheet_129
+      name: Vampire_113
       rect:
         serializedVersion: 2
-        x: 197
+        x: 192
         y: 0
-        width: 27
-        height: 16
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b9dfe33bab0cc9590800000000000000
-      internalID: -7666040557587726949
+      spriteID: 006c6d695f4d70b48aa946c29298b576
+      internalID: 619625516
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite Sheet_130
+      name: Vampire_114
       rect:
         serializedVersion: 2
-        x: 229
+        x: 224
         y: 0
-        width: 27
-        height: 18
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b934ef1bdfe814a90800000000000000
-      internalID: -7331421498118356069
+      spriteID: 4c25509e73840294c87a070dc573e18f
+      internalID: -1161584845
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite Sheet_131
+      name: Vampire_115
       rect:
         serializedVersion: 2
-        x: 261
+        x: 256
         y: 0
-        width: 27
-        height: 9
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: fbe2d1e77f6fc5da0800000000000000
-      internalID: -5954613064457441601
+      spriteID: 2765829054b0cb84b863032e20bc4e09
+      internalID: -2099626838
       vertices: []
       indices: 
       edges: []
@@ -3426,7 +3074,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: afc95510b28d9ed47a3707c843d27ae6
     internalID: 0
     vertices: []
     indices: 
@@ -3436,138 +3084,122 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Sprite Sheet_0: 6076045283706875241
-      Sprite Sheet_1: -8878924802812445402
-      Sprite Sheet_10: -4538432373073829682
-      Sprite Sheet_100: -98333791622215745
-      Sprite Sheet_101: -3255877614104599303
-      Sprite Sheet_102: 6299919197324436315
-      Sprite Sheet_103: -1430366800546497422
-      Sprite Sheet_104: -1525465000051630475
-      Sprite Sheet_105: -8587416684279742354
-      Sprite Sheet_106: -6126047741029376011
-      Sprite Sheet_107: 176890847233088533
-      Sprite Sheet_108: -2317845289111093161
-      Sprite Sheet_109: 3764454056932703210
-      Sprite Sheet_11: 6177976602071403436
-      Sprite Sheet_110: 8525532099892109594
-      Sprite Sheet_111: -7000930857375752399
-      Sprite Sheet_112: 7899345761619262878
-      Sprite Sheet_113: 1486682699908126937
-      Sprite Sheet_114: 7714673809431946125
-      Sprite Sheet_115: -1052039282294328420
-      Sprite Sheet_116: 4258289118932081957
-      Sprite Sheet_117: -3699778505009528541
-      Sprite Sheet_118: -6251460490478873568
-      Sprite Sheet_119: 3798570496532731269
-      Sprite Sheet_12: -8850067798136526029
-      Sprite Sheet_120: 7620948904577648513
-      Sprite Sheet_121: -4346666437137015764
-      Sprite Sheet_122: -5362899700146370785
-      Sprite Sheet_123: 8333392793495290123
-      Sprite Sheet_124: -6767837882623893214
-      Sprite Sheet_125: -7030466247815085358
-      Sprite Sheet_126: 6785703292821517304
-      Sprite Sheet_127: -2692115622190089442
-      Sprite Sheet_128: 8538470193068581273
-      Sprite Sheet_129: -7666040557587726949
-      Sprite Sheet_13: -332661014414710779
-      Sprite Sheet_130: -7331421498118356069
-      Sprite Sheet_131: -5954613064457441601
-      Sprite Sheet_14: 4204346479326554023
-      Sprite Sheet_15: 2312337393431253452
-      Sprite Sheet_16: 7615334064386180098
-      Sprite Sheet_17: -8156286951318497499
-      Sprite Sheet_18: -7629348539654638890
-      Sprite Sheet_19: 5842068794305977228
-      Sprite Sheet_2: -7954658308581492485
-      Sprite Sheet_20: -6449990986828157779
-      Sprite Sheet_21: 4069337554113740183
-      Sprite Sheet_22: -8787246220317110723
-      Sprite Sheet_23: 8445961870221962311
-      Sprite Sheet_24: -8279000094784577236
-      Sprite Sheet_25: -3248557238963085855
-      Sprite Sheet_26: 4522446751727173990
-      Sprite Sheet_27: 6009927872356495120
-      Sprite Sheet_28: 220846537233768282
-      Sprite Sheet_29: 6082886526938183446
-      Sprite Sheet_3: -3511164465282743847
-      Sprite Sheet_30: -598074032489721324
-      Sprite Sheet_31: -188723924155854332
-      Sprite Sheet_32: 3971864761289494046
-      Sprite Sheet_33: -5884244050300180877
-      Sprite Sheet_34: 5537069771554637043
-      Sprite Sheet_35: -360895956539378398
-      Sprite Sheet_36: -5184156685306862795
-      Sprite Sheet_37: 9209814833872279130
-      Sprite Sheet_38: -7529331596032879408
-      Sprite Sheet_39: -4587829889000758760
-      Sprite Sheet_4: 2165151032917842225
-      Sprite Sheet_40: 580132668208479909
-      Sprite Sheet_41: 7066206354520651102
-      Sprite Sheet_42: 8058157875784028387
-      Sprite Sheet_43: -5448150217475850556
-      Sprite Sheet_44: -2351605150452215322
-      Sprite Sheet_45: 2016900003038056232
-      Sprite Sheet_46: -5210383662985373943
-      Sprite Sheet_47: -4423910231809693127
-      Sprite Sheet_48: -2130814598021982211
-      Sprite Sheet_49: 8327161807913519265
-      Sprite Sheet_5: 8664507672882963953
-      Sprite Sheet_50: -3406159546912035438
-      Sprite Sheet_51: -484433496675153216
-      Sprite Sheet_52: -5183024648145204804
-      Sprite Sheet_53: 5566125287049423672
-      Sprite Sheet_54: 1093842837839410003
-      Sprite Sheet_55: 4417571464662149358
-      Sprite Sheet_56: -2017981931923254203
-      Sprite Sheet_57: 6093781539943798676
-      Sprite Sheet_58: -8698811443878451837
-      Sprite Sheet_59: 9176757068137290974
-      Sprite Sheet_6: -8783674610116729583
-      Sprite Sheet_60: -3149199764760049647
-      Sprite Sheet_61: -6661520768234812705
-      Sprite Sheet_62: 7054768660687203136
-      Sprite Sheet_63: 7040930416105629615
-      Sprite Sheet_64: -6529902286641902216
-      Sprite Sheet_65: -7207555297470797536
-      Sprite Sheet_66: -1947284724497292
-      Sprite Sheet_67: 4832188924679634297
-      Sprite Sheet_68: -7616024022885711407
-      Sprite Sheet_69: 4186712560295667745
-      Sprite Sheet_7: -5473188441428621714
-      Sprite Sheet_70: -8859738326907237415
-      Sprite Sheet_71: 6220121172541085576
-      Sprite Sheet_72: 2328236242327126995
-      Sprite Sheet_73: 7366256110178227557
-      Sprite Sheet_74: 6120071002681643305
-      Sprite Sheet_75: 2106992059744438839
-      Sprite Sheet_76: -8037741742428892562
-      Sprite Sheet_77: -3189199641510698939
-      Sprite Sheet_78: -2502169727866384499
-      Sprite Sheet_79: 8364067746866094912
-      Sprite Sheet_8: -57799744575800749
-      Sprite Sheet_80: -6315212337568055863
-      Sprite Sheet_81: -610739799544403631
-      Sprite Sheet_82: -3036158458038851166
-      Sprite Sheet_83: 6144979234158691384
-      Sprite Sheet_84: 329718394689446055
-      Sprite Sheet_85: -1972435344676493962
-      Sprite Sheet_86: -1768171492832849889
-      Sprite Sheet_87: 8668431511173409484
-      Sprite Sheet_88: -8077308495359388500
-      Sprite Sheet_89: 500840875655522038
-      Sprite Sheet_9: -2583955778842732011
-      Sprite Sheet_90: -5851693435461426329
-      Sprite Sheet_91: -5032403557126793046
-      Sprite Sheet_92: -563501075965467301
-      Sprite Sheet_93: 7935331934919635778
-      Sprite Sheet_94: -7662559852743700481
-      Sprite Sheet_95: 2269563976916502502
-      Sprite Sheet_96: 2442551411230393657
-      Sprite Sheet_97: -3920305451234382494
-      Sprite Sheet_98: 57955576857666894
-      Sprite Sheet_99: 4131801554636647107
+      Vampire_0: -758916406
+      Vampire_1: 1795033443
+      Vampire_10: -85885960
+      Vampire_100: 1351011618
+      Vampire_101: 1918685895
+      Vampire_102: 1121220795
+      Vampire_103: 881900601
+      Vampire_104: 1379388217
+      Vampire_105: 1867528521
+      Vampire_106: -976408613
+      Vampire_107: -1129709386
+      Vampire_108: -1890016762
+      Vampire_109: -1833525494
+      Vampire_11: -1459350667
+      Vampire_110: -185919739
+      Vampire_111: -228674849
+      Vampire_112: -715501806
+      Vampire_113: 619625516
+      Vampire_114: -1161584845
+      Vampire_115: -2099626838
+      Vampire_12: -392735000
+      Vampire_13: -1918408212
+      Vampire_14: 1649181114
+      Vampire_15: 295702158
+      Vampire_16: -73377892
+      Vampire_17: -737016808
+      Vampire_18: -14921401
+      Vampire_19: 1481012663
+      Vampire_2: -1604709075
+      Vampire_20: 603216382
+      Vampire_21: 2089757869
+      Vampire_22: 1525288883
+      Vampire_23: -995589588
+      Vampire_24: -208053678
+      Vampire_25: 1890721137
+      Vampire_26: 968292821
+      Vampire_27: 501618647
+      Vampire_28: 1162912100
+      Vampire_29: 559575548
+      Vampire_3: 1911646776
+      Vampire_30: -1737057222
+      Vampire_31: 68614142
+      Vampire_32: -404679464
+      Vampire_33: 714616608
+      Vampire_34: -1722729571
+      Vampire_35: 1577686011
+      Vampire_36: 2114356802
+      Vampire_37: -835036357
+      Vampire_38: -419688454
+      Vampire_39: 1989297728
+      Vampire_4: -2101525586
+      Vampire_40: 1220094599
+      Vampire_41: -157134626
+      Vampire_42: -1209151408
+      Vampire_43: -719272657
+      Vampire_44: 423554193
+      Vampire_45: 2147026091
+      Vampire_46: 898544874
+      Vampire_47: -1434904508
+      Vampire_48: -1346495654
+      Vampire_49: -704343702
+      Vampire_5: -501484169
+      Vampire_50: 1032412402
+      Vampire_51: -313046029
+      Vampire_52: 1446274978
+      Vampire_53: -2030642796
+      Vampire_54: 1624640152
+      Vampire_55: -323315295
+      Vampire_56: -1494898188
+      Vampire_57: 734284669
+      Vampire_58: 926597183
+      Vampire_59: -901599966
+      Vampire_6: -1079953032
+      Vampire_60: -1098054525
+      Vampire_61: -1723315317
+      Vampire_62: 768649987
+      Vampire_63: -1399743030
+      Vampire_64: 1090727710
+      Vampire_65: 60172945
+      Vampire_66: -1264003865
+      Vampire_67: -2102114575
+      Vampire_68: -130207729
+      Vampire_69: 467811802
+      Vampire_7: 818094622
+      Vampire_70: -972496566
+      Vampire_71: -339686565
+      Vampire_72: -217475998
+      Vampire_73: 174229086
+      Vampire_74: -1314277076
+      Vampire_75: -2023341567
+      Vampire_76: -1120811636
+      Vampire_77: -457938508
+      Vampire_78: 2088830932
+      Vampire_79: -1723229209
+      Vampire_8: 1445642226
+      Vampire_80: -1086084303
+      Vampire_81: 1403435492
+      Vampire_82: -1907355198
+      Vampire_83: -1176253550
+      Vampire_84: -1632352539
+      Vampire_85: 1785737244
+      Vampire_86: 1644966965
+      Vampire_87: 1380509599
+      Vampire_88: -1541229489
+      Vampire_89: 1374184059
+      Vampire_9: -742787346
+      Vampire_90: -437414175
+      Vampire_91: -553104658
+      Vampire_92: -1259153771
+      Vampire_93: 332773712
+      Vampire_94: 10703521
+      Vampire_95: -1130422080
+      Vampire_96: 1662079605
+      Vampire_97: 1842352924
+      Vampire_98: -1615271261
+      Vampire_99: 59429272
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

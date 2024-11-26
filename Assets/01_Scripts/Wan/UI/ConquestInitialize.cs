@@ -27,7 +27,7 @@ public class ConquestInitialize : MonoBehaviour
 
     // 텍스트 갱신
     private void UpdateText()
-    {
+    {   
         int value = CountryManager.instance.GetCountryValue(countryName);
         percentText.SetText($"{countryName}\n{value}%"); // 국가 이름과 값 출력
         subPercentText.SetText($"{value}% 정복됨");

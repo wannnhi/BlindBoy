@@ -206,8 +206,8 @@ TextureImporter:
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
+    textureFormat: 4
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -258,991 +258,1013 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Archaeologist Sprite Sheet_0
+      name: Adventurer_0
       rect:
         serializedVersion: 2
-        x: 22
-        y: 191
-        width: 18
-        height: 24
+        x: 0
+        y: 192
+        width: 64
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 2b2c6fe4f235eedd0800000000000000
-      internalID: -2454933284216978766
+      spriteID: e879b2abb8a6f514aa3c5a292711c924
+      internalID: 1396346853
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Archaeologist Sprite Sheet_1
+      name: Adventurer_1
       rect:
         serializedVersion: 2
-        x: 86
-        y: 191
-        width: 18
-        height: 24
+        x: 64
+        y: 192
+        width: 64
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 62e548834e0dccdf0800000000000000
-      internalID: -158522208245490138
+      spriteID: d303fab9afaaf8948917594e8f550380
+      internalID: 1730480619
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Archaeologist Sprite Sheet_2
+      name: Adventurer_2
       rect:
         serializedVersion: 2
-        x: 150
-        y: 191
-        width: 18
-        height: 24
+        x: 128
+        y: 192
+        width: 64
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 1f4fa6a7f88c07c70800000000000000
-      internalID: 8966887376654365937
+      spriteID: 26ffd69fb22e4c343ad279cb3fabf071
+      internalID: 1260317013
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Archaeologist Sprite Sheet_3
+      name: Adventurer_3
       rect:
         serializedVersion: 2
-        x: 214
-        y: 191
-        width: 18
-        height: 24
+        x: 192
+        y: 192
+        width: 64
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: d44ae746bbc6e13d0800000000000000
-      internalID: -3234027930304732083
+      spriteID: 0ced85f20e1a07c4dafc5510e44683b3
+      internalID: 1170094183
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Archaeologist Sprite Sheet_4
+      name: Adventurer_4
       rect:
         serializedVersion: 2
-        x: 278
-        y: 191
-        width: 18
-        height: 24
+        x: 256
+        y: 192
+        width: 64
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 2cf6ce5872218e660800000000000000
-      internalID: 7415196747425411010
+      spriteID: 2c5c4658837aa564b94b467fe9547673
+      internalID: -908270221
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Archaeologist Sprite Sheet_5
+      name: Adventurer_5
       rect:
         serializedVersion: 2
-        x: 342
-        y: 191
-        width: 18
-        height: 24
+        x: 320
+        y: 192
+        width: 64
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 2b8a0b63e1f12fcd0800000000000000
-      internalID: -2525922226374399822
+      spriteID: 706d549c535b0af45bed2469ce6069fb
+      internalID: 337765931
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Archaeologist Sprite Sheet_6
+      name: Adventurer_6
       rect:
         serializedVersion: 2
-        x: 406
-        y: 191
-        width: 18
-        height: 24
+        x: 384
+        y: 192
+        width: 64
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: d9e2937550ac45690800000000000000
-      internalID: -7614238945689653603
+      spriteID: 9f6821a434231b6449df413d92aa3b96
+      internalID: -1663014053
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Archaeologist Sprite Sheet_7
+      name: Adventurer_7
       rect:
         serializedVersion: 2
-        x: 470
-        y: 191
-        width: 18
-        height: 24
+        x: 448
+        y: 192
+        width: 64
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: c3364bea9de86b030800000000000000
-      internalID: 3510150025171985212
+      spriteID: 8b873a4cd64434b4b91dc8b054cef823
+      internalID: 2127372775
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Archaeologist Sprite Sheet_8
+      name: Adventurer_8
       rect:
         serializedVersion: 2
-        x: 23
-        y: 159
-        width: 17
-        height: 24
+        x: 0
+        y: 160
+        width: 64
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 65d88731df6369e10800000000000000
-      internalID: 2204009528225729878
+      spriteID: 85f7d2a7915a879459a4632ac6e59c80
+      internalID: -377274124
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Archaeologist Sprite Sheet_9
+      name: Adventurer_9
       rect:
         serializedVersion: 2
-        x: 87
-        y: 162
-        width: 16
-        height: 22
+        x: 64
+        y: 160
+        width: 64
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: af0d947aef71f5f10800000000000000
-      internalID: 2260551920459043066
+      spriteID: e5113de156f1054449cd722a5a1c1cc1
+      internalID: 1454432274
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Archaeologist Sprite Sheet_10
+      name: Adventurer_10
       rect:
         serializedVersion: 2
-        x: 151
-        y: 164
-        width: 16
-        height: 22
+        x: 128
+        y: 160
+        width: 64
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 1f8347482babcd6b0800000000000000
-      internalID: -5270132188041168655
+      spriteID: 7f43923655a796841864b80f9328b791
+      internalID: -152404958
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Archaeologist Sprite Sheet_11
+      name: Adventurer_11
       rect:
         serializedVersion: 2
-        x: 215
-        y: 162
-        width: 16
-        height: 23
+        x: 192
+        y: 160
+        width: 64
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: db53f003953041600800000000000000
-      internalID: 437978745355056573
+      spriteID: cd43799ed38348449ad83e62bee0a8c2
+      internalID: 1300648591
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Archaeologist Sprite Sheet_12
+      name: Adventurer_12
       rect:
         serializedVersion: 2
-        x: 279
-        y: 159
-        width: 17
-        height: 24
+        x: 256
+        y: 160
+        width: 64
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 0b6284491d2ecd820800000000000000
-      internalID: 2944477646157260464
+      spriteID: fbbdd9f4d41406545b2382ae7e920ee6
+      internalID: 1260070864
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Archaeologist Sprite Sheet_13
+      name: Adventurer_13
       rect:
         serializedVersion: 2
-        x: 343
-        y: 162
-        width: 19
-        height: 22
+        x: 320
+        y: 160
+        width: 64
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: c3b6b2f1db000deb0800000000000000
-      internalID: -4697253599075669188
+      spriteID: b81057dee19d72e42946101346a586d3
+      internalID: -2125223449
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Archaeologist Sprite Sheet_14
+      name: Adventurer_14
       rect:
         serializedVersion: 2
-        x: 407
-        y: 163
-        width: 19
-        height: 23
+        x: 384
+        y: 160
+        width: 64
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 4fc0ae2942163b400800000000000000
-      internalID: 338721206694448372
+      spriteID: 911a32532c4a7fb4e8e56b3248b52fc1
+      internalID: -1885468331
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Archaeologist Sprite Sheet_15
+      name: Adventurer_15
       rect:
         serializedVersion: 2
-        x: 471
-        y: 162
-        width: 19
-        height: 23
+        x: 448
+        y: 160
+        width: 64
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 57721842919e51530800000000000000
-      internalID: 3825219752717002613
+      spriteID: 8b66e7db60664954eb3d2b44ccb908d5
+      internalID: -952978220
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Archaeologist Sprite Sheet_16
+      name: Adventurer_16
       rect:
         serializedVersion: 2
-        x: 22
-        y: 127
-        width: 18
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4b1dfa9d68d343730800000000000000
-      internalID: 3977872020262080948
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Archaeologist Sprite Sheet_17
-      rect:
-        serializedVersion: 2
-        x: 84
-        y: 129
-        width: 24
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9cd96395290b61250800000000000000
-      internalID: 5915109303206190537
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Archaeologist Sprite Sheet_18
-      rect:
-        serializedVersion: 2
-        x: 148
+        x: 0
         y: 128
-        width: 24
-        height: 19
+        width: 64
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: f66a6196685a82bb0800000000000000
-      internalID: -4960532992841308561
+      spriteID: 2789f648f7b6ae74c9efe9e053ea42b2
+      internalID: 1536802044
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Archaeologist Sprite Sheet_19
+      name: Adventurer_17
       rect:
         serializedVersion: 2
-        x: 211
-        y: 127
-        width: 25
-        height: 17
+        x: 64
+        y: 128
+        width: 64
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 22eb0c7238ef0e050800000000000000
-      internalID: 5827937757078535714
+      spriteID: c1c8c65d7ca1c464c8b27c4e4c6fa824
+      internalID: -989190397
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Archaeologist Sprite Sheet_20
+      name: Adventurer_18
       rect:
         serializedVersion: 2
-        x: 277
-        y: 127
-        width: 23
-        height: 18
+        x: 128
+        y: 128
+        width: 64
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 84daf284926541650800000000000000
-      internalID: 6202677322100747592
+      spriteID: 23ba94b646961f445b3515616e0e2868
+      internalID: 1591769377
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Archaeologist Sprite Sheet_21
+      name: Adventurer_19
       rect:
         serializedVersion: 2
-        x: 342
-        y: 127
-        width: 18
-        height: 21
+        x: 192
+        y: 128
+        width: 64
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: aa0bd419476a06610800000000000000
-      internalID: 1612471686182842538
+      spriteID: d56521ac17f03734b9441252f5f2eaf8
+      internalID: -398219192
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Archaeologist Sprite Sheet_22
+      name: Adventurer_20
       rect:
         serializedVersion: 2
-        x: 406
-        y: 127
-        width: 18
-        height: 24
+        x: 256
+        y: 128
+        width: 64
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 4484e412c55f95640800000000000000
-      internalID: 5069352631626778692
+      spriteID: 5e88781581d8b4444b93c57a2b1e65ff
+      internalID: -651856209
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Archaeologist Sprite Sheet_23
+      name: Adventurer_21
       rect:
         serializedVersion: 2
-        x: 9
-        y: 95
-        width: 29
-        height: 29
+        x: 320
+        y: 128
+        width: 64
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: e9fa55f416981af00800000000000000
-      internalID: 1126332432855183262
+      spriteID: 4492fb1fd20226f4abe28cf8f56f8a96
+      internalID: 440662124
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Archaeologist Sprite Sheet_24
+      name: Adventurer_22
       rect:
         serializedVersion: 2
-        x: 85
-        y: 95
-        width: 34
-        height: 22
+        x: 384
+        y: 128
+        width: 64
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 67d08533b077ef220800000000000000
-      internalID: 2521583731363810678
+      spriteID: 98096e18e1358134c8027fea107b7743
+      internalID: -1806770554
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Archaeologist Sprite Sheet_25
+      name: Adventurer_23
       rect:
         serializedVersion: 2
-        x: 148
-        y: 95
-        width: 39
-        height: 23
+        x: 0
+        y: 96
+        width: 64
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 963ca3bfde5876350800000000000000
-      internalID: 6009919484917891945
+      spriteID: 8478361d453eae64faa349da5be88ed7
+      internalID: -605140942
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Archaeologist Sprite Sheet_26
+      name: Adventurer_24
       rect:
         serializedVersion: 2
-        x: 214
-        y: 95
-        width: 26
-        height: 24
+        x: 64
+        y: 96
+        width: 64
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 5cf8d9a5177e32980800000000000000
-      internalID: -8564747592290955323
+      spriteID: f2c9e57f30a39e64b9f6b5d3cb1eb850
+      internalID: -1511257469
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Archaeologist Sprite Sheet_27
+      name: Adventurer_25
       rect:
         serializedVersion: 2
-        x: 278
-        y: 95
-        width: 20
-        height: 24
+        x: 128
+        y: 96
+        width: 64
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 471d91611b8a67cd0800000000000000
-      internalID: -2560673859580079756
+      spriteID: 9f82fe945257a0741911accf4b328e6c
+      internalID: -667551383
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Archaeologist Sprite Sheet_28
+      name: Adventurer_26
       rect:
         serializedVersion: 2
-        x: 342
-        y: 95
-        width: 17
-        height: 24
+        x: 192
+        y: 96
+        width: 64
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 31a2175d5de893cf0800000000000000
-      internalID: -272029253419062765
+      spriteID: 3163bb0dc267def479ba0f4096a466ab
+      internalID: -1247551103
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Archaeologist Sprite Sheet_29
+      name: Adventurer_27
       rect:
         serializedVersion: 2
-        x: 10
-        y: 63
-        width: 29
-        height: 29
+        x: 256
+        y: 96
+        width: 64
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 2101ba98b431687d0800000000000000
-      internalID: -2916622493522653166
+      spriteID: 63a0b44eaa4ef6f42a9fb44e7f24d02a
+      internalID: -1988927335
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Archaeologist Sprite Sheet_30
+      name: Adventurer_28
       rect:
         serializedVersion: 2
-        x: 86
-        y: 63
-        width: 40
-        height: 23
+        x: 320
+        y: 96
+        width: 64
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a707ceddb72e4e6a0800000000000000
-      internalID: -6420758147091369862
+      spriteID: f57f81206c4e22f4d8775e385ca7d8c1
+      internalID: 1245773097
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Archaeologist Sprite Sheet_31
+      name: Adventurer_29
       rect:
         serializedVersion: 2
-        x: 147
-        y: 63
-        width: 84
-        height: 24
+        x: 0
+        y: 64
+        width: 64
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 843f91c029c21ae10800000000000000
-      internalID: 2207094298168128328
+      spriteID: 28fc884324a905e4eb0efecb74f8043c
+      internalID: -47527991
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Archaeologist Sprite Sheet_32
+      name: Adventurer_30
       rect:
         serializedVersion: 2
-        x: 267
-        y: 63
-        width: 29
-        height: 29
+        x: 64
+        y: 64
+        width: 64
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 03843facace4122a0800000000000000
-      internalID: -6764038532438472656
+      spriteID: 2edbf6dc5a5518749bfbdbe588fcd516
+      internalID: -347099158
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Archaeologist Sprite Sheet_33
+      name: Adventurer_31
       rect:
         serializedVersion: 2
-        x: 341
-        y: 63
-        width: 23
-        height: 30
+        x: 128
+        y: 64
+        width: 64
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 29b63e70b04ea5bc0800000000000000
-      internalID: -3793469000078103662
+      spriteID: 2eee9b82e3dde8c41840117cd9a1da88
+      internalID: -1589790868
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Archaeologist Sprite Sheet_34
+      name: Adventurer_32
       rect:
         serializedVersion: 2
-        x: 408
-        y: 63
-        width: 24
-        height: 24
+        x: 192
+        y: 64
+        width: 64
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 97faee21ce47b14c0800000000000000
-      internalID: -4315727260625752199
+      spriteID: 7f9cef6e0689eff47b014ed9d0dc0a4a
+      internalID: -1631909771
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Archaeologist Sprite Sheet_35
+      name: Adventurer_33
       rect:
         serializedVersion: 2
-        x: 471
-        y: 63
-        width: 17
-        height: 24
+        x: 256
+        y: 64
+        width: 64
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: c4f5508589b99de60800000000000000
-      internalID: 7987586492732366668
+      spriteID: a174892631bcd914bb5a18387aa275a1
+      internalID: -1837751975
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Archaeologist Sprite Sheet_36
+      name: Adventurer_34
       rect:
         serializedVersion: 2
-        x: 23
-        y: 31
-        width: 20
-        height: 24
+        x: 320
+        y: 64
+        width: 64
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: ac3892c90127f5eb0800000000000000
-      internalID: -4728935668050721846
+      spriteID: 8f3bdb895d5daaf42bfe15a0df75f1b2
+      internalID: 937602658
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Archaeologist Sprite Sheet_37
+      name: Adventurer_35
       rect:
         serializedVersion: 2
-        x: 86
-        y: 31
-        width: 24
-        height: 24
+        x: 384
+        y: 64
+        width: 64
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 713d861d7bd2a7110800000000000000
-      internalID: 1259369313319047959
+      spriteID: adeefae55dd48c64aa1d5ed65e9df49e
+      internalID: -183998952
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Archaeologist Sprite Sheet_38
+      name: Adventurer_36
       rect:
         serializedVersion: 2
-        x: 151
-        y: 31
-        width: 22
-        height: 24
+        x: 448
+        y: 64
+        width: 64
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 36865177b3e4c04f0800000000000000
-      internalID: -861227411426678685
+      spriteID: 7ecfb38c19d069c4b95c9c8fa548776b
+      internalID: -1573597377
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Archaeologist Sprite Sheet_39
+      name: Adventurer_37
       rect:
         serializedVersion: 2
-        x: 215
-        y: 31
-        width: 24
-        height: 26
+        x: 0
+        y: 32
+        width: 64
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: ff453c3538470b0a0800000000000000
-      internalID: -6867861324345158401
+      spriteID: 1abf87b2fa268944aa21f4028659f1d8
+      internalID: 1366294168
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Archaeologist Sprite Sheet_40
+      name: Adventurer_38
       rect:
         serializedVersion: 2
-        x: 22
+        x: 64
+        y: 32
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0a693c78174f544ac51281a1e92749
+      internalID: 1688014182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer_39
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae61b48f29142234fbfb45f3845e2141
+      internalID: -875547381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer_40
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3215587fb65f142b8ef460a6dc7883
+      internalID: -310225460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer_41
+      rect:
+        serializedVersion: 2
+        x: 0
         y: 0
-        width: 18
-        height: 23
+        width: 64
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: d81905db58ff0e9a0800000000000000
-      internalID: -6205679336644636275
+      spriteID: 49eee3b9253636642a86d5d1e7856d82
+      internalID: 2140469042
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Archaeologist Sprite Sheet_41
+      name: Adventurer_42
       rect:
         serializedVersion: 2
-        x: 86
+        x: 64
         y: 0
-        width: 23
-        height: 19
+        width: 64
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 92af13c2d9678de60800000000000000
-      internalID: 7987264356564990505
+      spriteID: 75bd36a4e15cd3048980d9d278f52623
+      internalID: 1813022290
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Archaeologist Sprite Sheet_42
+      name: Adventurer_43
       rect:
         serializedVersion: 2
-        x: 152
+        x: 128
         y: 0
-        width: 27
-        height: 12
+        width: 64
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 6034c2568fe0c6260800000000000000
-      internalID: 7092059973213766406
+      spriteID: 932347b71b29c304d81cc67098d3175e
+      internalID: -1155077188
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Archaeologist Sprite Sheet_43
+      name: Adventurer_44
       rect:
         serializedVersion: 2
-        x: 216
+        x: 192
         y: 0
-        width: 27
-        height: 13
+        width: 64
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 03a34258ec2a57640800000000000000
-      internalID: 5077143162810808880
+      spriteID: f84ce20a5b6222e439f61ad10ce9dacc
+      internalID: 762700233
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Archaeologist Sprite Sheet_44
+      name: Adventurer_45
       rect:
         serializedVersion: 2
-        x: 280
+        x: 256
         y: 0
-        width: 27
-        height: 12
+        width: 64
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 015438f234bad8150800000000000000
-      internalID: 5876541393836655888
+      spriteID: bc1c356dd3856774aba0e1c1e2de75d1
+      internalID: -1602660066
       vertices: []
       indices: 
       edges: []
@@ -1251,7 +1273,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: c4a33e61d70f8dc4e84ccd780323ea46
     internalID: 0
     vertices: []
     indices: 
@@ -1261,51 +1283,52 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Archaeologist Sprite Sheet_0: -2454933284216978766
-      Archaeologist Sprite Sheet_1: -158522208245490138
-      Archaeologist Sprite Sheet_10: -5270132188041168655
-      Archaeologist Sprite Sheet_11: 437978745355056573
-      Archaeologist Sprite Sheet_12: 2944477646157260464
-      Archaeologist Sprite Sheet_13: -4697253599075669188
-      Archaeologist Sprite Sheet_14: 338721206694448372
-      Archaeologist Sprite Sheet_15: 3825219752717002613
-      Archaeologist Sprite Sheet_16: 3977872020262080948
-      Archaeologist Sprite Sheet_17: 5915109303206190537
-      Archaeologist Sprite Sheet_18: -4960532992841308561
-      Archaeologist Sprite Sheet_19: 5827937757078535714
-      Archaeologist Sprite Sheet_2: 8966887376654365937
-      Archaeologist Sprite Sheet_20: 6202677322100747592
-      Archaeologist Sprite Sheet_21: 1612471686182842538
-      Archaeologist Sprite Sheet_22: 5069352631626778692
-      Archaeologist Sprite Sheet_23: 1126332432855183262
-      Archaeologist Sprite Sheet_24: 2521583731363810678
-      Archaeologist Sprite Sheet_25: 6009919484917891945
-      Archaeologist Sprite Sheet_26: -8564747592290955323
-      Archaeologist Sprite Sheet_27: -2560673859580079756
-      Archaeologist Sprite Sheet_28: -272029253419062765
-      Archaeologist Sprite Sheet_29: -2916622493522653166
-      Archaeologist Sprite Sheet_3: -3234027930304732083
-      Archaeologist Sprite Sheet_30: -6420758147091369862
-      Archaeologist Sprite Sheet_31: 2207094298168128328
-      Archaeologist Sprite Sheet_32: -6764038532438472656
-      Archaeologist Sprite Sheet_33: -3793469000078103662
-      Archaeologist Sprite Sheet_34: -4315727260625752199
-      Archaeologist Sprite Sheet_35: 7987586492732366668
-      Archaeologist Sprite Sheet_36: -4728935668050721846
-      Archaeologist Sprite Sheet_37: 1259369313319047959
-      Archaeologist Sprite Sheet_38: -861227411426678685
-      Archaeologist Sprite Sheet_39: -6867861324345158401
-      Archaeologist Sprite Sheet_4: 7415196747425411010
-      Archaeologist Sprite Sheet_40: -6205679336644636275
-      Archaeologist Sprite Sheet_41: 7987264356564990505
-      Archaeologist Sprite Sheet_42: 7092059973213766406
-      Archaeologist Sprite Sheet_43: 5077143162810808880
-      Archaeologist Sprite Sheet_44: 5876541393836655888
-      Archaeologist Sprite Sheet_5: -2525922226374399822
-      Archaeologist Sprite Sheet_6: -7614238945689653603
-      Archaeologist Sprite Sheet_7: 3510150025171985212
-      Archaeologist Sprite Sheet_8: 2204009528225729878
-      Archaeologist Sprite Sheet_9: 2260551920459043066
+      Adventurer_0: 1396346853
+      Adventurer_1: 1730480619
+      Adventurer_10: -152404958
+      Adventurer_11: 1300648591
+      Adventurer_12: 1260070864
+      Adventurer_13: -2125223449
+      Adventurer_14: -1885468331
+      Adventurer_15: -952978220
+      Adventurer_16: 1536802044
+      Adventurer_17: -989190397
+      Adventurer_18: 1591769377
+      Adventurer_19: -398219192
+      Adventurer_2: 1260317013
+      Adventurer_20: -651856209
+      Adventurer_21: 440662124
+      Adventurer_22: -1806770554
+      Adventurer_23: -605140942
+      Adventurer_24: -1511257469
+      Adventurer_25: -667551383
+      Adventurer_26: -1247551103
+      Adventurer_27: -1988927335
+      Adventurer_28: 1245773097
+      Adventurer_29: -47527991
+      Adventurer_3: 1170094183
+      Adventurer_30: -347099158
+      Adventurer_31: -1589790868
+      Adventurer_32: -1631909771
+      Adventurer_33: -1837751975
+      Adventurer_34: 937602658
+      Adventurer_35: -183998952
+      Adventurer_36: -1573597377
+      Adventurer_37: 1366294168
+      Adventurer_38: 1688014182
+      Adventurer_39: -875547381
+      Adventurer_4: -908270221
+      Adventurer_40: -310225460
+      Adventurer_41: 2140469042
+      Adventurer_42: 1813022290
+      Adventurer_43: -1155077188
+      Adventurer_44: 762700233
+      Adventurer_45: -1602660066
+      Adventurer_5: 337765931
+      Adventurer_6: -1663014053
+      Adventurer_7: 2127372775
+      Adventurer_8: -377274124
+      Adventurer_9: 1454432274
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

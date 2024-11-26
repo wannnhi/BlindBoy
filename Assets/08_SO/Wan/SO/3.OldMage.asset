@@ -28,7 +28,7 @@ MonoBehaviour:
   whatIsObstacle:
     serializedVersion: 2
     m_Bits: 0
-  Upgraded: 0
-  percent: 20
+  Upgraded: 1
+  percent: 30
   cost: 400
   sellPrice: 200

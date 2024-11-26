@@ -294,1255 +294,661 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Mini Golem Sprite Sheet_0
+      name: MiniGolem_0
       rect:
         serializedVersion: 2
-        x: 7
-        y: 127
-        width: 18
-        height: 14
+        x: 0
+        y: 128
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: e5873f20e6156d9e0800000000000000
-      internalID: -1596999484918499234
+      spriteID: 78a45ebe1ba5967449834d448fbb025e
+      internalID: 1475054086
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Mini Golem Sprite Sheet_1
+      name: MiniGolem_1
       rect:
         serializedVersion: 2
-        x: 22
-        y: 132
-        width: 6
-        height: 6
+        x: 32
+        y: 128
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 03a28b082206a7710800000000000000
-      internalID: 1691770311335750192
+      spriteID: 7e4abab1c422ed84eabd8e1ce8252d14
+      internalID: -1010877713
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Mini Golem Sprite Sheet_2
+      name: MiniGolem_2
       rect:
         serializedVersion: 2
-        x: 39
-        y: 127
-        width: 18
-        height: 13
+        x: 64
+        y: 128
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 453ea4e053a0f8ea0800000000000000
-      internalID: -5868460566451133612
+      spriteID: 3f52afec80dbc9c4bb547205aa320852
+      internalID: -861041950
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Mini Golem Sprite Sheet_3
+      name: MiniGolem_3
       rect:
         serializedVersion: 2
-        x: 54
-        y: 131
-        width: 6
-        height: 6
+        x: 96
+        y: 128
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 9302bf664553c4ba0800000000000000
-      internalID: -6103444758372605895
+      spriteID: 27f88e86486ad594ea78a54a204b43eb
+      internalID: 881117818
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Mini Golem Sprite Sheet_4
+      name: MiniGolem_4
       rect:
         serializedVersion: 2
-        x: 71
-        y: 127
-        width: 18
-        height: 13
+        x: 128
+        y: 128
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 0b6d094c6c93bd890800000000000000
-      internalID: -7432283234180737360
+      spriteID: 88c360af121823f4b838072ca1e239a7
+      internalID: -2018477252
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Mini Golem Sprite Sheet_5
+      name: MiniGolem_5
       rect:
         serializedVersion: 2
-        x: 86
-        y: 130
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 94f9bf9921b200f80800000000000000
-      internalID: -8142460767393046711
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Mini Golem Sprite Sheet_6
-      rect:
-        serializedVersion: 2
-        x: 103
-        y: 127
-        width: 21
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c2de1eaf51c1fc0f0800000000000000
-      internalID: -1094625303698739924
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Mini Golem Sprite Sheet_7
-      rect:
-        serializedVersion: 2
-        x: 135
-        y: 127
-        width: 18
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9b062a00ec01f26d0800000000000000
-      internalID: -3013171148727623495
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Mini Golem Sprite Sheet_8
-      rect:
-        serializedVersion: 2
-        x: 150
-        y: 130
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ba268237d10fa52e0800000000000000
-      internalID: -2136131063957134677
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Mini Golem Sprite Sheet_9
-      rect:
-        serializedVersion: 2
-        x: 7
-        y: 95
-        width: 18
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 28edb1d4515ca7260800000000000000
-      internalID: 7096200858154294914
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Mini Golem Sprite Sheet_10
-      rect:
-        serializedVersion: 2
-        x: 22
-        y: 100
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ebe22f6c130f8a9f0800000000000000
-      internalID: -456851265596281154
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Mini Golem Sprite Sheet_11
-      rect:
-        serializedVersion: 2
-        x: 38
-        y: 103
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2d08c355d25aecfe0800000000000000
-      internalID: -1166813639320239918
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Mini Golem Sprite Sheet_12
-      rect:
-        serializedVersion: 2
-        x: 43
+        x: 0
         y: 96
-        width: 13
-        height: 15
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 2470e6548e9a882a0800000000000000
-      internalID: -6734946427670231230
+      spriteID: 1d5158b345f073043b631c718a172fe2
+      internalID: 1784803686
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Mini Golem Sprite Sheet_13
+      name: MiniGolem_6
       rect:
         serializedVersion: 2
-        x: 55
-        y: 103
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5f9965bdbbc0c7510800000000000000
-      internalID: 1548126372886911477
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Mini Golem Sprite Sheet_14
-      rect:
-        serializedVersion: 2
-        x: 69
-        y: 104
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5b35cac0cb318f1f0800000000000000
-      internalID: -1011036417957276747
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Mini Golem Sprite Sheet_15
-      rect:
-        serializedVersion: 2
-        x: 75
+        x: 32
         y: 96
-        width: 12
-        height: 16
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b9fc8440ab319be80800000000000000
-      internalID: -8162471159975587941
+      spriteID: 9b904ae66b1da744aa05e81217137481
+      internalID: 1176280968
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Mini Golem Sprite Sheet_16
+      name: MiniGolem_7
       rect:
         serializedVersion: 2
-        x: 88
-        y: 105
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 28470dffee41d4d50800000000000000
-      internalID: 6723052835460641922
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Mini Golem Sprite Sheet_17
-      rect:
-        serializedVersion: 2
-        x: 102
-        y: 103
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5140534a0f4a8c070800000000000000
-      internalID: 8126926881044104213
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Mini Golem Sprite Sheet_18
-      rect:
-        serializedVersion: 2
-        x: 107
+        x: 64
         y: 96
-        width: 13
-        height: 15
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: ae5bde3fdd099c220800000000000000
-      internalID: 2506693950563005930
+      spriteID: 8d976f676ba8ebb4dadca1758268e383
+      internalID: 278633271
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Mini Golem Sprite Sheet_19
+      name: MiniGolem_8
       rect:
         serializedVersion: 2
-        x: 119
-        y: 103
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b94db2c5e7d1473a0800000000000000
-      internalID: -6668672719679400805
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Mini Golem Sprite Sheet_20
-      rect:
-        serializedVersion: 2
-        x: 135
-        y: 95
-        width: 18
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 438330e0ee22fff00800000000000000
-      internalID: 1152678435462789172
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Mini Golem Sprite Sheet_21
-      rect:
-        serializedVersion: 2
-        x: 150
-        y: 99
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4aad3b740f6d31c50800000000000000
-      internalID: 6634883003530336932
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Mini Golem Sprite Sheet_22
-      rect:
-        serializedVersion: 2
-        x: 169
+        x: 96
         y: 96
-        width: 18
-        height: 15
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 5c0db5f7ae89ee100800000000000000
-      internalID: 139216771421556933
+      spriteID: 4a58e325f65bce145b696ce7ca34ff11
+      internalID: 1753893870
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Mini Golem Sprite Sheet_23
+      name: MiniGolem_9
       rect:
         serializedVersion: 2
-        x: 200
-        y: 98
-        width: 19
-        height: 14
+        x: 128
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 75a574e8133d37ca0800000000000000
-      internalID: -6020236067070322089
+      spriteID: b6657860a132ea0488d62420c9ac2b01
+      internalID: 1856598841
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Mini Golem Sprite Sheet_24
+      name: MiniGolem_10
       rect:
         serializedVersion: 2
-        x: 233
-        y: 95
-        width: 18
-        height: 15
+        x: 160
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 35d4b68f8528808f0800000000000000
-      internalID: -574065633853223597
+      spriteID: a6f89ed94a4b3934983aa94680221110
+      internalID: 1351853139
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Mini Golem Sprite Sheet_25
+      name: MiniGolem_11
       rect:
         serializedVersion: 2
-        x: 7
-        y: 63
-        width: 21
-        height: 14
+        x: 192
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 0581d61a5ac9fe690800000000000000
-      internalID: -7570660213394696112
+      spriteID: 5ae0b1b769c60b04d8c0f1998c4f625a
+      internalID: 630452870
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Mini Golem Sprite Sheet_26
+      name: MiniGolem_12
       rect:
         serializedVersion: 2
-        x: 27
-        y: 68
-        width: 6
-        height: 6
+        x: 224
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 619aa5b2d9871d660800000000000000
-      internalID: 7408835478433736982
+      spriteID: cbe029a8c18361045bff072b21602b5a
+      internalID: 1064139827
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Mini Golem Sprite Sheet_27
+      name: MiniGolem_13
       rect:
         serializedVersion: 2
-        x: 37
-        y: 70
-        width: 6
-        height: 6
+        x: 0
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: c775757270f79afc0800000000000000
-      internalID: -3483113168092833924
+      spriteID: b87e8fcf52c2dc64ea9b3d917c8c2b78
+      internalID: -552640933
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Mini Golem Sprite Sheet_28
+      name: MiniGolem_14
       rect:
         serializedVersion: 2
-        x: 41
-        y: 63
-        width: 15
-        height: 15
+        x: 32
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 0f923f29d7bca9b30800000000000000
-      internalID: 4294968934847949296
+      spriteID: 685235e473006874b9be61f06a187a6f
+      internalID: 1832937984
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Mini Golem Sprite Sheet_29
+      name: MiniGolem_15
       rect:
         serializedVersion: 2
-        x: 53
-        y: 69
-        width: 6
-        height: 6
+        x: 64
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 0bb6c4345dcee9650800000000000000
-      internalID: 6241686534283357104
+      spriteID: f8061d1dec001604388794f7141262a0
+      internalID: -1456211485
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Mini Golem Sprite Sheet_30
+      name: MiniGolem_16
       rect:
         serializedVersion: 2
-        x: 68
-        y: 71
-        width: 6
-        height: 6
+        x: 96
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b1a32cfbe5cab36c0800000000000000
-      internalID: -4162543907629811173
+      spriteID: 291c432c547d9a4488d84629a2cf5e47
+      internalID: 1536381637
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Mini Golem Sprite Sheet_31
+      name: MiniGolem_17
       rect:
         serializedVersion: 2
-        x: 73
-        y: 63
-        width: 14
-        height: 16
+        x: 128
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a19a423183939f9b0800000000000000
-      internalID: -5045938994489808614
+      spriteID: 3b52396c3ad6a1949881dadcf6fea00b
+      internalID: 1613987750
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Mini Golem Sprite Sheet_32
+      name: MiniGolem_18
       rect:
         serializedVersion: 2
-        x: 84
-        y: 70
-        width: 6
-        height: 6
+        x: 160
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 25f536c1fa0e8a230800000000000000
-      internalID: 3650414540683960146
+      spriteID: ccc5b6c6fa5ed57468b7fe3fd2b3ae1d
+      internalID: 990098608
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Mini Golem Sprite Sheet_33
+      name: MiniGolem_19
       rect:
         serializedVersion: 2
-        x: 103
-        y: 63
-        width: 26
-        height: 14
+        x: 192
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: bb1fa40cfc0ee6df0800000000000000
-      internalID: -184963351786622533
+      spriteID: 880dbcdd8734ab64fa20b4a41da17473
+      internalID: -1419420766
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Mini Golem Sprite Sheet_34
+      name: MiniGolem_20
       rect:
         serializedVersion: 2
-        x: 137
-        y: 63
-        width: 24
-        height: 13
+        x: 0
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 04267fa6c7a364e30800000000000000
-      internalID: 4487338384766231104
+      spriteID: 3dd7ee16675b6ff47b2123a290657bd6
+      internalID: 1888431675
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Mini Golem Sprite Sheet_35
+      name: MiniGolem_21
       rect:
         serializedVersion: 2
-        x: 169
-        y: 63
-        width: 17
-        height: 14
+        x: 32
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 6a571f054af8f1e10800000000000000
-      internalID: 2170611481311278502
+      spriteID: 8d66030a5a362e44e8f81305b8bb700f
+      internalID: 489352256
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Mini Golem Sprite Sheet_36
+      name: MiniGolem_22
       rect:
         serializedVersion: 2
-        x: 185
-        y: 68
-        width: 6
-        height: 6
+        x: 64
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: dd8e697f8c716b740800000000000000
-      internalID: 5167343774368983261
+      spriteID: 6a2f18f2c4952ad4eaae9e350df39c7c
+      internalID: 824818900
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Mini Golem Sprite Sheet_37
+      name: MiniGolem_23
       rect:
         serializedVersion: 2
-        x: 201
-        y: 63
-        width: 18
-        height: 14
+        x: 96
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 50cf01cf04244f0d0800000000000000
-      internalID: -3390011772628829179
+      spriteID: 90b72d1a54c43a24ebd73c124afa2df0
+      internalID: -980177326
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Mini Golem Sprite Sheet_38
+      name: MiniGolem_24
       rect:
         serializedVersion: 2
-        x: 7
-        y: 31
-        width: 18
-        height: 14
+        x: 128
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 82c649373ee24be80800000000000000
-      internalID: -8163848670084305880
+      spriteID: 932b8a9eafc5a9a45999db3001f0e7ad
+      internalID: -188332706
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Mini Golem Sprite Sheet_39
+      name: MiniGolem_25
       rect:
         serializedVersion: 2
-        x: 22
-        y: 36
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a6de50acf3e6e7eb0800000000000000
-      internalID: -4720214139186320022
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Mini Golem Sprite Sheet_40
-      rect:
-        serializedVersion: 2
-        x: 39
-        y: 36
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 66654de5381a5eae0800000000000000
-      internalID: -1520631713563912602
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Mini Golem Sprite Sheet_41
-      rect:
-        serializedVersion: 2
-        x: 41
-        y: 31
-        width: 16
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b811d021951551300800000000000000
-      internalID: 222173199621493131
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Mini Golem Sprite Sheet_42
-      rect:
-        serializedVersion: 2
-        x: 54
-        y: 36
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 806d67ab505473df0800000000000000
-      internalID: -200615767489194488
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Mini Golem Sprite Sheet_43
-      rect:
-        serializedVersion: 2
-        x: 71
-        y: 31
-        width: 18
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a05113a72083b5920800000000000000
-      internalID: 2980037161726842122
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Mini Golem Sprite Sheet_44
-      rect:
-        serializedVersion: 2
-        x: 86
-        y: 34
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: df89bb0feb2cc2370800000000000000
-      internalID: 8299222338675382525
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Mini Golem Sprite Sheet_45
-      rect:
-        serializedVersion: 2
-        x: 103
-        y: 31
-        width: 21
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 296a6ec7fb3ab64a0800000000000000
-      internalID: -6599000786151758190
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Mini Golem Sprite Sheet_46
-      rect:
-        serializedVersion: 2
-        x: 135
-        y: 31
-        width: 18
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e78cd01e032d242c0800000000000000
-      internalID: -4448762374512588674
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Mini Golem Sprite Sheet_47
-      rect:
-        serializedVersion: 2
-        x: 150
-        y: 34
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 48d51736b65fc5590800000000000000
-      internalID: -7683997022622229116
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Mini Golem Sprite Sheet_48
-      rect:
-        serializedVersion: 2
-        x: 7
+        x: 0
         y: 0
-        width: 18
-        height: 13
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 72bbd5389fd426a40800000000000000
-      internalID: 5359932240570465063
+      spriteID: 42580ad814c95854f9be2e97806f25dc
+      internalID: -1121592770
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Mini Golem Sprite Sheet_49
+      name: MiniGolem_26
       rect:
         serializedVersion: 2
-        x: 22
-        y: 4
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e522ba02eac8d42e0800000000000000
-      internalID: -2139899568430833058
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Mini Golem Sprite Sheet_50
-      rect:
-        serializedVersion: 2
-        x: 39
-        y: 4
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bc1bc22d5b12853b0800000000000000
-      internalID: -5523627878170971701
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Mini Golem Sprite Sheet_51
-      rect:
-        serializedVersion: 2
-        x: 41
+        x: 32
         y: 0
-        width: 16
-        height: 12
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: cc66a1136b46c32a0800000000000000
-      internalID: -6756414607291947316
+      spriteID: 6761eb480a1d57d45a5378b3ae95cffc
+      internalID: 1056050541
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Mini Golem Sprite Sheet_52
+      name: MiniGolem_27
       rect:
         serializedVersion: 2
-        x: 54
-        y: 4
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1208becfc335052c0800000000000000
-      internalID: -4444961310808244191
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Mini Golem Sprite Sheet_53
-      rect:
-        serializedVersion: 2
-        x: 71
+        x: 64
         y: 0
-        width: 18
-        height: 11
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 17e58d0cca11c9280800000000000000
-      internalID: -9035327318744605071
+      spriteID: d34f2176e7ae1ff4c8a3ebce031797e5
+      internalID: 165687035
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Mini Golem Sprite Sheet_54
+      name: MiniGolem_28
       rect:
         serializedVersion: 2
-        x: 86
-        y: 2
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: aa7bbccda409e4930800000000000000
-      internalID: 4129396559551641514
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Mini Golem Sprite Sheet_55
-      rect:
-        serializedVersion: 2
-        x: 103
+        x: 96
         y: 0
-        width: 21
-        height: 9
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: c464d561f67c980b0800000000000000
-      internalID: -5725826171294366132
+      spriteID: d89728011988f4a468f10c76aa81baac
+      internalID: 1792864108
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Mini Golem Sprite Sheet_56
+      name: MiniGolem_29
       rect:
         serializedVersion: 2
-        x: 135
+        x: 128
         y: 0
-        width: 21
-        height: 8
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 73d240294e467c050800000000000000
-      internalID: 5820731976264723767
+      spriteID: 559e913c585f1564ca332d5b1f640959
+      internalID: -440780487
       vertices: []
       indices: 
       edges: []
@@ -1551,7 +957,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 693e47e44815ae641852bdd9baf465c0
     internalID: 0
     vertices: []
     indices: 
@@ -1561,63 +967,36 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Mini Golem Sprite Sheet_0: -1596999484918499234
-      Mini Golem Sprite Sheet_1: 1691770311335750192
-      Mini Golem Sprite Sheet_10: -456851265596281154
-      Mini Golem Sprite Sheet_11: -1166813639320239918
-      Mini Golem Sprite Sheet_12: -6734946427670231230
-      Mini Golem Sprite Sheet_13: 1548126372886911477
-      Mini Golem Sprite Sheet_14: -1011036417957276747
-      Mini Golem Sprite Sheet_15: -8162471159975587941
-      Mini Golem Sprite Sheet_16: 6723052835460641922
-      Mini Golem Sprite Sheet_17: 8126926881044104213
-      Mini Golem Sprite Sheet_18: 2506693950563005930
-      Mini Golem Sprite Sheet_19: -6668672719679400805
-      Mini Golem Sprite Sheet_2: -5868460566451133612
-      Mini Golem Sprite Sheet_20: 1152678435462789172
-      Mini Golem Sprite Sheet_21: 6634883003530336932
-      Mini Golem Sprite Sheet_22: 139216771421556933
-      Mini Golem Sprite Sheet_23: -6020236067070322089
-      Mini Golem Sprite Sheet_24: -574065633853223597
-      Mini Golem Sprite Sheet_25: -7570660213394696112
-      Mini Golem Sprite Sheet_26: 7408835478433736982
-      Mini Golem Sprite Sheet_27: -3483113168092833924
-      Mini Golem Sprite Sheet_28: 4294968934847949296
-      Mini Golem Sprite Sheet_29: 6241686534283357104
-      Mini Golem Sprite Sheet_3: -6103444758372605895
-      Mini Golem Sprite Sheet_30: -4162543907629811173
-      Mini Golem Sprite Sheet_31: -5045938994489808614
-      Mini Golem Sprite Sheet_32: 3650414540683960146
-      Mini Golem Sprite Sheet_33: -184963351786622533
-      Mini Golem Sprite Sheet_34: 4487338384766231104
-      Mini Golem Sprite Sheet_35: 2170611481311278502
-      Mini Golem Sprite Sheet_36: 5167343774368983261
-      Mini Golem Sprite Sheet_37: -3390011772628829179
-      Mini Golem Sprite Sheet_38: -8163848670084305880
-      Mini Golem Sprite Sheet_39: -4720214139186320022
-      Mini Golem Sprite Sheet_4: -7432283234180737360
-      Mini Golem Sprite Sheet_40: -1520631713563912602
-      Mini Golem Sprite Sheet_41: 222173199621493131
-      Mini Golem Sprite Sheet_42: -200615767489194488
-      Mini Golem Sprite Sheet_43: 2980037161726842122
-      Mini Golem Sprite Sheet_44: 8299222338675382525
-      Mini Golem Sprite Sheet_45: -6599000786151758190
-      Mini Golem Sprite Sheet_46: -4448762374512588674
-      Mini Golem Sprite Sheet_47: -7683997022622229116
-      Mini Golem Sprite Sheet_48: 5359932240570465063
-      Mini Golem Sprite Sheet_49: -2139899568430833058
-      Mini Golem Sprite Sheet_5: -8142460767393046711
-      Mini Golem Sprite Sheet_50: -5523627878170971701
-      Mini Golem Sprite Sheet_51: -6756414607291947316
-      Mini Golem Sprite Sheet_52: -4444961310808244191
-      Mini Golem Sprite Sheet_53: -9035327318744605071
-      Mini Golem Sprite Sheet_54: 4129396559551641514
-      Mini Golem Sprite Sheet_55: -5725826171294366132
-      Mini Golem Sprite Sheet_56: 5820731976264723767
-      Mini Golem Sprite Sheet_6: -1094625303698739924
-      Mini Golem Sprite Sheet_7: -3013171148727623495
-      Mini Golem Sprite Sheet_8: -2136131063957134677
-      Mini Golem Sprite Sheet_9: 7096200858154294914
+      MiniGolem_0: 1475054086
+      MiniGolem_1: -1010877713
+      MiniGolem_10: 1351853139
+      MiniGolem_11: 630452870
+      MiniGolem_12: 1064139827
+      MiniGolem_13: -552640933
+      MiniGolem_14: 1832937984
+      MiniGolem_15: -1456211485
+      MiniGolem_16: 1536381637
+      MiniGolem_17: 1613987750
+      MiniGolem_18: 990098608
+      MiniGolem_19: -1419420766
+      MiniGolem_2: -861041950
+      MiniGolem_20: 1888431675
+      MiniGolem_21: 489352256
+      MiniGolem_22: 824818900
+      MiniGolem_23: -980177326
+      MiniGolem_24: -188332706
+      MiniGolem_25: -1121592770
+      MiniGolem_26: 1056050541
+      MiniGolem_27: 165687035
+      MiniGolem_28: 1792864108
+      MiniGolem_29: -440780487
+      MiniGolem_3: 881117818
+      MiniGolem_4: -2018477252
+      MiniGolem_5: 1784803686
+      MiniGolem_6: 1176280968
+      MiniGolem_7: 278633271
+      MiniGolem_8: 1753893870
+      MiniGolem_9: 1856598841
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

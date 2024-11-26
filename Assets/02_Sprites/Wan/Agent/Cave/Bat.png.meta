@@ -168,331 +168,331 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Bat_Sprite_Sheet_0
+      name: Bat_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 60
-        width: 15
-        height: 10
+        y: 47
+        width: 16
+        height: 23
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 0fafb7558e98cf140800000000000000
-      internalID: 4754826937556007664
+      spriteID: 6bf366ca5d01fc84a86ff7c28c9cd0c6
+      internalID: 402740201
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bat_Sprite_Sheet_1
+      name: Bat_1
       rect:
         serializedVersion: 2
-        x: 17
-        y: 59
-        width: 14
-        height: 11
+        x: 16
+        y: 47
+        width: 16
+        height: 23
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: ff1c4a8cf1def0b10800000000000000
-      internalID: 1950037884440723967
+      spriteID: c56e1c865c27db840b95282117f4ba73
+      internalID: 1778034384
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bat_Sprite_Sheet_2
+      name: Bat_2
       rect:
         serializedVersion: 2
-        x: 34
-        y: 57
-        width: 12
-        height: 12
+        x: 32
+        y: 47
+        width: 16
+        height: 23
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 1670939bc92111bb0800000000000000
-      internalID: -4967168449681225887
+      spriteID: 776d8ad95b53daf4cb476832f36dd2a8
+      internalID: -2139589651
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bat_Sprite_Sheet_3
+      name: Bat_3
       rect:
         serializedVersion: 2
-        x: 50
-        y: 58
-        width: 12
-        height: 12
+        x: 48
+        y: 47
+        width: 16
+        height: 23
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b5e3d284114f32300800000000000000
-      internalID: 226292761361202779
+      spriteID: 4d6bd3c1da262c640bb434ee37d43f30
+      internalID: -101041966
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bat_Sprite_Sheet_4
+      name: Bat_4
       rect:
         serializedVersion: 2
-        x: 63
-        y: 61
-        width: 17
-        height: 8
+        x: 64
+        y: 47
+        width: 16
+        height: 23
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 799d78a27f1aac4d0800000000000000
-      internalID: -3113498109430736489
+      spriteID: 5ff2dc674ad52cd4297fda102d824538
+      internalID: -953284555
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bat_Sprite_Sheet_5
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 36
-        width: 15
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f655897be86552a80800000000000000
-      internalID: -8492286351371643537
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bat_Sprite_Sheet_6
-      rect:
-        serializedVersion: 2
-        x: 17
-        y: 35
-        width: 14
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8fe05165d194006a0800000000000000
-      internalID: -6485103073066414344
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bat_Sprite_Sheet_7
-      rect:
-        serializedVersion: 2
-        x: 33
-        y: 33
-        width: 13
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9c066bc2719054ca0800000000000000
-      internalID: -6033406130653863735
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bat_Sprite_Sheet_8
-      rect:
-        serializedVersion: 2
-        x: 49
-        y: 34
-        width: 13
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: eed884ff0043912c0800000000000000
-      internalID: -4460476777046176274
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bat_Sprite_Sheet_9
-      rect:
-        serializedVersion: 2
-        x: 63
-        y: 37
-        width: 17
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4a7ab1954d7e2ab30800000000000000
-      internalID: 4297251893678942116
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bat_Sprite_Sheet_10
+      name: Bat_5
       rect:
         serializedVersion: 2
         x: 0
-        y: 10
-        width: 17
-        height: 11
+        y: 24
+        width: 16
+        height: 23
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 8cacc8c6fd99149d0800000000000000
-      internalID: -2791781109115073848
+      spriteID: f15449da497504f4583df3b983321768
+      internalID: -2011515010
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bat_Sprite_Sheet_11
+      name: Bat_6
       rect:
         serializedVersion: 2
-        x: 17
-        y: 8
-        width: 12
-        height: 13
+        x: 16
+        y: 24
+        width: 16
+        height: 23
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: de9bc019498fa5170800000000000000
-      internalID: 8168114191162194413
+      spriteID: 91624ba52170bed4b9eb528f56b7a024
+      internalID: 359914837
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bat_Sprite_Sheet_12
+      name: Bat_7
       rect:
         serializedVersion: 2
-        x: 34
-        y: 5
-        width: 10
-        height: 12
+        x: 32
+        y: 24
+        width: 16
+        height: 23
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 0f36544a57307b680800000000000000
-      internalID: -8739512748087090192
+      spriteID: adf1f539a05932746bf6ce2137833383
+      internalID: 112391749
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bat_Sprite_Sheet_13
+      name: Bat_8
       rect:
         serializedVersion: 2
-        x: 49
+        x: 48
+        y: 24
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100586bbf329514468d27942a4c53579
+      internalID: 417049430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 24
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3061dda5fc6f89643bdd8c91e5940343
+      internalID: 1535546465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat_10
+      rect:
+        serializedVersion: 2
+        x: 0
         y: 1
-        width: 11
-        height: 11
+        width: 16
+        height: 23
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a493116e39b05e9c0800000000000000
-      internalID: -3898697172571309750
+      spriteID: 4dedf9d47f233de4cb923431747882e9
+      internalID: -1985883032
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bat_Sprite_Sheet_14
+      name: Bat_11
       rect:
         serializedVersion: 2
-        x: 63
-        y: 0
-        width: 17
-        height: 7
+        x: 16
+        y: 1
+        width: 16
+        height: 23
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 55e2597ebe21d2d30800000000000000
-      internalID: 4408200414677511765
+      spriteID: ed8c72686e39f0745888e1cfc900ff15
+      internalID: -939312515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507fcc5eb0c57fa4792c1710607e0f56
+      internalID: 251343959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d184bdc4087884fa0420444d108dbd
+      internalID: 20573374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d574631eec0073544bddb386e5a51e26
+      internalID: 1723606381
       vertices: []
       indices: 
       edges: []
@@ -501,7 +501,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 83ccb0c19d428424aba64e93634ef451
     internalID: 0
     vertices: []
     indices: 
@@ -511,21 +511,21 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Bat_Sprite_Sheet_0: 4754826937556007664
-      Bat_Sprite_Sheet_1: 1950037884440723967
-      Bat_Sprite_Sheet_10: -2791781109115073848
-      Bat_Sprite_Sheet_11: 8168114191162194413
-      Bat_Sprite_Sheet_12: -8739512748087090192
-      Bat_Sprite_Sheet_13: -3898697172571309750
-      Bat_Sprite_Sheet_14: 4408200414677511765
-      Bat_Sprite_Sheet_2: -4967168449681225887
-      Bat_Sprite_Sheet_3: 226292761361202779
-      Bat_Sprite_Sheet_4: -3113498109430736489
-      Bat_Sprite_Sheet_5: -8492286351371643537
-      Bat_Sprite_Sheet_6: -6485103073066414344
-      Bat_Sprite_Sheet_7: -6033406130653863735
-      Bat_Sprite_Sheet_8: -4460476777046176274
-      Bat_Sprite_Sheet_9: 4297251893678942116
+      Bat_0: 402740201
+      Bat_1: 1778034384
+      Bat_10: -1985883032
+      Bat_11: -939312515
+      Bat_12: 251343959
+      Bat_13: 20573374
+      Bat_14: 1723606381
+      Bat_2: -2139589651
+      Bat_3: -101041966
+      Bat_4: -953284555
+      Bat_5: -2011515010
+      Bat_6: 359914837
+      Bat_7: 112391749
+      Bat_8: 417049430
+      Bat_9: 1535546465
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
