@@ -8,6 +8,11 @@ public class DeckSO : ScriptableObject
 
     private const string SaveFileName = "DeckData.json";
 
+    public void InitDeck()
+    {
+        agentDeckList.Clear();
+    }
+
     public void SaveDeck()
     {
         DeckData data = new DeckData();
