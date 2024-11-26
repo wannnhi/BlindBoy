@@ -222,727 +222,727 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Korred Sprite Sheet_0
+      name: OldMage_0
       rect:
         serializedVersion: 2
-        x: 5
-        y: 159
-        width: 23
-        height: 19
+        x: 0
+        y: 160
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b879135b15b285b20800000000000000
-      internalID: 3123293971513710475
+      spriteID: d376d6ae454d8d24fb5f29279ce6bea7
+      internalID: 1740034711
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Korred Sprite Sheet_1
+      name: OldMage_1
       rect:
         serializedVersion: 2
-        x: 37
-        y: 159
-        width: 23
-        height: 19
+        x: 32
+        y: 160
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 5185d044e3b570870800000000000000
-      internalID: 8648981932376152085
+      spriteID: ed5e342fe8a751d438f035ef9282a092
+      internalID: 1223990022
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Korred Sprite Sheet_2
+      name: OldMage_2
       rect:
         serializedVersion: 2
-        x: 69
-        y: 159
-        width: 23
-        height: 20
+        x: 64
+        y: 160
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 74a3d29609715b210800000000000000
-      internalID: 1348009572474632775
+      spriteID: 2f66968a9fe2b96468ef888f9ce78bdc
+      internalID: -522530156
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Korred Sprite Sheet_3
+      name: OldMage_3
       rect:
         serializedVersion: 2
-        x: 101
-        y: 159
-        width: 23
-        height: 19
+        x: 96
+        y: 160
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 273b957bcacc1e010800000000000000
-      internalID: 1216478416549294962
+      spriteID: 24ef1a98b1b98854cbdb2788789a3054
+      internalID: 1694027962
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Korred Sprite Sheet_4
+      name: OldMage_4
       rect:
         serializedVersion: 2
-        x: 5
-        y: 127
-        width: 23
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ca1b410cf2ec2adf0800000000000000
-      internalID: -170347131405291092
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Korred Sprite Sheet_5
-      rect:
-        serializedVersion: 2
-        x: 37
+        x: 0
         y: 128
-        width: 23
-        height: 20
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: fbc093fa819c30e50800000000000000
-      internalID: 6774479372351507647
+      spriteID: b8355e9b02d6e02469367ccdaa4bfe2e
+      internalID: -1641588645
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Korred Sprite Sheet_6
+      name: OldMage_5
       rect:
         serializedVersion: 2
-        x: 69
-        y: 131
-        width: 23
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ff94461a7e321ecb0800000000000000
-      internalID: -4836545047067080193
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Korred Sprite Sheet_7
-      rect:
-        serializedVersion: 2
-        x: 101
-        y: 129
-        width: 23
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7dff0bff53b72fe90800000000000000
-      internalID: -6993391799499685929
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Korred Sprite Sheet_8
-      rect:
-        serializedVersion: 2
-        x: 133
-        y: 127
-        width: 23
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0f7c25eaa4c281c70800000000000000
-      internalID: 8941945759407982576
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Korred Sprite Sheet_9
-      rect:
-        serializedVersion: 2
-        x: 165
+        x: 32
         y: 128
-        width: 23
-        height: 21
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 36bc37d48138f9f90800000000000000
-      internalID: -6944687959980127389
+      spriteID: 0ad94f0e69a9c784c96351caf96a56d0
+      internalID: 1644726437
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Korred Sprite Sheet_10
+      name: OldMage_6
       rect:
         serializedVersion: 2
-        x: 198
-        y: 129
-        width: 22
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6f7e6246719605cf0800000000000000
-      internalID: -265596828829423626
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Korred Sprite Sheet_11
-      rect:
-        serializedVersion: 2
-        x: 229
+        x: 64
         y: 128
-        width: 23
-        height: 21
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 925b2697ad64fe540800000000000000
-      internalID: 5039324412204201257
+      spriteID: ba1472c70a11b2846991059f27df83a5
+      internalID: 434245027
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Korred Sprite Sheet_12
+      name: OldMage_7
       rect:
         serializedVersion: 2
-        x: 5
-        y: 95
-        width: 23
-        height: 19
+        x: 96
+        y: 128
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: c19c8ec3301447170800000000000000
-      internalID: 8175230705746888988
+      spriteID: bfac9f40185014541bb4c02bbff9de5b
+      internalID: 1495395664
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Korred Sprite Sheet_13
+      name: OldMage_8
       rect:
         serializedVersion: 2
-        x: 37
-        y: 95
-        width: 21
-        height: 20
+        x: 128
+        y: 128
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 1b33b502e756128a0800000000000000
-      internalID: -6331668008723074127
+      spriteID: b1c830a937cff6c4688f1f9921166c86
+      internalID: -151165472
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Korred Sprite Sheet_14
+      name: OldMage_9
       rect:
         serializedVersion: 2
-        x: 68
-        y: 95
-        width: 20
-        height: 20
+        x: 160
+        y: 128
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 64c1c6ca643d8dd50800000000000000
-      internalID: 6762387140990737478
+      spriteID: c905627c1074a3444a31138376760116
+      internalID: -1914684242
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Korred Sprite Sheet_15
+      name: OldMage_10
       rect:
         serializedVersion: 2
-        x: 101
-        y: 95
-        width: 28
-        height: 18
+        x: 192
+        y: 128
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 80162b531a265d850800000000000000
-      internalID: 6401130889907167496
+      spriteID: 36e3509a0fdcb2e4593d2e7b6bc0de1e
+      internalID: 360171312
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Korred Sprite Sheet_16
+      name: OldMage_11
       rect:
         serializedVersion: 2
-        x: 133
-        y: 95
-        width: 18
-        height: 17
+        x: 224
+        y: 128
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 93f5bd40e03215380800000000000000
-      internalID: -8984361238509428935
+      spriteID: 3121154d303fe71469786cc5d507d6a0
+      internalID: -1357025129
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Korred Sprite Sheet_17
+      name: OldMage_12
       rect:
         serializedVersion: 2
-        x: 4
-        y: 63
-        width: 24
-        height: 19
+        x: 0
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b8f20b48ebc0ad630800000000000000
-      internalID: 3952485635380490123
+      spriteID: 562afec38b398ef4083157247d7ac465
+      internalID: -1695438634
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Korred Sprite Sheet_18
+      name: OldMage_13
       rect:
         serializedVersion: 2
-        x: 35
-        y: 63
-        width: 25
-        height: 19
+        x: 32
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 8e68d58e196997930800000000000000
-      internalID: 4141506885756749544
+      spriteID: a28e61d40f66eba44a1ea7914261b860
+      internalID: -557015918
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Korred Sprite Sheet_19
+      name: OldMage_14
       rect:
         serializedVersion: 2
-        x: 67
-        y: 63
-        width: 25
-        height: 19
+        x: 64
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 6f4db435e0d433fb0800000000000000
-      internalID: -4669303664730712842
+      spriteID: be651f3092dddd54385b4ca2bcc3df3c
+      internalID: 1324118754
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Korred Sprite Sheet_20
+      name: OldMage_15
       rect:
         serializedVersion: 2
-        x: 101
-        y: 63
-        width: 23
-        height: 19
+        x: 96
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: ccf146240b73e91b0800000000000000
-      internalID: -5648015652508393524
+      spriteID: 90fd0c79c80908b40a30b3fe22fc5fd9
+      internalID: -1237548829
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Korred Sprite Sheet_21
+      name: OldMage_16
       rect:
         serializedVersion: 2
-        x: 134
-        y: 63
-        width: 22
-        height: 19
+        x: 128
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 3be70bc53fe9dcc60800000000000000
-      internalID: 7840097294391213747
+      spriteID: f15f29ed45c28594f99371d0bfca0714
+      internalID: 1562840655
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Korred Sprite Sheet_22
+      name: OldMage_17
       rect:
         serializedVersion: 2
-        x: 167
-        y: 63
-        width: 19
-        height: 19
+        x: 0
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: bba6b005cc6caf4b0800000000000000
-      internalID: -5405789821886305605
+      spriteID: f9b596c44599aca4e9299a983155f8a6
+      internalID: 2033562834
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Korred Sprite Sheet_23
+      name: OldMage_18
       rect:
         serializedVersion: 2
-        x: 199
-        y: 63
-        width: 19
-        height: 19
+        x: 32
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 2b76f7981c60bdec0800000000000000
-      internalID: -3541229253691480142
+      spriteID: f45947465a6d50942a8c65dfc323df91
+      internalID: 1959741152
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Korred Sprite Sheet_24
+      name: OldMage_19
       rect:
         serializedVersion: 2
-        x: 230
-        y: 63
-        width: 22
-        height: 19
+        x: 64
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 30db2e845c5ae5da0800000000000000
-      internalID: -5954139390587257597
+      spriteID: 5a34c8cdf102b7d428609f8c12d59956
+      internalID: 993928501
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Korred Sprite Sheet_25
+      name: OldMage_20
       rect:
         serializedVersion: 2
-        x: 5
-        y: 31
-        width: 23
-        height: 19
+        x: 96
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 4c637cc06d1bcc430800000000000000
-      internalID: 3804611318116726468
+      spriteID: ad488d1e4a96fbc45b703e6b4929a774
+      internalID: 1672305435
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Korred Sprite Sheet_26
+      name: OldMage_21
       rect:
         serializedVersion: 2
-        x: 37
-        y: 31
-        width: 23
-        height: 18
+        x: 128
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 95e27517d98d36bc0800000000000000
-      internalID: -3790948290592821671
+      spriteID: 5dc5ef7dc1ffe7345b89f3aaa419b533
+      internalID: 1684940902
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Korred Sprite Sheet_27
+      name: OldMage_22
       rect:
         serializedVersion: 2
-        x: 69
-        y: 31
-        width: 23
-        height: 18
+        x: 160
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a1627d0a73e3bc020800000000000000
-      internalID: 2363050838128535066
+      spriteID: 631a3a4120891f049a5d2c1c7037fa99
+      internalID: -474702746
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Korred Sprite Sheet_28
+      name: OldMage_23
       rect:
         serializedVersion: 2
-        x: 5
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc11a60f65d3bb34c861b7887fd99db9
+      internalID: -2098814514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OldMage_24
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c9765ecd34b064abea655f81c288b4
+      internalID: 25758348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OldMage_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17194e8e96d751e41bf8fc779b8877b0
+      internalID: -1407130808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OldMage_26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e8458aeb329ce47b9c1bc57d024e19
+      internalID: 2131732360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OldMage_27
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1390e1d2bd6b23f43a702b7d28f48a54
+      internalID: 1904600555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OldMage_28
+      rect:
+        serializedVersion: 2
+        x: 0
         y: 0
-        width: 23
-        height: 18
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 9ce53ee5c83f04df0800000000000000
-      internalID: -197890599391371575
+      spriteID: ab2d3662e97f1bb41afa51097b235a58
+      internalID: 1867421582
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Korred Sprite Sheet_29
+      name: OldMage_29
       rect:
         serializedVersion: 2
-        x: 37
+        x: 32
         y: 0
-        width: 23
-        height: 17
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 8a463c3cfab244c70800000000000000
-      internalID: 8954329993023022248
+      spriteID: 5d0777fa1af136349a1a3c39ed8fac72
+      internalID: 155740571
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Korred Sprite Sheet_30
+      name: OldMage_30
       rect:
         serializedVersion: 2
-        x: 69
+        x: 64
         y: 0
-        width: 23
-        height: 17
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 8d82cb9a7c442ff50800000000000000
-      internalID: 6913664002303994072
+      spriteID: 80b4890a73dabf740b6fe6b2abb3d83b
+      internalID: -1555062595
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Korred Sprite Sheet_31
+      name: OldMage_31
       rect:
         serializedVersion: 2
-        x: 101
+        x: 96
         y: 0
-        width: 26
-        height: 16
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: dbabc9b511930a750800000000000000
-      internalID: 6314109424287660733
+      spriteID: d2bb0f21fa0283042824b6e3b9c758e9
+      internalID: -1047116249
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Korred Sprite Sheet_32
+      name: OldMage_32
       rect:
         serializedVersion: 2
-        x: 133
+        x: 128
         y: 0
-        width: 28
-        height: 15
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 3654b00daabe79d50800000000000000
-      internalID: 6744118085877974371
+      spriteID: e85092d2f9e3f5446a686cd04aeb6705
+      internalID: 514120243
       vertices: []
       indices: 
       edges: []
@@ -951,7 +951,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 1d8fb490b03c30043afc41246b0c9f5f
     internalID: 0
     vertices: []
     indices: 
@@ -961,39 +961,39 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Korred Sprite Sheet_0: 3123293971513710475
-      Korred Sprite Sheet_1: 8648981932376152085
-      Korred Sprite Sheet_10: -265596828829423626
-      Korred Sprite Sheet_11: 5039324412204201257
-      Korred Sprite Sheet_12: 8175230705746888988
-      Korred Sprite Sheet_13: -6331668008723074127
-      Korred Sprite Sheet_14: 6762387140990737478
-      Korred Sprite Sheet_15: 6401130889907167496
-      Korred Sprite Sheet_16: -8984361238509428935
-      Korred Sprite Sheet_17: 3952485635380490123
-      Korred Sprite Sheet_18: 4141506885756749544
-      Korred Sprite Sheet_19: -4669303664730712842
-      Korred Sprite Sheet_2: 1348009572474632775
-      Korred Sprite Sheet_20: -5648015652508393524
-      Korred Sprite Sheet_21: 7840097294391213747
-      Korred Sprite Sheet_22: -5405789821886305605
-      Korred Sprite Sheet_23: -3541229253691480142
-      Korred Sprite Sheet_24: -5954139390587257597
-      Korred Sprite Sheet_25: 3804611318116726468
-      Korred Sprite Sheet_26: -3790948290592821671
-      Korred Sprite Sheet_27: 2363050838128535066
-      Korred Sprite Sheet_28: -197890599391371575
-      Korred Sprite Sheet_29: 8954329993023022248
-      Korred Sprite Sheet_3: 1216478416549294962
-      Korred Sprite Sheet_30: 6913664002303994072
-      Korred Sprite Sheet_31: 6314109424287660733
-      Korred Sprite Sheet_32: 6744118085877974371
-      Korred Sprite Sheet_4: -170347131405291092
-      Korred Sprite Sheet_5: 6774479372351507647
-      Korred Sprite Sheet_6: -4836545047067080193
-      Korred Sprite Sheet_7: -6993391799499685929
-      Korred Sprite Sheet_8: 8941945759407982576
-      Korred Sprite Sheet_9: -6944687959980127389
+      OldMage_0: 1740034711
+      OldMage_1: 1223990022
+      OldMage_10: 360171312
+      OldMage_11: -1357025129
+      OldMage_12: -1695438634
+      OldMage_13: -557015918
+      OldMage_14: 1324118754
+      OldMage_15: -1237548829
+      OldMage_16: 1562840655
+      OldMage_17: 2033562834
+      OldMage_18: 1959741152
+      OldMage_19: 993928501
+      OldMage_2: -522530156
+      OldMage_20: 1672305435
+      OldMage_21: 1684940902
+      OldMage_22: -474702746
+      OldMage_23: -2098814514
+      OldMage_24: 25758348
+      OldMage_25: -1407130808
+      OldMage_26: 2131732360
+      OldMage_27: 1904600555
+      OldMage_28: 1867421582
+      OldMage_29: 155740571
+      OldMage_3: 1694027962
+      OldMage_30: -1555062595
+      OldMage_31: -1047116249
+      OldMage_32: 514120243
+      OldMage_4: -1641588645
+      OldMage_5: 1644726437
+      OldMage_6: 434245027
+      OldMage_7: 1495395664
+      OldMage_8: -151165472
+      OldMage_9: -1914684242
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

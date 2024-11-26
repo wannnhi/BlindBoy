@@ -17,7 +17,10 @@ public class PlayerManager : MonoSingleton<PlayerManager>
         
     }
 
-
+    public void AddMoney(float money)
+    {
+        currentMoney += money;
+    }
 
 
     public void AddHero(EntityStatusSO enityStatus)

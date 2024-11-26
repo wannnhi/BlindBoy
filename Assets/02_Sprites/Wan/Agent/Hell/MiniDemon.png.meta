@@ -309,1365 +309,1673 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Imp Sprite Sheet_0
+      name: MiniDemon_0
       rect:
         serializedVersion: 2
-        x: 6
-        y: 351
-        width: 17
-        height: 15
+        x: 0
+        y: 352
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: eb2d87acbb95f8e90800000000000000
-      internalID: -7021294630956641602
+      spriteID: d0ffb403a722ea146b48b711e925a178
+      internalID: 1005350931
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Imp Sprite Sheet_1
+      name: MiniDemon_1
       rect:
         serializedVersion: 2
-        x: 38
-        y: 351
-        width: 17
-        height: 14
+        x: 32
+        y: 352
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 5337acb9839afd250800000000000000
-      internalID: 5971677691513566005
+      spriteID: 62567a0861221bd4583da1f305fd6d79
+      internalID: -663685719
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Imp Sprite Sheet_2
+      name: MiniDemon_2
       rect:
         serializedVersion: 2
-        x: 70
-        y: 351
-        width: 17
-        height: 14
+        x: 64
+        y: 352
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b6cccdfcc11f30f70800000000000000
-      internalID: 9152423973795712107
+      spriteID: d6c29a7f6e1daa34a8fa3de13c95eefb
+      internalID: 574586198
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Imp Sprite Sheet_3
+      name: MiniDemon_3
       rect:
         serializedVersion: 2
-        x: 102
-        y: 351
-        width: 17
-        height: 14
+        x: 96
+        y: 352
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 7231c4ab7ce1744c0800000000000000
-      internalID: -4303437075756346585
+      spriteID: 792b1e9ae46928e47b16074787e3114d
+      internalID: -963439770
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Imp Sprite Sheet_4
+      name: MiniDemon_4
       rect:
         serializedVersion: 2
-        x: 134
-        y: 351
-        width: 17
-        height: 14
+        x: 128
+        y: 352
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 797f6ccb05bd621a0800000000000000
-      internalID: -6834534244677126249
+      spriteID: 47cc300e0f40f0644a7d579d167c8955
+      internalID: -1964189119
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Imp Sprite Sheet_5
+      name: MiniDemon_5
       rect:
         serializedVersion: 2
-        x: 166
-        y: 351
-        width: 17
-        height: 14
+        x: 160
+        y: 352
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: c29f87792c33abfb0800000000000000
-      internalID: -4631332355939174100
+      spriteID: 8f7475b6f7ac1c24e9944c5e8f4f16a8
+      internalID: -274451175
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Imp Sprite Sheet_6
+      name: MiniDemon_6
       rect:
         serializedVersion: 2
-        x: 198
-        y: 351
-        width: 17
-        height: 15
+        x: 192
+        y: 352
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: d2b271ca028a38320800000000000000
-      internalID: 2559073871556193069
+      spriteID: 1cd4b1139d8b36c428cf34a54f781e60
+      internalID: -1357298246
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Imp Sprite Sheet_7
+      name: MiniDemon_7
       rect:
         serializedVersion: 2
-        x: 6
+        x: 0
         y: 320
-        width: 17
-        height: 15
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 9049e0bb3f52f2e20800000000000000
-      internalID: 3327920378395661321
+      spriteID: fc1d1c4c462e4bc44b08d1f4d2b9b53c
+      internalID: -535306898
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Imp Sprite Sheet_8
+      name: MiniDemon_8
       rect:
         serializedVersion: 2
-        x: 38
-        y: 321
-        width: 17
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a2ce7173e75987b50800000000000000
-      internalID: 6591182423979453482
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Imp Sprite Sheet_9
-      rect:
-        serializedVersion: 2
-        x: 70
+        x: 32
         y: 320
-        width: 17
-        height: 15
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 6c9020f21c9d4e450800000000000000
-      internalID: 6117253617616554438
+      spriteID: 642f2da9190f7334198dbcee32a4c82b
+      internalID: 1172815289
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Imp Sprite Sheet_10
+      name: MiniDemon_9
       rect:
         serializedVersion: 2
-        x: 102
-        y: 319
-        width: 17
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 220a71b3e92974330800000000000000
-      internalID: 3695083227574673442
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Imp Sprite Sheet_11
-      rect:
-        serializedVersion: 2
-        x: 134
+        x: 64
         y: 320
-        width: 17
-        height: 15
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 5409514d33f393e70800000000000000
-      internalID: 9095370414285492293
+      spriteID: 18d7e48a101caf44f9a4877018a0eacb
+      internalID: 1964332582
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Imp Sprite Sheet_12
+      name: MiniDemon_10
       rect:
         serializedVersion: 2
-        x: 167
-        y: 321
-        width: 16
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3394094d361df9cd0800000000000000
-      internalID: -2549088637370218189
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Imp Sprite Sheet_13
-      rect:
-        serializedVersion: 2
-        x: 198
+        x: 96
         y: 320
-        width: 17
-        height: 15
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 29deabee268dcdab0800000000000000
-      internalID: -4981869168354988654
+      spriteID: 29997310e9e3f9e489a979cf9f5d439a
+      internalID: -373640651
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Imp Sprite Sheet_14
+      name: MiniDemon_11
       rect:
         serializedVersion: 2
-        x: 230
-        y: 319
-        width: 17
-        height: 14
+        x: 128
+        y: 320
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 861d6547879e980f0800000000000000
-      internalID: -1114102729240293016
+      spriteID: 7c21b5f9dd401ae4186b96a3677d577d
+      internalID: 440510517
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Imp Sprite Sheet_15
+      name: MiniDemon_12
       rect:
         serializedVersion: 2
-        x: 7
-        y: 287
-        width: 16
-        height: 15
+        x: 160
+        y: 320
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 18d273043babf90c0800000000000000
-      internalID: -4566726218091123327
+      spriteID: a124668a83c60d044b3668ef242fadb0
+      internalID: -1023270244
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Imp Sprite Sheet_16
+      name: MiniDemon_13
       rect:
         serializedVersion: 2
-        x: 39
-        y: 287
-        width: 15
-        height: 15
+        x: 192
+        y: 320
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 187a3a150414356a0800000000000000
-      internalID: -6461749295843137663
+      spriteID: 8deb7831ed416864ba5092ada7bf80f3
+      internalID: 1835795835
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Imp Sprite Sheet_17
+      name: MiniDemon_14
       rect:
         serializedVersion: 2
-        x: 70
-        y: 287
-        width: 18
-        height: 15
+        x: 224
+        y: 320
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: ba730a852298bef30800000000000000
-      internalID: 4605925824525252523
+      spriteID: c2b93f0fba6999a41a6d19ff07b473d4
+      internalID: 1326576754
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Imp Sprite Sheet_18
+      name: MiniDemon_15
       rect:
         serializedVersion: 2
-        x: 102
-        y: 287
-        width: 18
-        height: 14
+        x: 0
+        y: 288
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 0331e694dad986b00800000000000000
-      internalID: 822080299581969200
+      spriteID: 3702220d871b53f42b057e4cea10793a
+      internalID: 1960677683
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Imp Sprite Sheet_19
+      name: MiniDemon_16
       rect:
         serializedVersion: 2
-        x: 134
-        y: 287
-        width: 18
-        height: 15
+        x: 32
+        y: 288
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 1c57eebddfece4590800000000000000
-      internalID: -7687979924162972223
+      spriteID: c6a8010b9a5657349b8480b07df096fb
+      internalID: -237538785
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Imp Sprite Sheet_20
+      name: MiniDemon_17
       rect:
         serializedVersion: 2
-        x: 166
-        y: 287
-        width: 17
-        height: 15
+        x: 64
+        y: 288
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 7093e20d0aea4b050800000000000000
-      internalID: 5815465024552843527
+      spriteID: 0cf21077aaa3e6e46ae737bc9af6239d
+      internalID: 635237469
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Imp Sprite Sheet_21
+      name: MiniDemon_18
       rect:
         serializedVersion: 2
-        x: 7
-        y: 255
-        width: 17
-        height: 15
+        x: 96
+        y: 288
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 899744e0fcda115d0800000000000000
-      internalID: -3093500364217615976
+      spriteID: 58fb9220ad14ce849aea01543fab5101
+      internalID: 568932749
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Imp Sprite Sheet_22
+      name: MiniDemon_19
       rect:
         serializedVersion: 2
-        x: 39
-        y: 255
-        width: 17
-        height: 14
+        x: 128
+        y: 288
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 3b36282f088ac2360800000000000000
-      internalID: 7146271980508046259
+      spriteID: 58e5ea3d0031b3843b5a19eb9721cfb7
+      internalID: 1360135967
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Imp Sprite Sheet_23
+      name: MiniDemon_20
       rect:
         serializedVersion: 2
-        x: 71
-        y: 255
-        width: 17
-        height: 13
+        x: 160
+        y: 288
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b795c9458c92dca20800000000000000
-      internalID: 3084167260208388475
+      spriteID: aa92dc120aaad5541b7cad14fa68db37
+      internalID: -852569728
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Imp Sprite Sheet_24
+      name: MiniDemon_21
       rect:
         serializedVersion: 2
-        x: 103
-        y: 255
-        width: 17
-        height: 14
+        x: 0
+        y: 256
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 4f59cf694124696f0800000000000000
-      internalID: -678282037672765964
+      spriteID: 12e48378e0196eb4285d2b8659bfcbd2
+      internalID: 211594004
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Imp Sprite Sheet_25
+      name: MiniDemon_22
       rect:
         serializedVersion: 2
-        x: 7
-        y: 195
-        width: 36
-        height: 43
+        x: 32
+        y: 256
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 485cdca5fec000060800000000000000
-      internalID: 6917543249801233796
+      spriteID: b3371cda0cc892a45b7199c52824e944
+      internalID: 325490252
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Imp Sprite Sheet_26
+      name: MiniDemon_23
       rect:
         serializedVersion: 2
-        x: 39
-        y: 223
-        width: 17
-        height: 14
+        x: 64
+        y: 256
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: d2cc4d8380dab0c60800000000000000
-      internalID: 7785506631664847917
+      spriteID: 053632b7d67a3384da3686c8b33254e0
+      internalID: 1833013983
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Imp Sprite Sheet_27
+      name: MiniDemon_24
       rect:
         serializedVersion: 2
-        x: 71
-        y: 196
-        width: 24
-        height: 40
+        x: 96
+        y: 256
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 01386c4975a5811f0800000000000000
-      internalID: -1074009178923171056
+      spriteID: cf32e78b198006b43a6788b8019147b7
+      internalID: -1808551742
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Imp Sprite Sheet_28
+      name: MiniDemon_25
       rect:
         serializedVersion: 2
-        x: 103
-        y: 196
-        width: 24
-        height: 39
+        x: 0
+        y: 224
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 7b819759542a64ac0800000000000000
-      internalID: -3871228409934178121
+      spriteID: aa9873d06968704478a2693c4fa7b426
+      internalID: -195541837
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Imp Sprite Sheet_29
+      name: MiniDemon_26
       rect:
         serializedVersion: 2
-        x: 134
-        y: 223
-        width: 18
-        height: 11
+        x: 32
+        y: 224
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: ee4b6c4f795ed91d0800000000000000
-      internalID: -3342262907629554450
+      spriteID: 8ed4f700184589d419152bc6f8b431e6
+      internalID: 633448923
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Imp Sprite Sheet_30
+      name: MiniDemon_27
       rect:
         serializedVersion: 2
-        x: 152
-        y: 194
-        width: 39
-        height: 40
+        x: 64
+        y: 224
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 6af41efc6f6fec850800000000000000
-      internalID: 6399323660450090918
+      spriteID: 203d4113cfc96a04fa3b8a458fde4414
+      internalID: -828800139
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Imp Sprite Sheet_31
+      name: MiniDemon_28
       rect:
         serializedVersion: 2
-        x: 201
-        y: 159
-        width: 22
-        height: 43
+        x: 96
+        y: 224
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: f122837e917085030800000000000000
-      internalID: 3483542119605871135
+      spriteID: edfd2a9ff3f2b19418ea3887bafd21d7
+      internalID: -1450517633
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Imp Sprite Sheet_32
+      name: MiniDemon_29
       rect:
         serializedVersion: 2
-        x: 9
-        y: 159
-        width: 17
-        height: 15
+        x: 128
+        y: 224
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 2bbdb5964b2d3f840800000000000000
-      internalID: 5256776862375074738
+      spriteID: dc54bf61496bf8f43bf5b864dd72ecff
+      internalID: -260831809
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Imp Sprite Sheet_33
+      name: MiniDemon_30
       rect:
         serializedVersion: 2
-        x: 41
-        y: 159
-        width: 17
-        height: 14
+        x: 160
+        y: 224
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 6e1943848de662530800000000000000
-      internalID: 3829870408328581606
+      spriteID: 876d519f60354b343bba95c02a517180
+      internalID: 1391764883
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Imp Sprite Sheet_34
+      name: MiniDemon_31
       rect:
         serializedVersion: 2
-        x: 73
-        y: 159
-        width: 17
-        height: 14
+        x: 0
+        y: 192
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: f6bdb94a7c07c90c0800000000000000
-      internalID: -4567651919298045073
+      spriteID: 44ac6752a68563a48a5041efb6dd6012
+      internalID: -1360225731
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Imp Sprite Sheet_35
+      name: MiniDemon_32
       rect:
         serializedVersion: 2
-        x: 105
-        y: 159
-        width: 17
-        height: 14
+        x: 32
+        y: 192
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 22ea00dc3e9ac6340800000000000000
-      internalID: 4858444893887966754
+      spriteID: e8ccf3acb9c0a2d4ca3c51e19c97b2ad
+      internalID: 1184547816
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Imp Sprite Sheet_36
+      name: MiniDemon_33
       rect:
         serializedVersion: 2
-        x: 137
-        y: 159
-        width: 17
-        height: 14
+        x: 64
+        y: 192
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 54dd3dd744769d400800000000000000
-      internalID: 349423989964397893
+      spriteID: 189ac782fa50c65499c6f724f923b92a
+      internalID: 1642249560
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Imp Sprite Sheet_37
+      name: MiniDemon_34
       rect:
         serializedVersion: 2
-        x: 169
-        y: 159
-        width: 17
-        height: 14
+        x: 96
+        y: 192
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b1a1d07b707b7f6f0800000000000000
-      internalID: -650850377368004069
+      spriteID: 834726b250f46664f8ea653de2e57d06
+      internalID: -1017350512
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Imp Sprite Sheet_38
+      name: MiniDemon_35
       rect:
         serializedVersion: 2
-        x: 9
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc51daeda9a08014fb486b623e135916
+      internalID: 731890001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniDemon_36
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb9ddf701c1f394fb5a6a70b488fef1
+      internalID: -2001105429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniDemon_37
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee66f0a938b9474e99999ce76ed8dd8
+      internalID: 1339636947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniDemon_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9763126d7de2f034a80d4d898a64f9ec
+      internalID: 1742140648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniDemon_39
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d08631bf56d526418948e155d4bb7b0
+      internalID: 477829221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniDemon_40
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab71b16177e5ea4abbbdef366647a64
+      internalID: 1571421060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniDemon_41
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3208865c253b040877287398d813bb
+      internalID: 1234119477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniDemon_42
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0262916ce2f90344bbc159f5f69b0ecc
+      internalID: -1434541114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniDemon_43
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a7c3b3a0e21a649a2835fe47b38e3d
+      internalID: -233050893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniDemon_44
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f3b9a9e6e03e8409b3a037f799beed
+      internalID: 556685612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniDemon_45
+      rect:
+        serializedVersion: 2
+        x: 0
         y: 128
-        width: 17
-        height: 15
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 935e37b6b027d81f0800000000000000
-      internalID: -1041050545479752391
+      spriteID: a91fa0dfbe8aea14d93472deab198f3a
+      internalID: -270623454
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Imp Sprite Sheet_39
+      name: MiniDemon_46
       rect:
         serializedVersion: 2
-        x: 41
-        y: 129
-        width: 17
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9defa6cb3ec853bc0800000000000000
-      internalID: -3803979400497922343
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Imp Sprite Sheet_40
-      rect:
-        serializedVersion: 2
-        x: 73
+        x: 32
         y: 128
-        width: 17
-        height: 15
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a7669f8acad6ace20800000000000000
-      internalID: 3371627859376957050
+      spriteID: 5007849a1d3dd0e478c7b58796ecb53b
+      internalID: -1551935358
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Imp Sprite Sheet_41
+      name: MiniDemon_47
       rect:
         serializedVersion: 2
-        x: 105
-        y: 127
-        width: 17
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 62660b9e5ee46acc0800000000000000
-      internalID: -3700183294463154650
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Imp Sprite Sheet_42
-      rect:
-        serializedVersion: 2
-        x: 137
+        x: 64
         y: 128
-        width: 17
-        height: 15
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 0246f3d3849751490800000000000000
-      internalID: -7776175830413122528
+      spriteID: 6cd1c55a8001df041a570888c144e76c
+      internalID: 1919948479
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Imp Sprite Sheet_43
+      name: MiniDemon_48
       rect:
         serializedVersion: 2
-        x: 169
-        y: 129
-        width: 16
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 602596797e3b534f0800000000000000
-      internalID: -849575147430391290
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Imp Sprite Sheet_44
-      rect:
-        serializedVersion: 2
-        x: 201
+        x: 96
         y: 128
-        width: 17
-        height: 15
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 300d254fd5e4b4fb0800000000000000
-      internalID: -4662546823774023677
+      spriteID: 5cfef72051b7c3c4e93bf797a871119a
+      internalID: -63999784
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Imp Sprite Sheet_45
+      name: MiniDemon_49
       rect:
         serializedVersion: 2
-        x: 233
-        y: 127
-        width: 17
-        height: 14
+        x: 128
+        y: 128
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 1f2e134c0624142e0800000000000000
-      internalID: -2143358964275748111
+      spriteID: 374fdbab0f04406418b134e5d5509bc8
+      internalID: 711555439
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Imp Sprite Sheet_46
+      name: MiniDemon_50
       rect:
         serializedVersion: 2
-        x: 9
-        y: 95
-        width: 16
-        height: 15
+        x: 160
+        y: 128
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 5753f2bf4e3e34ff0800000000000000
-      internalID: -52948197992090251
+      spriteID: bdcf5b956917f2d449d0dcb214f50ec8
+      internalID: 1328493356
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Imp Sprite Sheet_47
+      name: MiniDemon_51
       rect:
         serializedVersion: 2
-        x: 42
-        y: 95
-        width: 15
-        height: 15
+        x: 192
+        y: 128
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 6d9dd4d09a2b919c0800000000000000
-      internalID: -3955934358525847082
+      spriteID: 3146788c019f6584dad3115d2280bc58
+      internalID: -1286218692
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Imp Sprite Sheet_48
+      name: MiniDemon_52
       rect:
         serializedVersion: 2
-        x: 72
-        y: 95
-        width: 18
-        height: 15
+        x: 224
+        y: 128
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 1de3c5101c458a2d0800000000000000
-      internalID: -3267268341729050927
+      spriteID: 29183f0f35e7dd7409ac9eb7be53a49e
+      internalID: 2088557338
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Imp Sprite Sheet_49
+      name: MiniDemon_53
       rect:
         serializedVersion: 2
-        x: 104
-        y: 95
-        width: 18
-        height: 14
+        x: 0
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 922d75095d67a7350800000000000000
-      internalID: 6015250911928504873
+      spriteID: 910a522fed9ca7d48bde4f16beed6e89
+      internalID: 1937044048
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Imp Sprite Sheet_50
+      name: MiniDemon_54
       rect:
         serializedVersion: 2
-        x: 136
-        y: 95
-        width: 18
-        height: 15
+        x: 32
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 49d63e49f9e2da490800000000000000
-      internalID: -7733473722192663148
+      spriteID: 69f9fced5861353429f00f36f3afb68b
+      internalID: 104786518
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Imp Sprite Sheet_51
+      name: MiniDemon_55
       rect:
         serializedVersion: 2
-        x: 169
-        y: 95
-        width: 17
-        height: 15
+        x: 64
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: c8b2f298ccbeb5360800000000000000
-      internalID: 7159575296342961036
+      spriteID: 66a2398eab34d604c82eea5d2ec47e65
+      internalID: 2003791498
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Imp Sprite Sheet_52
+      name: MiniDemon_56
       rect:
         serializedVersion: 2
-        x: 8
-        y: 63
-        width: 17
-        height: 15
+        x: 96
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 87c3f2fa2ebfb4810800000000000000
-      internalID: 1750769831183858808
+      spriteID: 9e48600cd2839f542bff3ba5a341d6d9
+      internalID: 675778456
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Imp Sprite Sheet_53
+      name: MiniDemon_57
       rect:
         serializedVersion: 2
-        x: 40
-        y: 63
-        width: 17
-        height: 14
+        x: 128
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 004166a66dcf85160800000000000000
-      internalID: 7014634417467823104
+      spriteID: 5a18f5aba6e35ed4daa11f206e54e378
+      internalID: -2040088996
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Imp Sprite Sheet_54
+      name: MiniDemon_58
       rect:
         serializedVersion: 2
-        x: 72
-        y: 63
-        width: 17
-        height: 13
+        x: 160
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: c34133c2db0562fc0800000000000000
-      internalID: -3520037285322877892
+      spriteID: 3e82b168e8e7e6446bb1b0b0040bbe4d
+      internalID: 251933479
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Imp Sprite Sheet_55
+      name: MiniDemon_59
       rect:
         serializedVersion: 2
-        x: 104
-        y: 63
-        width: 17
-        height: 14
+        x: 0
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 0486f6dd020dbf1d0800000000000000
-      internalID: -3315827861055641536
+      spriteID: 6f528c5509c6a36468c9cfa69cf92f97
+      internalID: -984185447
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Imp Sprite Sheet_56
+      name: MiniDemon_60
       rect:
         serializedVersion: 2
-        x: 8
-        y: 5
-        width: 17
-        height: 41
+        x: 32
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 6f6afce04873a9130800000000000000
-      internalID: 3574230294595610358
+      spriteID: 3d50f5c824842df42ba9b0180fe2dc17
+      internalID: -1915060329
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Imp Sprite Sheet_57
+      name: MiniDemon_61
       rect:
         serializedVersion: 2
-        x: 40
-        y: 31
-        width: 17
-        height: 14
+        x: 64
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 1dbe0dd24081fa6d0800000000000000
-      internalID: -2977134422441006127
+      spriteID: 732d0d737e449694b8cd8785785f4c0c
+      internalID: 1232163788
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Imp Sprite Sheet_58
+      name: MiniDemon_62
       rect:
         serializedVersion: 2
-        x: 53
-        y: 3
-        width: 83
-        height: 40
+        x: 96
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 5eed883125b04d8e0800000000000000
-      internalID: -1669697114704650523
+      spriteID: 8b6f0d209a54e9b4bbf1bc65dba7eb5e
+      internalID: -163174413
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Imp Sprite Sheet_59
+      name: MiniDemon_63
       rect:
         serializedVersion: 2
-        x: 72
-        y: 31
-        width: 17
-        height: 13
+        x: 0
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: f80025da131c6d2e0800000000000000
-      internalID: -2101279757016366961
+      spriteID: bdfe03dccea05fa4ba2593b97a05a25c
+      internalID: 421237355
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Imp Sprite Sheet_60
+      name: MiniDemon_64
       rect:
         serializedVersion: 2
-        x: 136
-        y: 31
-        width: 18
-        height: 11
+        x: 32
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 07d01adb475cf4240800000000000000
-      internalID: 4778254834851712368
+      spriteID: 137f05991dce3d74197a62963aa7de08
+      internalID: -821029910
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Imp Sprite Sheet_61
+      name: MiniDemon_65
       rect:
         serializedVersion: 2
-        x: 161
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75be1ccc9961741458482792dcfdc1a2
+      internalID: 267341390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniDemon_66
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c355ef4775732f4287b59a4ea4503b5
+      internalID: 1030698453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniDemon_67
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f127b3c75f87d241b7da90b22f1b4d2
+      internalID: 1842271904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniDemon_68
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e250f5eec1f0e84a85044c69b5053ea
+      internalID: 1883061514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniDemon_69
+      rect:
+        serializedVersion: 2
+        x: 0
         y: 0
-        width: 38
-        height: 42
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 8b32cd2c31ee448a0800000000000000
-      internalID: -6321666208280337480
+      spriteID: 7a27917bc7295924b8eccadd0ce3f0ea
+      internalID: 1437825360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniDemon_70
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c21a3bcbd6be984986363485f412f0e
+      internalID: 2109978410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniDemon_71
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818d35650748c314e8ec79200b9791e4
+      internalID: 2138838366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniDemon_72
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42fbf3fe3a028f4fa4a4d04a58679ff
+      internalID: 772951598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniDemon_73
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d735564718310458dd21175526088c
+      internalID: 822661840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniDemon_74
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732b586df9c9a54449a5915f11bb701d
+      internalID: -1905469951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniDemon_75
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530e6b2b5ecedab4e8291d6c4850b916
+      internalID: -214213818
       vertices: []
       indices: 
       edges: []
@@ -1676,7 +1984,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 603bb2daae61d9745b6ea5e3904c81c8
     internalID: 0
     vertices: []
     indices: 
@@ -1686,68 +1994,82 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Imp Sprite Sheet_0: -7021294630956641602
-      Imp Sprite Sheet_1: 5971677691513566005
-      Imp Sprite Sheet_10: 3695083227574673442
-      Imp Sprite Sheet_11: 9095370414285492293
-      Imp Sprite Sheet_12: -2549088637370218189
-      Imp Sprite Sheet_13: -4981869168354988654
-      Imp Sprite Sheet_14: -1114102729240293016
-      Imp Sprite Sheet_15: -4566726218091123327
-      Imp Sprite Sheet_16: -6461749295843137663
-      Imp Sprite Sheet_17: 4605925824525252523
-      Imp Sprite Sheet_18: 822080299581969200
-      Imp Sprite Sheet_19: -7687979924162972223
-      Imp Sprite Sheet_2: 9152423973795712107
-      Imp Sprite Sheet_20: 5815465024552843527
-      Imp Sprite Sheet_21: -3093500364217615976
-      Imp Sprite Sheet_22: 7146271980508046259
-      Imp Sprite Sheet_23: 3084167260208388475
-      Imp Sprite Sheet_24: -678282037672765964
-      Imp Sprite Sheet_25: 6917543249801233796
-      Imp Sprite Sheet_26: 7785506631664847917
-      Imp Sprite Sheet_27: -1074009178923171056
-      Imp Sprite Sheet_28: -3871228409934178121
-      Imp Sprite Sheet_29: -3342262907629554450
-      Imp Sprite Sheet_3: -4303437075756346585
-      Imp Sprite Sheet_30: 6399323660450090918
-      Imp Sprite Sheet_31: 3483542119605871135
-      Imp Sprite Sheet_32: 5256776862375074738
-      Imp Sprite Sheet_33: 3829870408328581606
-      Imp Sprite Sheet_34: -4567651919298045073
-      Imp Sprite Sheet_35: 4858444893887966754
-      Imp Sprite Sheet_36: 349423989964397893
-      Imp Sprite Sheet_37: -650850377368004069
-      Imp Sprite Sheet_38: -1041050545479752391
-      Imp Sprite Sheet_39: -3803979400497922343
-      Imp Sprite Sheet_4: -6834534244677126249
-      Imp Sprite Sheet_40: 3371627859376957050
-      Imp Sprite Sheet_41: -3700183294463154650
-      Imp Sprite Sheet_42: -7776175830413122528
-      Imp Sprite Sheet_43: -849575147430391290
-      Imp Sprite Sheet_44: -4662546823774023677
-      Imp Sprite Sheet_45: -2143358964275748111
-      Imp Sprite Sheet_46: -52948197992090251
-      Imp Sprite Sheet_47: -3955934358525847082
-      Imp Sprite Sheet_48: -3267268341729050927
-      Imp Sprite Sheet_49: 6015250911928504873
-      Imp Sprite Sheet_5: -4631332355939174100
-      Imp Sprite Sheet_50: -7733473722192663148
-      Imp Sprite Sheet_51: 7159575296342961036
-      Imp Sprite Sheet_52: 1750769831183858808
-      Imp Sprite Sheet_53: 7014634417467823104
-      Imp Sprite Sheet_54: -3520037285322877892
-      Imp Sprite Sheet_55: -3315827861055641536
-      Imp Sprite Sheet_56: 3574230294595610358
-      Imp Sprite Sheet_57: -2977134422441006127
-      Imp Sprite Sheet_58: -1669697114704650523
-      Imp Sprite Sheet_59: -2101279757016366961
-      Imp Sprite Sheet_6: 2559073871556193069
-      Imp Sprite Sheet_60: 4778254834851712368
-      Imp Sprite Sheet_61: -6321666208280337480
-      Imp Sprite Sheet_7: 3327920378395661321
-      Imp Sprite Sheet_8: 6591182423979453482
-      Imp Sprite Sheet_9: 6117253617616554438
+      MiniDemon_0: 1005350931
+      MiniDemon_1: -663685719
+      MiniDemon_10: -373640651
+      MiniDemon_11: 440510517
+      MiniDemon_12: -1023270244
+      MiniDemon_13: 1835795835
+      MiniDemon_14: 1326576754
+      MiniDemon_15: 1960677683
+      MiniDemon_16: -237538785
+      MiniDemon_17: 635237469
+      MiniDemon_18: 568932749
+      MiniDemon_19: 1360135967
+      MiniDemon_2: 574586198
+      MiniDemon_20: -852569728
+      MiniDemon_21: 211594004
+      MiniDemon_22: 325490252
+      MiniDemon_23: 1833013983
+      MiniDemon_24: -1808551742
+      MiniDemon_25: -195541837
+      MiniDemon_26: 633448923
+      MiniDemon_27: -828800139
+      MiniDemon_28: -1450517633
+      MiniDemon_29: -260831809
+      MiniDemon_3: -963439770
+      MiniDemon_30: 1391764883
+      MiniDemon_31: -1360225731
+      MiniDemon_32: 1184547816
+      MiniDemon_33: 1642249560
+      MiniDemon_34: -1017350512
+      MiniDemon_35: 731890001
+      MiniDemon_36: -2001105429
+      MiniDemon_37: 1339636947
+      MiniDemon_38: 1742140648
+      MiniDemon_39: 477829221
+      MiniDemon_4: -1964189119
+      MiniDemon_40: 1571421060
+      MiniDemon_41: 1234119477
+      MiniDemon_42: -1434541114
+      MiniDemon_43: -233050893
+      MiniDemon_44: 556685612
+      MiniDemon_45: -270623454
+      MiniDemon_46: -1551935358
+      MiniDemon_47: 1919948479
+      MiniDemon_48: -63999784
+      MiniDemon_49: 711555439
+      MiniDemon_5: -274451175
+      MiniDemon_50: 1328493356
+      MiniDemon_51: -1286218692
+      MiniDemon_52: 2088557338
+      MiniDemon_53: 1937044048
+      MiniDemon_54: 104786518
+      MiniDemon_55: 2003791498
+      MiniDemon_56: 675778456
+      MiniDemon_57: -2040088996
+      MiniDemon_58: 251933479
+      MiniDemon_59: -984185447
+      MiniDemon_6: -1357298246
+      MiniDemon_60: -1915060329
+      MiniDemon_61: 1232163788
+      MiniDemon_62: -163174413
+      MiniDemon_63: 421237355
+      MiniDemon_64: -821029910
+      MiniDemon_65: 267341390
+      MiniDemon_66: 1030698453
+      MiniDemon_67: 1842271904
+      MiniDemon_68: 1883061514
+      MiniDemon_69: 1437825360
+      MiniDemon_7: -535306898
+      MiniDemon_70: 2109978410
+      MiniDemon_71: 2138838366
+      MiniDemon_72: 772951598
+      MiniDemon_73: 822661840
+      MiniDemon_74: -1905469951
+      MiniDemon_75: -214213818
+      MiniDemon_8: 1172815289
+      MiniDemon_9: 1964332582
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
