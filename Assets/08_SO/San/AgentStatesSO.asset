@@ -13,7 +13,6 @@ MonoBehaviour:
   m_Name: AgentStatesSO
   m_EditorClassIdentifier: 
   states:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 11400000, guid: 6e97fc6b3b4681f46ad07a913eac17d6, type: 2}
+  - {fileID: 11400000, guid: 94a90ba9c0c8ac44f98c47c4c4731181, type: 2}
+  - {fileID: 11400000, guid: 45ff241e101a0fb41b3de07a6380436c, type: 2}
