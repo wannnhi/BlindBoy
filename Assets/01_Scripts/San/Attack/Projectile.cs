@@ -1,7 +1,8 @@
+using Redcode.Pools;
 using Unity.VisualScripting;
 using UnityEngine;
 
-public class Projectile : MonoBehaviour
+public class Projectile : MonoBehaviour, IPoolObject
 {
     private Rigidbody2D _rbCompo;
     private Animator _animator;
@@ -11,10 +12,20 @@ public class Projectile : MonoBehaviour
     private float _lifeTime;
     private bool _canImpact = true;
 
-    private void Awake()
+    public void OnCreatedInPool()
     {
         _rbCompo = GetComponent<Rigidbody2D>();
         _animator = GetComponent<Animator>();
+    }
+
+    public void OnGettingFromPool()
+    {
+
+        if (_lifeTime <= 0 && _canImpact)
+        {
+            _canImpact = false;
+            TriggerExplosion();
+        }
     }
 
     private void Update()
@@ -54,4 +65,6 @@ public class Projectile : MonoBehaviour
     {
         Destroy(gameObject);
     }
+
+    
 }

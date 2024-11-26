@@ -1,23 +1,19 @@
+using Redcode.Pools;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
 
-public class Entity : MonoBehaviour
+public class Entity : MonoBehaviour, IPoolObject
 {
     public bool IsDead { get; set; }
     protected Dictionary<Type, IEntityComponent> _components;
 
-    public EnityStatus status;
+    public EnityStatusSO status;
 
     protected virtual void Awake()
     {
-        _components = new Dictionary<Type, IEntityComponent>();
-        GetComponentsInChildren<IEntityComponent>(true).ToList()
-            .ForEach(component => _components.Add(component.GetType(), component));
-
-        InitComponents();
-        AfterInit();
+        
     }
 
     private void InitComponents()
@@ -50,5 +46,25 @@ public class Entity : MonoBehaviour
         }
 
         return default;
+    }
+
+    public void OnCreatedInPool()
+    {
+        _components = new Dictionary<Type, IEntityComponent>();
+        GetComponentsInChildren<IEntityComponent>(true).ToList()
+            .ForEach(component => _components.Add(component.GetType(), component));
+
+        InitComponents();
+        AfterInit();
+    }
+
+    public void OnGettingFromPool()
+    {
+        _components = new Dictionary<Type, IEntityComponent>();
+        GetComponentsInChildren<IEntityComponent>(true).ToList()
+            .ForEach(component => _components.Add(component.GetType(), component));
+
+        InitComponents();
+        AfterInit();
     }
 }
