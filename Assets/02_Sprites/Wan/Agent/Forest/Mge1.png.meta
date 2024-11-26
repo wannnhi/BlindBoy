@@ -387,1937 +387,2201 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: BlueMage_Sprites_0
+      name: Mge1_0
       rect:
         serializedVersion: 2
-        x: 5
-        y: 351
-        width: 25
-        height: 22
+        x: 0
+        y: 352
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a1305809929aedf70800000000000000
-      internalID: 9213987883630002970
+      spriteID: dd69962faeed6c049b0ba674ee921e74
+      internalID: -2066491816
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueMage_Sprites_1
+      name: Mge1_1
       rect:
         serializedVersion: 2
-        x: 37
-        y: 351
-        width: 26
-        height: 21
+        x: 32
+        y: 352
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 9bfda8925f94ecff0800000000000000
-      internalID: -13992431522750535
+      spriteID: 87f969d06764c79468e1c0885f5410e8
+      internalID: 727995941
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueMage_Sprites_2
+      name: Mge1_2
       rect:
         serializedVersion: 2
-        x: 69
-        y: 351
-        width: 26
-        height: 21
+        x: 64
+        y: 352
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: cf6cf04984ca8c4f0800000000000000
-      internalID: -808206705391319300
+      spriteID: 342d14320d638674d97e1d0fb8893a74
+      internalID: 383454805
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueMage_Sprites_3
+      name: Mge1_3
       rect:
         serializedVersion: 2
-        x: 101
-        y: 351
-        width: 26
-        height: 23
+        x: 96
+        y: 352
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 93813700daf6f1920800000000000000
-      internalID: 2963209868660643897
+      spriteID: f9e8315a2d1e23048bee2cf3b2f1f7d6
+      internalID: -89365670
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueMage_Sprites_4
-      rect:
-        serializedVersion: 2
-        x: 133
-        y: 351
-        width: 26
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e5a79a3686a3b1bf0800000000000000
-      internalID: -352623925795390882
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BlueMage_Sprites_5
-      rect:
-        serializedVersion: 2
-        x: 165
-        y: 351
-        width: 26
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e02cac2ec0bc29950800000000000000
-      internalID: 6454444472180326926
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BlueMage_Sprites_6
-      rect:
-        serializedVersion: 2
-        x: 197
-        y: 351
-        width: 26
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6386b55dc348ea100800000000000000
-      internalID: 121179636798023734
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BlueMage_Sprites_7
-      rect:
-        serializedVersion: 2
-        x: 229
-        y: 351
-        width: 26
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 178841430d744c710800000000000000
-      internalID: 1712572717860161649
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BlueMage_Sprites_8
-      rect:
-        serializedVersion: 2
-        x: 5
-        y: 319
-        width: 24
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a7f82271e38867f00800000000000000
-      internalID: 1114227758078267258
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BlueMage_Sprites_9
-      rect:
-        serializedVersion: 2
-        x: 37
-        y: 319
-        width: 26
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d9942a48f0e12b7b0800000000000000
-      internalID: -5210068766915671651
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BlueMage_Sprites_10
-      rect:
-        serializedVersion: 2
-        x: 69
-        y: 319
-        width: 26
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1db62f65f9584ac10800000000000000
-      internalID: 2063921448647551953
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BlueMage_Sprites_11
-      rect:
-        serializedVersion: 2
-        x: 101
-        y: 319
-        width: 25
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 08752a51a584b2490800000000000000
-      internalID: -7770037180350441600
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BlueMage_Sprites_12
-      rect:
-        serializedVersion: 2
-        x: 133
-        y: 319
-        width: 25
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8f27918c3f955f7b0800000000000000
-      internalID: -5191144091905592584
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BlueMage_Sprites_13
-      rect:
-        serializedVersion: 2
-        x: 165
-        y: 319
-        width: 24
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6b0ce811273899180800000000000000
-      internalID: -9108104245436038986
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BlueMage_Sprites_14
-      rect:
-        serializedVersion: 2
-        x: 197
-        y: 319
-        width: 24
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2b9ea21c7d6195630800000000000000
-      internalID: 3916186466889951666
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BlueMage_Sprites_15
-      rect:
-        serializedVersion: 2
-        x: 229
-        y: 319
-        width: 24
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: dfefeb1f465028150800000000000000
-      internalID: 5873262795155242749
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BlueMage_Sprites_16
-      rect:
-        serializedVersion: 2
-        x: 261
-        y: 319
-        width: 25
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 622d0e719afb25e80800000000000000
-      internalID: -8191274039262522842
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BlueMage_Sprites_17
-      rect:
-        serializedVersion: 2
-        x: 293
-        y: 319
-        width: 25
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cea08d736cbaf22e0800000000000000
-      internalID: -2148309629403657492
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BlueMage_Sprites_18
-      rect:
-        serializedVersion: 2
-        x: 325
-        y: 319
-        width: 24
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2a0738b06ca363870800000000000000
-      internalID: 8662175555564826786
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BlueMage_Sprites_19
-      rect:
-        serializedVersion: 2
-        x: 5
-        y: 287
-        width: 25
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2d45058c4ae667a60800000000000000
-      internalID: 7671440669286618322
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BlueMage_Sprites_20
-      rect:
-        serializedVersion: 2
-        x: 37
-        y: 287
-        width: 25
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0a86bae5ce080ee80800000000000000
-      internalID: -8151373572851668832
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BlueMage_Sprites_21
-      rect:
-        serializedVersion: 2
-        x: 69
-        y: 287
-        width: 25
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 27d1a603ea33056d0800000000000000
-      internalID: -3003844128226534030
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BlueMage_Sprites_22
-      rect:
-        serializedVersion: 2
-        x: 101
-        y: 287
-        width: 25
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 550cec41c8c909770800000000000000
-      internalID: 8615558212618207317
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BlueMage_Sprites_23
-      rect:
-        serializedVersion: 2
-        x: 133
-        y: 287
-        width: 26
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 48e743c684308b470800000000000000
-      internalID: 8410475913702309508
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BlueMage_Sprites_24
-      rect:
-        serializedVersion: 2
-        x: 5
-        y: 255
-        width: 25
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 234f36b2b503bb5f0800000000000000
-      internalID: -739944545644186574
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BlueMage_Sprites_25
-      rect:
-        serializedVersion: 2
-        x: 37
-        y: 255
-        width: 25
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9ae05c04a8439cf90800000000000000
-      internalID: -6932952382963380567
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BlueMage_Sprites_26
-      rect:
-        serializedVersion: 2
-        x: 69
-        y: 255
-        width: 25
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: aba0f8bf429d60cc0800000000000000
-      internalID: -3745067287249483078
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BlueMage_Sprites_27
-      rect:
-        serializedVersion: 2
-        x: 101
-        y: 255
-        width: 25
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b8c8f2b6144e08f20800000000000000
-      internalID: 3422986686423862411
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BlueMage_Sprites_28
-      rect:
-        serializedVersion: 2
-        x: 133
-        y: 255
-        width: 25
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7cea95ca3524dc680800000000000000
-      internalID: -8733251175260246329
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BlueMage_Sprites_29
-      rect:
-        serializedVersion: 2
-        x: 165
-        y: 255
-        width: 25
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 46447b96c950ffc40800000000000000
-      internalID: 5548159435290395748
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BlueMage_Sprites_30
-      rect:
-        serializedVersion: 2
-        x: 197
-        y: 255
-        width: 25
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d80e1993e0d2c1b50800000000000000
-      internalID: 6565171895917994125
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BlueMage_Sprites_31
-      rect:
-        serializedVersion: 2
-        x: 229
-        y: 255
-        width: 25
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f495d2f2672b4a2c0800000000000000
-      internalID: -4421212713503598257
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BlueMage_Sprites_32
-      rect:
-        serializedVersion: 2
-        x: 261
-        y: 255
-        width: 25
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4b7c5e2ccdd73ea80800000000000000
-      internalID: -8438762889646061644
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BlueMage_Sprites_33
-      rect:
-        serializedVersion: 2
-        x: 5
-        y: 223
-        width: 25
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1cacd1a47a970aed0800000000000000
-      internalID: -2404788441605879103
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BlueMage_Sprites_34
-      rect:
-        serializedVersion: 2
-        x: 69
-        y: 223
-        width: 30
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8df0a8ff9fd54a570800000000000000
-      internalID: 8477003726933594072
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BlueMage_Sprites_35
-      rect:
-        serializedVersion: 2
-        x: 133
-        y: 223
-        width: 24
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b1fe99a60daf5a450800000000000000
-      internalID: 6099557043391819547
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BlueMage_Sprites_36
-      rect:
-        serializedVersion: 2
-        x: 153
-        y: 224
-        width: 14
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ff45748f2dd024320800000000000000
-      internalID: 2540608339550098687
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BlueMage_Sprites_37
-      rect:
-        serializedVersion: 2
-        x: 197
-        y: 223
-        width: 24
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b8e69f8a2bb4dff20800000000000000
-      internalID: 3458003319601589899
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BlueMage_Sprites_38
-      rect:
-        serializedVersion: 2
-        x: 217
-        y: 224
-        width: 17
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 45eeb5330ecc9f900800000000000000
-      internalID: 718830878848708180
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BlueMage_Sprites_39
-      rect:
-        serializedVersion: 2
-        x: 261
-        y: 223
-        width: 38
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0a76df29c39d91bd0800000000000000
-      internalID: -2658855250798221408
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BlueMage_Sprites_40
-      rect:
-        serializedVersion: 2
-        x: 325
-        y: 223
-        width: 38
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ea43c4eefb1ddfbd0800000000000000
-      internalID: -2594687188028607314
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BlueMage_Sprites_41
-      rect:
-        serializedVersion: 2
-        x: 5
-        y: 191
-        width: 37
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 97e58cdc13c4db340800000000000000
-      internalID: 4881141347929054841
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BlueMage_Sprites_42
-      rect:
-        serializedVersion: 2
-        x: 67
-        y: 191
-        width: 37
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c69771d5b451d91e0800000000000000
-      internalID: -2189570430403643028
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BlueMage_Sprites_43
-      rect:
-        serializedVersion: 2
-        x: 131
-        y: 191
-        width: 37
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4a84b96731fc24f50800000000000000
-      internalID: 6864276464567273636
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BlueMage_Sprites_44
+      name: Mge1_4
       rect:
         serializedVersion: 2
         x: 128
-        y: 159
-        width: 26
-        height: 23
+        y: 352
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: fcc4a36eac1be6d10800000000000000
-      internalID: 2120827959542172879
+      spriteID: 352a90247c4d03f41aa20658c76c1cca
+      internalID: 493889825
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueMage_Sprites_45
+      name: Mge1_5
       rect:
         serializedVersion: 2
         x: 160
-        y: 159
-        width: 26
-        height: 21
+        y: 352
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: cdb72b6c03e0e0960800000000000000
-      internalID: 7570003626311187420
+      spriteID: 2ca5c0b639f069a46a89a37be079cb57
+      internalID: -1746045191
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueMage_Sprites_46
+      name: Mge1_6
       rect:
         serializedVersion: 2
         x: 192
-        y: 159
-        width: 26
-        height: 23
+        y: 352
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: fefdd6fa43965df40800000000000000
-      internalID: 5752619774038106095
+      spriteID: 77f0b915d8a779a43bb68be90a9c7261
+      internalID: 1422633209
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueMage_Sprites_47
+      name: Mge1_7
       rect:
         serializedVersion: 2
         x: 224
-        y: 159
-        width: 26
-        height: 23
+        y: 352
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b7e345a7ba9939690800000000000000
-      internalID: -7596559184673096069
+      spriteID: 1cbb37c8ba52ae14996fe13e5ce497c9
+      internalID: -1459438450
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueMage_Sprites_48
+      name: Mge1_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7aadab41553cf4991a4691df06bb29
+      internalID: 860175130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mge1_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44741acaee31f124dafaedd8e06af9e9
+      internalID: 1157080317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mge1_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9447dc7448401468a85b44ab22f341
+      internalID: 960299886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mge1_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b6c9692b7a4204ca6cde9338f62a62
+      internalID: 805419829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mge1_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01edde0e7f3333479d4cf6ab2a1f633
+      internalID: -1564878824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mge1_13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856e320a472ee73488f37c869aeacf7c
+      internalID: -899229011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mge1_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efaaae72854096245acdfcbf98490e9f
+      internalID: 135905582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mge1_15
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339f6fe2a4c87d845bf1ced4737aebd3
+      internalID: 1072202539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mge1_16
       rect:
         serializedVersion: 2
         x: 256
-        y: 159
-        width: 26
-        height: 23
+        y: 320
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 374a890df693befd0800000000000000
-      internalID: -2311690831320800141
+      spriteID: aad72e787fe993b45b061a2327463408
+      internalID: -982158234
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueMage_Sprites_49
+      name: Mge1_17
       rect:
         serializedVersion: 2
         x: 288
-        y: 159
-        width: 26
-        height: 21
+        y: 320
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: bd63c45a28504e6a0800000000000000
-      internalID: -6421001110046361893
+      spriteID: ffc92f363b213f14c97ea746204eec2d
+      internalID: -271207506
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueMage_Sprites_50
+      name: Mge1_18
       rect:
         serializedVersion: 2
         x: 320
-        y: 159
-        width: 26
-        height: 21
+        y: 320
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 38fef24c2c6d5af80800000000000000
-      internalID: -8095828623125123197
+      spriteID: 641960e895cb7924ea0f0f4824b68100
+      internalID: -960901949
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueMage_Sprites_51
+      name: Mge1_19
       rect:
         serializedVersion: 2
-        x: 353
-        y: 159
-        width: 25
-        height: 22
+        x: 0
+        y: 288
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 264681a1848199fe0800000000000000
-      internalID: -1181886729253526430
+      spriteID: 40e6570fabc9049488affb5bec257140
+      internalID: -45398424
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueMage_Sprites_52
+      name: Mge1_20
       rect:
         serializedVersion: 2
-        x: 34
-        y: 127
-        width: 24
-        height: 21
+        x: 32
+        y: 288
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: abb2ab2f4d3363480800000000000000
-      internalID: -8919885022262318150
+      spriteID: d313050e9a4b1b54a8600e0ba84122a5
+      internalID: -1234246088
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueMage_Sprites_53
+      name: Mge1_21
       rect:
         serializedVersion: 2
-        x: 65
-        y: 127
-        width: 25
-        height: 20
+        x: 64
+        y: 288
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 02d524bbebe97d520800000000000000
-      internalID: 2726822641418788128
+      spriteID: 6370917ad7320a548ab687ed891ce085
+      internalID: 1618578587
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueMage_Sprites_54
+      name: Mge1_22
       rect:
         serializedVersion: 2
-        x: 97
-        y: 127
-        width: 25
-        height: 22
+        x: 96
+        y: 288
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 2a91f023c53878ac0800000000000000
-      internalID: -3852966524192089694
+      spriteID: 3730429ef7e661a42a082fd197446437
+      internalID: 1123465435
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueMage_Sprites_55
+      name: Mge1_23
       rect:
         serializedVersion: 2
-        x: 130
-        y: 127
-        width: 24
-        height: 23
+        x: 128
+        y: 288
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: c9419be9c9bb5a440800000000000000
-      internalID: 4946566047088579740
+      spriteID: 1bc09f3ba4b2b8347a8d8e703c99e004
+      internalID: 2116942399
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueMage_Sprites_56
+      name: Mge1_24
       rect:
         serializedVersion: 2
-        x: 162
-        y: 127
-        width: 24
-        height: 20
+        x: 0
+        y: 256
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 3dd2a8cb2f9bee500800000000000000
-      internalID: 427483466843172307
+      spriteID: 7bbb1723d9243f44dadd73ab873a8c10
+      internalID: -1642873937
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueMage_Sprites_57
+      name: Mge1_25
       rect:
         serializedVersion: 2
-        x: 194
-        y: 127
-        width: 24
-        height: 20
+        x: 32
+        y: 256
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 85c878f24f94af200800000000000000
-      internalID: 214565245371780184
+      spriteID: 46870b053850b4b42953efdff3b9719a
+      internalID: -1078227750
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueMage_Sprites_58
+      name: Mge1_26
       rect:
         serializedVersion: 2
-        x: 225
-        y: 127
-        width: 25
-        height: 20
+        x: 64
+        y: 256
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 648b347e4a9d81450800000000000000
-      internalID: 6059832600904841286
+      spriteID: d5a75806fe4cd23488710866b56a6559
+      internalID: -8446715
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueMage_Sprites_59
+      name: Mge1_27
       rect:
         serializedVersion: 2
-        x: 257
-        y: 127
-        width: 25
-        height: 20
+        x: 96
+        y: 256
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: ec714913564c4c3c0800000000000000
-      internalID: -4340128201975785522
+      spriteID: a5a6d4fc59f8eb244acc8c8644a5cec5
+      internalID: -2103593289
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueMage_Sprites_60
+      name: Mge1_28
       rect:
         serializedVersion: 2
-        x: 288
-        y: 127
-        width: 26
-        height: 20
+        x: 128
+        y: 256
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 9dda7fee5e2d7bd00800000000000000
-      internalID: 988490528229666265
+      spriteID: 249792bacee3ef1439cc599780937598
+      internalID: 709779009
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueMage_Sprites_61
+      name: Mge1_29
       rect:
         serializedVersion: 2
-        x: 320
-        y: 127
-        width: 26
-        height: 22
+        x: 160
+        y: 256
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: bc0f30b69669c77f0800000000000000
-      internalID: -613450069718077237
+      spriteID: aee5288644b9f3a449a07c3067df85ed
+      internalID: -1540716348
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueMage_Sprites_62
+      name: Mge1_30
       rect:
         serializedVersion: 2
-        x: 354
-        y: 127
-        width: 24
-        height: 23
+        x: 192
+        y: 256
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 5f1c72f2637068590800000000000000
-      internalID: -7672436985878298123
+      spriteID: d461079524c215f48a130562e44849f3
+      internalID: -153834347
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueMage_Sprites_63
+      name: Mge1_31
       rect:
         serializedVersion: 2
         x: 224
-        y: 95
-        width: 26
-        height: 22
+        y: 256
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 25bd7ad230bb5f6b0800000000000000
-      internalID: -5263094967187285166
+      spriteID: 6899bf03dc3e6d44ba10041a8473d779
+      internalID: 294059988
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueMage_Sprites_64
+      name: Mge1_32
       rect:
         serializedVersion: 2
-        x: 257
-        y: 95
-        width: 25
-        height: 23
+        x: 256
+        y: 256
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 6ebeaa89ce2a09490800000000000000
-      internalID: -7741508622392562714
+      spriteID: a0833f2c5ffc36a4babdd0a4ccf28ffb
+      internalID: -2089336980
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueMage_Sprites_65
+      name: Mge1_33
       rect:
         serializedVersion: 2
-        x: 289
-        y: 95
-        width: 25
-        height: 23
+        x: 0
+        y: 224
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 958263a9fc5a574d0800000000000000
-      internalID: -3137419254329628583
+      spriteID: 978b2eedf98b05e4db7a5da94638e1c3
+      internalID: 1371791079
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueMage_Sprites_66
+      name: Mge1_34
       rect:
         serializedVersion: 2
-        x: 321
-        y: 95
-        width: 25
-        height: 22
+        x: 64
+        y: 224
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 61fb2c76d6e97bc80800000000000000
-      internalID: -8306996794932150506
+      spriteID: 2b9cb6160268d74409a6826766f8808f
+      internalID: -487955092
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueMage_Sprites_67
+      name: Mge1_35
       rect:
         serializedVersion: 2
-        x: 353
-        y: 95
-        width: 25
-        height: 22
+        x: 96
+        y: 224
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: e09abc25d3192d040800000000000000
-      internalID: 4670955456104737038
+      spriteID: 129cd4756f2636a4f9069a1075c4aa72
+      internalID: 1289190743
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueMage_Sprites_68
+      name: Mge1_36
       rect:
         serializedVersion: 2
-        x: 97
-        y: 63
-        width: 25
-        height: 22
+        x: 128
+        y: 224
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 03a179d582c9f17c0800000000000000
-      internalID: -4098385438701053392
+      spriteID: 1da11d451b7281149aebd2100d9d082f
+      internalID: -96707519
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueMage_Sprites_69
+      name: Mge1_37
       rect:
         serializedVersion: 2
-        x: 129
-        y: 63
-        width: 25
-        height: 22
+        x: 160
+        y: 224
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: e24f0d7edb0d1f7f0800000000000000
-      internalID: -580453362897456082
+      spriteID: 860e621f48e69eb44be236a6b0e55b2f
+      internalID: -537986365
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueMage_Sprites_70
+      name: Mge1_38
       rect:
         serializedVersion: 2
-        x: 161
-        y: 63
-        width: 25
-        height: 22
+        x: 192
+        y: 224
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 64e150da9e6ca9ec0800000000000000
-      internalID: -3559313848550482362
+      spriteID: 785e0a21f8e34f343bd8534ba28de88d
+      internalID: 1226282401
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueMage_Sprites_71
+      name: Mge1_39
       rect:
         serializedVersion: 2
-        x: 193
-        y: 63
-        width: 25
-        height: 22
+        x: 224
+        y: 224
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 38be32922b7b247f0800000000000000
-      internalID: -629739022056166525
+      spriteID: 007ea0561845bb34087e8745689725d7
+      internalID: -1046474961
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueMage_Sprites_72
+      name: Mge1_40
       rect:
         serializedVersion: 2
-        x: 225
-        y: 63
-        width: 25
-        height: 22
+        x: 256
+        y: 224
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 97c298dce55d2b840800000000000000
-      internalID: 5238483919737269369
+      spriteID: 46a5033c67cb3464288bbe2898f2203e
+      internalID: 699546001
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueMage_Sprites_73
+      name: Mge1_41
       rect:
         serializedVersion: 2
-        x: 257
-        y: 63
-        width: 25
-        height: 24
+        x: 288
+        y: 224
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 1cf696dc6bf7b4940800000000000000
-      internalID: 5281455411129053121
+      spriteID: 036cfd1d1e34cb24dbf611a3e1c6159d
+      internalID: 985483518
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueMage_Sprites_74
+      name: Mge1_42
       rect:
         serializedVersion: 2
-        x: 289
-        y: 63
-        width: 25
-        height: 22
+        x: 320
+        y: 224
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 4c1c2f859770b1730800000000000000
-      internalID: 3970775714221965764
+      spriteID: 827844ca966638d41b076837cfa42fab
+      internalID: -2032488240
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueMage_Sprites_75
+      name: Mge1_43
       rect:
         serializedVersion: 2
-        x: 321
-        y: 63
-        width: 25
-        height: 21
+        x: 352
+        y: 224
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 9698f0a24afd9cfd0800000000000000
-      internalID: -2321078236759488151
+      spriteID: df1453744a8bace47aa873ccb967a223
+      internalID: -901734787
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueMage_Sprites_76
+      name: Mge1_44
       rect:
         serializedVersion: 2
-        x: 353
-        y: 63
-        width: 25
-        height: 22
+        x: 0
+        y: 192
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 67503c8e015a85ca0800000000000000
-      internalID: -6027886609192254090
+      spriteID: 3c5f2f7a70d1ff24aa4774891fcab941
+      internalID: -693819341
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueMage_Sprites_77
+      name: Mge1_45
       rect:
         serializedVersion: 2
-        x: 20
-        y: 31
-        width: 38
-        height: 17
+        x: 32
+        y: 192
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: cbe9806ef347075b0800000000000000
-      internalID: -5372666537661915460
+      spriteID: c7a1109d8c3211d47896d87ee42ca15f
+      internalID: -1642025639
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueMage_Sprites_78
+      name: Mge1_46
       rect:
         serializedVersion: 2
-        x: 84
-        y: 31
-        width: 38
-        height: 18
+        x: 64
+        y: 192
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: e6492affc68956470800000000000000
-      internalID: 8387277474960151662
+      spriteID: 3f9298d71bb419c47a5a0087ad01a9f3
+      internalID: 973560239
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueMage_Sprites_79
+      name: Mge1_47
       rect:
         serializedVersion: 2
-        x: 149
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6da42beef56fc341b1d83dc4969ba94
+      internalID: 41750193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mge1_48
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd256f26bfe2a7947a322865cef46bdc
+      internalID: 1050590896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mge1_49
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f86c45247b53a498a27ff4009a5cc8
+      internalID: -1988741344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mge1_50
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a366784bebbe44fb742edc0b243d53
+      internalID: 1598653916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mge1_51
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be155db1839d481449374f660f60d648
+      internalID: 2140758787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mge1_52
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf503432bc39d0547a3ac928dbc5c7d8
+      internalID: 67513050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mge1_53
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5945087359d0f9d49868cc7c8af16a49
+      internalID: -1838516943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mge1_54
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecfccb5e1906e6a489cbd5dc65040cf3
+      internalID: -1346262895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mge1_55
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a14a0b8c6f1974c9359097b76bc55b
+      internalID: 1385565994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mge1_56
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655bebb57a3b8954e88b3580ff21dce4
+      internalID: 1833556688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mge1_57
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4868737dc981fdb4dab5b6f5e99b453d
+      internalID: -2030133377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mge1_58
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729374c68bc7ef44abc16c16afce97a0
+      internalID: 1642953027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mge1_59
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27014d9d260ca2d4fb2856da979aae21
+      internalID: 677366322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mge1_60
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16bb2b7f16f49904b8feaf3e30c2fae6
+      internalID: 653319848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mge1_61
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb14456405f6f0449f4723238a0d27b
+      internalID: 1081047609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mge1_62
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa1d5e08be53a6448e2b62d3c2c45a6
+      internalID: 1017767322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mge1_63
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db1c13936b658e43967561d36399cef
+      internalID: 1992085670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mge1_64
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e913d21311a6242408f92c6396504ead
+      internalID: 59356102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mge1_65
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513a0b5727dfa4b4a967db76815d4f8a
+      internalID: -140103071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mge1_66
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9823b8604b78744db6f7e9b7ec14852
+      internalID: 1588797669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mge1_67
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9eeb7d123091843997f30975572443
+      internalID: 1449104435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mge1_68
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97a462f632973d4c857b531a6ffbcd7
+      internalID: 472743779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mge1_69
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21343d812b58f045bc2e8e1653fca75
+      internalID: -1659485835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mge1_70
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c75fb21b839fc4e9149b30519c99b3
+      internalID: 1314832325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mge1_71
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b0fbfaaf8ae6c4f8713dbb923a6c74
+      internalID: 2015389956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mge1_72
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617242e3a295a524a86cf56aca7393d4
+      internalID: -13904134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mge1_73
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670bdf67f2f6ab1489530c3b65d0ca6d
+      internalID: 1359554327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mge1_74
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee6b7e6ae354644d9d9e749838ac835
+      internalID: 188616888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mge1_75
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48e201b5a6dace4ba3f13991b78326e
+      internalID: 604445959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mge1_76
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7de76705581d74fbfd05682b7c4776
+      internalID: 1133680531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mge1_77
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d166ecd6e22f40547907ecf803490887
+      internalID: 1684075516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mge1_78
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690456ec8eae7f54a9c4e74279f6b610
+      internalID: 1478600835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mge1_79
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c36d31d12493b547b294c3d91c61096
+      internalID: -946249064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mge1_80
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09174a02a6f15554b8e5d92b20723f6c
+      internalID: 1035380391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mge1_81
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9108358e84277ee4886abaa89c5d6684
+      internalID: -1776165148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mge1_82
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e643691f69f7494458366c34b4402457
+      internalID: -1793863670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mge1_83
+      rect:
+        serializedVersion: 2
+        x: 0
         y: 32
-        width: 17
-        height: 11
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: f83c673134a965690800000000000000
-      internalID: -7613728507143208049
+      spriteID: afdfaf0af89a44142aff01433b3316eb
+      internalID: -1731987252
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueMage_Sprites_80
+      name: Mge1_84
       rect:
         serializedVersion: 2
-        x: 162
-        y: 31
-        width: 24
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d85963e6e8b75f170800000000000000
-      internalID: 8211605347244610957
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BlueMage_Sprites_81
-      rect:
-        serializedVersion: 2
-        x: 216
+        x: 32
         y: 32
-        width: 14
-        height: 14
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 37ed2613799042030800000000000000
-      internalID: 3468908157955399283
+      spriteID: 3bf12f25f0645cf4ca6bcc0a6a5801ad
+      internalID: -1226903646
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueMage_Sprites_82
+      name: Mge1_85
       rect:
         serializedVersion: 2
-        x: 226
-        y: 31
-        width: 24
-        height: 21
+        x: 64
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: cdf99b54abc122c80800000000000000
-      internalID: -8349079172832190500
+      spriteID: 6b2be66ea28ec02408232648256a3ed8
+      internalID: -1298094106
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueMage_Sprites_83
+      name: Mge1_86
       rect:
         serializedVersion: 2
-        x: 284
-        y: 31
-        width: 30
-        height: 22
+        x: 96
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 99e61f91b02be54a0800000000000000
-      internalID: -6602644242928931175
+      spriteID: 27dbb73d74d32454fb68bc1c4cf3f74e
+      internalID: 1235764698
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueMage_Sprites_84
+      name: Mge1_87
       rect:
         serializedVersion: 2
-        x: 353
-        y: 31
-        width: 25
-        height: 22
+        x: 128
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 3383f5421fc5c6d50800000000000000
-      internalID: 6731857733779142707
+      spriteID: 4ec67e18b63fdc94099504887376143a
+      internalID: 1965416240
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueMage_Sprites_85
+      name: Mge1_88
       rect:
         serializedVersion: 2
-        x: 215
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c114578992923784f8c37ee8af8719e2
+      internalID: 595097804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mge1_89
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aafb9d11657aa5c45999dd1fc0271ac7
+      internalID: 2118624689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mge1_90
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad8715576b4ee44ea3b54f56706ffbb
+      internalID: 648127081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mge1_91
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82daebdf6a1b69241be582fa675b7958
+      internalID: -1670380083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mge1_92
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e4e652fa928294c8df6d095f09c361
+      internalID: 429941659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mge1_93
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19639421f44ac64dae68423c118a078
+      internalID: 1340829987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mge1_94
+      rect:
+        serializedVersion: 2
+        x: 192
         y: 0
-        width: 37
-        height: 12
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: c79a59a4a760c2180800000000000000
-      internalID: -9138922421534480004
+      spriteID: 1e5d93025b477634792a4a49a24ab650
+      internalID: 1864593801
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueMage_Sprites_86
+      name: Mge1_95
       rect:
         serializedVersion: 2
-        x: 279
+        x: 224
         y: 0
-        width: 37
-        height: 11
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: e0c3aa16954d43430800000000000000
-      internalID: 3761865069116931086
+      spriteID: 67af5d24c80989a40a3c30f91965e0ab
+      internalID: -1541184013
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueMage_Sprites_87
+      name: Mge1_96
       rect:
         serializedVersion: 2
-        x: 341
+        x: 256
         y: 0
-        width: 37
-        height: 14
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 3934af5b9eb810130800000000000000
-      internalID: 3531257418731897747
+      spriteID: 6090c61735674c64cb3cfa9ec5a7b282
+      internalID: 745516125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mge1_97
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6d9d9cf0a183e4b8e1460961772cf1
+      internalID: -1708646079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mge1_98
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adfe36a9252f8b848a92b65e23a0313b
+      internalID: 1539840250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mge1_99
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf127528b414d84f9587e25d0755344
+      internalID: -377051192
       vertices: []
       indices: 
       edges: []
@@ -2326,7 +2590,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 3c4ea1b9fd508714ebfc11717b4394da
     internalID: 0
     vertices: []
     indices: 
@@ -2336,94 +2600,106 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      BlueMage_Sprites_0: 9213987883630002970
-      BlueMage_Sprites_1: -13992431522750535
-      BlueMage_Sprites_10: 2063921448647551953
-      BlueMage_Sprites_11: -7770037180350441600
-      BlueMage_Sprites_12: -5191144091905592584
-      BlueMage_Sprites_13: -9108104245436038986
-      BlueMage_Sprites_14: 3916186466889951666
-      BlueMage_Sprites_15: 5873262795155242749
-      BlueMage_Sprites_16: -8191274039262522842
-      BlueMage_Sprites_17: -2148309629403657492
-      BlueMage_Sprites_18: 8662175555564826786
-      BlueMage_Sprites_19: 7671440669286618322
-      BlueMage_Sprites_2: -808206705391319300
-      BlueMage_Sprites_20: -8151373572851668832
-      BlueMage_Sprites_21: -3003844128226534030
-      BlueMage_Sprites_22: 8615558212618207317
-      BlueMage_Sprites_23: 8410475913702309508
-      BlueMage_Sprites_24: -739944545644186574
-      BlueMage_Sprites_25: -6932952382963380567
-      BlueMage_Sprites_26: -3745067287249483078
-      BlueMage_Sprites_27: 3422986686423862411
-      BlueMage_Sprites_28: -8733251175260246329
-      BlueMage_Sprites_29: 5548159435290395748
-      BlueMage_Sprites_3: 2963209868660643897
-      BlueMage_Sprites_30: 6565171895917994125
-      BlueMage_Sprites_31: -4421212713503598257
-      BlueMage_Sprites_32: -8438762889646061644
-      BlueMage_Sprites_33: -2404788441605879103
-      BlueMage_Sprites_34: 8477003726933594072
-      BlueMage_Sprites_35: 6099557043391819547
-      BlueMage_Sprites_36: 2540608339550098687
-      BlueMage_Sprites_37: 3458003319601589899
-      BlueMage_Sprites_38: 718830878848708180
-      BlueMage_Sprites_39: -2658855250798221408
-      BlueMage_Sprites_4: -352623925795390882
-      BlueMage_Sprites_40: -2594687188028607314
-      BlueMage_Sprites_41: 4881141347929054841
-      BlueMage_Sprites_42: -2189570430403643028
-      BlueMage_Sprites_43: 6864276464567273636
-      BlueMage_Sprites_44: 2120827959542172879
-      BlueMage_Sprites_45: 7570003626311187420
-      BlueMage_Sprites_46: 5752619774038106095
-      BlueMage_Sprites_47: -7596559184673096069
-      BlueMage_Sprites_48: -2311690831320800141
-      BlueMage_Sprites_49: -6421001110046361893
-      BlueMage_Sprites_5: 6454444472180326926
-      BlueMage_Sprites_50: -8095828623125123197
-      BlueMage_Sprites_51: -1181886729253526430
-      BlueMage_Sprites_52: -8919885022262318150
-      BlueMage_Sprites_53: 2726822641418788128
-      BlueMage_Sprites_54: -3852966524192089694
-      BlueMage_Sprites_55: 4946566047088579740
-      BlueMage_Sprites_56: 427483466843172307
-      BlueMage_Sprites_57: 214565245371780184
-      BlueMage_Sprites_58: 6059832600904841286
-      BlueMage_Sprites_59: -4340128201975785522
-      BlueMage_Sprites_6: 121179636798023734
-      BlueMage_Sprites_60: 988490528229666265
-      BlueMage_Sprites_61: -613450069718077237
-      BlueMage_Sprites_62: -7672436985878298123
-      BlueMage_Sprites_63: -5263094967187285166
-      BlueMage_Sprites_64: -7741508622392562714
-      BlueMage_Sprites_65: -3137419254329628583
-      BlueMage_Sprites_66: -8306996794932150506
-      BlueMage_Sprites_67: 4670955456104737038
-      BlueMage_Sprites_68: -4098385438701053392
-      BlueMage_Sprites_69: -580453362897456082
-      BlueMage_Sprites_7: 1712572717860161649
-      BlueMage_Sprites_70: -3559313848550482362
-      BlueMage_Sprites_71: -629739022056166525
-      BlueMage_Sprites_72: 5238483919737269369
-      BlueMage_Sprites_73: 5281455411129053121
-      BlueMage_Sprites_74: 3970775714221965764
-      BlueMage_Sprites_75: -2321078236759488151
-      BlueMage_Sprites_76: -6027886609192254090
-      BlueMage_Sprites_77: -5372666537661915460
-      BlueMage_Sprites_78: 8387277474960151662
-      BlueMage_Sprites_79: -7613728507143208049
-      BlueMage_Sprites_8: 1114227758078267258
-      BlueMage_Sprites_80: 8211605347244610957
-      BlueMage_Sprites_81: 3468908157955399283
-      BlueMage_Sprites_82: -8349079172832190500
-      BlueMage_Sprites_83: -6602644242928931175
-      BlueMage_Sprites_84: 6731857733779142707
-      BlueMage_Sprites_85: -9138922421534480004
-      BlueMage_Sprites_86: 3761865069116931086
-      BlueMage_Sprites_87: 3531257418731897747
-      BlueMage_Sprites_9: -5210068766915671651
+      Mge1_0: -2066491816
+      Mge1_1: 727995941
+      Mge1_10: 960299886
+      Mge1_11: 805419829
+      Mge1_12: -1564878824
+      Mge1_13: -899229011
+      Mge1_14: 135905582
+      Mge1_15: 1072202539
+      Mge1_16: -982158234
+      Mge1_17: -271207506
+      Mge1_18: -960901949
+      Mge1_19: -45398424
+      Mge1_2: 383454805
+      Mge1_20: -1234246088
+      Mge1_21: 1618578587
+      Mge1_22: 1123465435
+      Mge1_23: 2116942399
+      Mge1_24: -1642873937
+      Mge1_25: -1078227750
+      Mge1_26: -8446715
+      Mge1_27: -2103593289
+      Mge1_28: 709779009
+      Mge1_29: -1540716348
+      Mge1_3: -89365670
+      Mge1_30: -153834347
+      Mge1_31: 294059988
+      Mge1_32: -2089336980
+      Mge1_33: 1371791079
+      Mge1_34: -487955092
+      Mge1_35: 1289190743
+      Mge1_36: -96707519
+      Mge1_37: -537986365
+      Mge1_38: 1226282401
+      Mge1_39: -1046474961
+      Mge1_4: 493889825
+      Mge1_40: 699546001
+      Mge1_41: 985483518
+      Mge1_42: -2032488240
+      Mge1_43: -901734787
+      Mge1_44: -693819341
+      Mge1_45: -1642025639
+      Mge1_46: 973560239
+      Mge1_47: 41750193
+      Mge1_48: 1050590896
+      Mge1_49: -1988741344
+      Mge1_5: -1746045191
+      Mge1_50: 1598653916
+      Mge1_51: 2140758787
+      Mge1_52: 67513050
+      Mge1_53: -1838516943
+      Mge1_54: -1346262895
+      Mge1_55: 1385565994
+      Mge1_56: 1833556688
+      Mge1_57: -2030133377
+      Mge1_58: 1642953027
+      Mge1_59: 677366322
+      Mge1_6: 1422633209
+      Mge1_60: 653319848
+      Mge1_61: 1081047609
+      Mge1_62: 1017767322
+      Mge1_63: 1992085670
+      Mge1_64: 59356102
+      Mge1_65: -140103071
+      Mge1_66: 1588797669
+      Mge1_67: 1449104435
+      Mge1_68: 472743779
+      Mge1_69: -1659485835
+      Mge1_7: -1459438450
+      Mge1_70: 1314832325
+      Mge1_71: 2015389956
+      Mge1_72: -13904134
+      Mge1_73: 1359554327
+      Mge1_74: 188616888
+      Mge1_75: 604445959
+      Mge1_76: 1133680531
+      Mge1_77: 1684075516
+      Mge1_78: 1478600835
+      Mge1_79: -946249064
+      Mge1_8: 860175130
+      Mge1_80: 1035380391
+      Mge1_81: -1776165148
+      Mge1_82: -1793863670
+      Mge1_83: -1731987252
+      Mge1_84: -1226903646
+      Mge1_85: -1298094106
+      Mge1_86: 1235764698
+      Mge1_87: 1965416240
+      Mge1_88: 595097804
+      Mge1_89: 2118624689
+      Mge1_9: 1157080317
+      Mge1_90: 648127081
+      Mge1_91: -1670380083
+      Mge1_92: 429941659
+      Mge1_93: 1340829987
+      Mge1_94: 1864593801
+      Mge1_95: -1541184013
+      Mge1_96: 745516125
+      Mge1_97: -1708646079
+      Mge1_98: 1539840250
+      Mge1_99: -377051192
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
