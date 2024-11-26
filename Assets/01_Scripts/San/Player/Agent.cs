@@ -12,12 +12,7 @@ public class Agent : Entity
 
     public Transform target;
     public Transform atkTarget;
-    public float jumpPower = 12f;
-    public int jumpCount = 2;
-    public float dashSpeed = 25f;
-    public float dashDuration = 0.2f;
 
-    private int _currentJumpCount = 0;
     private EntityMover _mover;
     private AttackCompo _atkCompo; // 1
 
@@ -36,24 +31,11 @@ public class Agent : Entity
         GetCompo<EntityAnimator>().OnAnimationEnd += HandleAnimationEnd;
     }
 
-    public void HandleDash()
-    {
-        if(_atkCompo.AttemptSkill())
-        {
-            ChangeState("Dash");
-        }
-    }
-
     private void HandleAnimationEnd()
     {
         CurrentState.AnimationEndTrigger();
     }
 
-    public void HandleAttack()
-    {
-        if (_atkCompo.AttemptAttack())
-            ChangeState("Attack");
-    }
 
     public float CheckEnemyDistance()
     {
@@ -112,11 +94,6 @@ public class Agent : Entity
     public void ChangeState(string newState) 
         => _stateMachine.ChangeState(newState);
     
-    private void HandleGroundStateChange(bool isGrounded)
-    {
-        if (isGrounded)
-            _currentJumpCount = jumpCount;
-    }
 
     private void Update()
     {
