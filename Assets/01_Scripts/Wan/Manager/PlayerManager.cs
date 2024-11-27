@@ -13,7 +13,7 @@ public class PlayerManager : MonoSingleton<PlayerManager>
     public void SellHero(EntityStatusSO enityStatus)
     {
         enityStatus.Upgraded = 0;
-      //  overViewUI.    
+        Destroy(overViewUI.transform.Find(enityStatus.name));
         
     }
 
