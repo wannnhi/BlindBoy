@@ -12,21 +12,7 @@ public class ConquestInitialize : MonoBehaviour
         percentText = GetComponent<TMP_Text>();
     }
 
-    private void OnEnable()
-    {
-      
-        CountryManager.instance.OnDataUpdated.AddListener(UpdateText);
-        UpdateText();
-    }
-
-    private void OnDisable()
-    {
-        // 데이터 변경 시 리스너 해제
-        CountryManager.instance.OnDataUpdated.RemoveListener(UpdateText);
-    }
-
-    // 텍스트 갱신
-    private void UpdateText()
+    public void UpdateText()
     {   
         int value = CountryManager.instance.GetCountryValue(countryName);
         percentText.SetText($"{countryName}\n{value}%"); // 국가 이름과 값 출력
