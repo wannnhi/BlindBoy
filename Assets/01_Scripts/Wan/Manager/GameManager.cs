@@ -22,5 +22,15 @@ public class GameManager : MonoBehaviour
         {
             heroStats.Initialize();
         }
+
+    }
+
+    public void InitializeConquestValue()
+    {
+        ConquestInitialize[] conquestInitialize = FindObjectsOfType<ConquestInitialize>();
+        foreach (var conquest in conquestInitialize)
+        {
+            conquest.UpdateText();
+        }
     }
 }
