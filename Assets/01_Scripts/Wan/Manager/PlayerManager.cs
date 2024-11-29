@@ -14,7 +14,7 @@ public class PlayerManager : MonoSingleton<PlayerManager>
     {
         enityStatus.Upgraded = 0;
         Destroy(overViewUI.transform.Find(enityStatus.name));
-        
+
     }
 
     public void AddMoney(float money)
@@ -24,19 +24,19 @@ public class PlayerManager : MonoSingleton<PlayerManager>
 
 
     public void AddHero(EntityStatusSO enityStatus)
-    {   
-       
+    {
+
         if (myHero.Contains(enityStatus))
         {
             StartCoroutine(MiniCoroutine());
-            
+
             enityStatus.Upgraded += 1;
         }
         else
         {
             myHero.Add(enityStatus);
             Debug.Log($"새로운 영웅 추가: {enityStatus.name}");
-           
+
         }
         GameManager.Instance.InitializeAllHeroStats();
     }

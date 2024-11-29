@@ -56,7 +56,7 @@ public class GachaButton : MonoBehaviour
                     PlayerManager.instance.AddHero(entity);
                     return;
                 }
-            }         
+            }
         }
         else
         {
@@ -71,3 +71,4 @@ public class GachaButton : MonoBehaviour
         isClicked = false;
     }
 }
+이거 수정해줘 방금 바꾼거에 맞게
