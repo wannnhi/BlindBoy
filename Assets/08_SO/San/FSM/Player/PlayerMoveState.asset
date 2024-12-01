@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: PlayerMoveState
   m_EditorClassIdentifier: 
   stateName: Move
-  className: PlayerMoveState
+  className: AgentMoveState
   stateAnim: {fileID: 11400000, guid: 24e013e331df4f44ba80d4be958dd621, type: 2}

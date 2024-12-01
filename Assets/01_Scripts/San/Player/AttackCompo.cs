@@ -6,7 +6,6 @@ public abstract class AttackCompo : MonoBehaviour, IEntityComponent
     protected EntityAnimator _animator;
 
     [SerializeField] private StateSO _atkState;
-    [SerializeField] private StateSO _skillState;
     [SerializeField] private DamageCaster _damageCaster;
 
 
@@ -19,15 +18,6 @@ public abstract class AttackCompo : MonoBehaviour, IEntityComponent
     {
         _agent = entity as Agent;
         _damageCaster.InitCaster(entity);
-    }
-
-    public bool AttemptSkill()
-    {
-        if (_agent.CurrentState == _agent.GetState(_skillState)) return false;
-        if (_lastDashTime + _agent.status.skilCoolDown > Time.time) return false;
-
-        _lastDashTime = Time.time;
-        return true;
     }
 
     public bool AttemptAttack()

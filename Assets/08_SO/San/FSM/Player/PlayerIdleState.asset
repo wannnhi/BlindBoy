@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: PlayerIdleState
   m_EditorClassIdentifier: 
   stateName: Idle
-  className: PlayerIdleState
+  className: AgentIdleState
   stateAnim: {fileID: 11400000, guid: 4e7172e1fd26b704ea10ea16ccfae1d4, type: 2}

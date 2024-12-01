@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: PlayerFallState
   m_EditorClassIdentifier: 
   stateName: Fall
-  className: PlayerFallState
+  className: AgentFallState
   stateAnim: {fileID: 11400000, guid: 32f5b9b371da6ba4487b8bc5b7d13dd7, type: 2}

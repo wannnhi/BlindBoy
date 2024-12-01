@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: PlayerAttackState
   m_EditorClassIdentifier: 
   stateName: Attack
-  className: PlayerAttackState
+  className: AgentAttackState
   stateAnim: {fileID: 11400000, guid: 28f20038ea5872345b558058b54309e1, type: 2}
